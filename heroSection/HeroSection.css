@@ -1,0 +1,99 @@
+.Hero_Section {
+  width: 1540px;
+  height: 708px;
+  background: #101010;
+}
+.prime_vip_section {
+  display: flex;
+  width: 540px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+}
+.text_section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  align-self: stretch;
+}
+
+.inner_text_section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 12px;
+  align-self: stretch;
+}
+
+.heading_prime_vip {
+  color: #fac211;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px; /* 133.333% */
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.prime_vip_paragraph {
+  color: #fff;
+  font-family: Sora;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px; /* 140% */
+}
+
+.content {
+  align-self: stretch;
+  color: rgba(255, 255, 255, 0.52);
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}
+
+.demo_contact {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 12px;
+}
+.request_demo{
+    display: flex;
+height: 48px;
+padding: 8px 24px;
+align-items: center;
+gap: 8px;
+border-radius: 8px;
+background: #FAC211;
+color: #222;
+leading-trim: both;
+text-edge: cap;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.contact_sales{
+    display: flex;
+height: 48px;
+padding: 8px 24px;
+align-items: center;
+gap: 8px;
+border-radius: 8px;
+background: #FFF;
+color: #222;
+leading-trim: both;
+text-edge: cap;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
