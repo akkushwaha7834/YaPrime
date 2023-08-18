@@ -1,0 +1,25 @@
+navbar_styling {
+  border-bottom: 1px solid #ebebeb;
+  background: #fff;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.02);
+
+  display: flex;
+  width: 1440px;
+  height: 72px;
+  padding: 12px 120px;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.logo_layout{
+    display: flex;
+    width: 108px;
+    height: 48px;
+    padding: 0.09px 0px 0.087px 0px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+ 
