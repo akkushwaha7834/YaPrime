@@ -481,11 +481,16 @@ background: #FAC211 !important;
     display: flex;
 
 padding: 64px 120px;
-
+background-image: url(../images/BG.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
 gap: 64px;
 
 
 }
+
+
 .statistic h1{
     color: #FAC211;
 
@@ -503,4 +508,21 @@ font-style: normal;
 font-weight: 700;
 line-height: 24px; /* 120% */
 }
+.statistic p{
+    color: rgba(34, 34, 34, 0.52);
+
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 142.857% */
+}
 /* end of statistics Section */
+
+
+/* skill section  */
+
+.skill-section{
+    padding: 128px 120px;
+
+}
+/* end of  skill section  */
