@@ -1,9 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Sora:wght@100;200;300;400;500;600;700;800&display=swap");
+
+
 .Hero_Section {
   width: 1540px;
   height: 708px;
   background: #101010;
-
-
 }
 .prime_vip_section {
   display: flex;
@@ -177,12 +179,15 @@
     -40.41410827636719px -40.41410827636719px 121.24234008789062px 0px
       rgba(49, 49, 49, 0.5);
 }
-.eclipse_3{
-    width: 565.374px;
-height: 565.374px;
-flex-shrink: 0;
-border-radius: 565.374px;
-border: 7.852px solid #2B2B2B;
-background: #171717;
-box-shadow: 31.409658432006836px 31.409658432006836px 94.22895812988281px 0px #000, -31.409658432006836px -31.409658432006836px 94.22895812988281px 0px rgba(49, 49, 49, 0.50);
+.eclipse_3 {
+  width: 565.374px;
+  height: 565.374px;
+  flex-shrink: 0;
+  border-radius: 565.374px;
+  border: 7.852px solid #2b2b2b;
+  background: #171717;
+  box-shadow: 31.409658432006836px 31.409658432006836px 94.22895812988281px 0px
+      #000,
+    -31.409658432006836px -31.409658432006836px 94.22895812988281px 0px
+      rgba(49, 49, 49, 0.5);
 }
