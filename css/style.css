@@ -54,7 +54,7 @@
     align-items: center;
     gap: 4px;
     color: #222;
-    font-family: Inter;
+   
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -71,7 +71,7 @@
     color: #222;
     leading-trim: both;
     text-edge: cap;
-    font-family: Inter;
+   
     font-size: 14px;
     font-style: normal;
     font-weight: 600;
@@ -103,6 +103,9 @@
   /* End Of Header section */
 
   /* Hero section */
+  .hero-section{
+    position: relative;
+  }
   .slider__navi {
 	position: absolute;
 	top: 50%;
@@ -130,13 +133,7 @@
 	background: rgba(255,255,255,1);
 }
 
-body {
-	position: relative;
-	font-size: 100%;
-	font-family: 'Montserrat', sans-serif;
-	font-weight: 400;
-	min-height: 100vh;
-}
+
 
 .flex__container {
 	position: absolute;
@@ -477,3 +474,33 @@ border: none !important;
 background: #FAC211 !important;
 }
 /* End oF Talk to Us  */
+
+
+/* statistics Section */
+.statistic{
+    display: flex;
+
+padding: 64px 120px;
+
+gap: 64px;
+
+
+}
+.statistic h1{
+    color: #FAC211;
+
+font-size: 56px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: -1px;
+}
+.statistic h4{
+    color: #222;
+
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 120% */
+}
+/* end of statistics Section */
