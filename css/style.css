@@ -1564,20 +1564,19 @@ textarea:focus {
   background: #fff;
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
     0px 4px 4px 0px rgba(0, 0, 0, 0.02);
-    flex-direction: column;
-
+  flex-direction: column;
 }
 .yalogo_section {
   display: flex;
- 
+
   padding: 0px 1.388px 0px 1.387px;
   justify-content: center;
   align-items: center;
   flex-shrink: 0;
   justify-content: center;
   width: 378px;
-height: 240px;
-flex-shrink: 0;
+  height: 240px;
+  flex-shrink: 0;
 }
 .yaPara {
   align-self: stretch;
@@ -1588,4 +1587,60 @@ flex-shrink: 0;
   font-style: normal;
   font-weight: 700;
   line-height: 32px; /* 133.333% */
+}
+/* faq accordian Styling */
+
+h2 {
+  color: #222;
+  font-family: Sora;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px; /* 140% */
+}
+.accordion-section .panel-default > .panel-heading {
+  border: 0;
+  background: #f4f4f4;
+  padding: 0;
+}
+.accordion-section .panel-default .panel-title a {
+  display: block;
+  font-size: 16px;
+}
+.accordion-section .panel-default .panel-title a:after {
+  font-family: "FontAwesome";
+  font-style: normal;
+  font-size: 3rem;
+  content: "\f106";
+  color: #222;
+  float: right;
+  margin-top: -12px;
+}
+.accordion-section .panel-default .panel-title a.collapsed:after {
+  content: "\f107";
+}
+.accordion-section .panel-default .panel-body {
+  font-size: 1rem;
+}
+.typo_styling {
+  color: #222;
+  font-family: Sora;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px; /* 140% */
+}
+.styling_anchor {
+  text-decoration: none !important;
+  color: #222 !important;
+}
+.yellow_text {
+  color: #fac211;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px; /* 133.333% */
+  letter-spacing: 2px;
+  text-transform: uppercase;
 }
