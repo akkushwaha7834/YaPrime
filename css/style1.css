@@ -1208,42 +1208,7 @@ textarea:focus {
   top: 0;
   right: 0;
 }
-.eclipse_1 {
-  width: 880px;
-  height: 880px;
-  flex-shrink: 0;
-  border-radius: 880px;
-  border: 12.222px solid #2b2b2b;
-  background: #292929;
-  box-shadow: 48.888893127441406px 48.888893127441406px 146.66668701171875px 0px
-      #000,
-    -48.888893127441406px -48.888893127441406px 146.66668701171875px 0px
-      rgba(49, 49, 49, 0.5);
-}
-.eclipse_2 {
-  width: 727.454px;
-  height: 727.454px;
-  flex-shrink: 0;
-  border-radius: 727.454px;
-  border: 10.104px solid #2b2b2b;
-  background: #292929;
-  box-shadow: 40.41410827636719px 40.41410827636719px 121.24234008789062px 0px
-      #000,
-    -40.41410827636719px -40.41410827636719px 121.24234008789062px 0px
-      rgba(49, 49, 49, 0.5);
-}
-.eclipse_3 {
-  width: 565.374px;
-  height: 565.374px;
-  flex-shrink: 0;
-  border-radius: 565.374px;
-  border: 7.852px solid #2b2b2b;
-  background: #171717;
-  box-shadow: 31.409658432006836px 31.409658432006836px 94.22895812988281px 0px
-      #000,
-    -31.409658432006836px -31.409658432006836px 94.22895812988281px 0px
-      rgba(49, 49, 49, 0.5);
-}
+
 
 /* Hero Banner Section Section */
 
