@@ -1283,7 +1283,6 @@ textarea:focus {
 }
 .Benefit_first_section {
   display: flex;
-
   flex-direction: column;
   justify-content: center;
   align-items: center;
