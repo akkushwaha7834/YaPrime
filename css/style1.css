@@ -1166,37 +1166,7 @@ textarea:focus {
   height: 400px;
   flex-shrink: 0;
 }
-.image_1 {
-  width: 375.53px;
-  height: 242.65px;
-  transform: rotate(-45deg);
-  flex-shrink: 0;
-  border-radius: 23.11px;
-  border-bottom: 2.311px solid rgba(243, 243, 243, 0.72);
-  border-left: 2.311px solid rgba(243, 243, 243, 0.72);
-  background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-}
-.image_2 {
-  width: 368.933px;
-  height: 238.388px;
-  transform: rotate(-45deg);
-  flex-shrink: 0;
-  border-radius: 22.704px;
-  border-bottom: 2.27px solid rgba(255, 255, 255, 0.5);
-  border-left: 2.27px solid rgba(255, 255, 255, 0.5);
-  background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-}
-.image_3 {
-  width: 350.295px;
-  height: 226.344px;
-  transform: rotate(-45deg);
-  flex-shrink: 0;
-  border-radius: 21.557px;
-  border-bottom: 2.156px solid rgba(255, 252, 252, 0.77);
-  border-left: 2.156px solid rgba(255, 252, 252, 0.77);
-  background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-  box-shadow: 0px 50.524593353271484px 9.18628978729248px 0px rgba(0, 0, 0, 0.2);
-}
+
 .postioning {
   position: relative;
 }
