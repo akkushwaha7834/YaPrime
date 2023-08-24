@@ -1,5 +1,5 @@
 /*Banner Start*/
-.mt_4_banner {
+/* .mt_4_banner {
   background: url(../images/mt4-banner.webp);
   background-position: center;
   background-repeat: no-repeat;
@@ -47,11 +47,11 @@
 .start_broker {
   text-align: center;
   margin-top: 30px;
-}
+} */
 /*Banner Start*/
 
 /*Benefits Start*/
-.benefits_sec {
+/* .benefits_sec {
   padding: 100px 0;
   background: url(../images/benefits_bg.png);
   background-repeat: no-repeat;
@@ -107,11 +107,11 @@
   font-style: normal;
   font-weight: 400;
   line-height: 20px;
-}
+} */
 /*Benefits Start*/
 
 /*Pricing Start*/
-.pricing_sec {
+/* .pricing_sec {
   background: url(../images/pricing_bg.png);
   padding: 200px 0 150px;
   background-repeat: no-repeat;
@@ -267,17 +267,17 @@
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
-  line-height: 24px; /* 150% */
+  line-height: 24px; 
 }
 .bottom_image {
   float: right;
   margin-top: -50px;
-}
+} */
 
 /*Pricing Start*/
 
 /* Talk to Us  */
-.talk_to_us_sec {
+/* .talk_to_us_sec {
   padding: 150px 0 100px;
 }
 .ContactFormContainer {
@@ -355,11 +355,11 @@ textarea:focus {
   border-radius: 8px;
   border: none !important;
   background: #fac211 !important;
-}
+} */
 /* End oF Talk to Us  */
 
 /* footer section */
-.footer-section {
+/* .footer-section {
   display: flex;
 
   padding: 50px;
@@ -412,7 +412,7 @@ h4 {
 }
 .footer-section p b {
   color: #000;
-}
+} */
 /* end of footer section */
 
 * {
@@ -751,7 +751,7 @@ h4 {
 /* end of Hero section */
 
 /* footer section */
-.footer-section {
+/* .footer-section {
   display: flex;
 
   padding: 50px;
@@ -796,7 +796,7 @@ h4 {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-}
+} */
 
 /* end of footer section */
 
@@ -926,8 +926,6 @@ textarea:focus {
 /* end of  skill section  */
 /* dark header css */
 
-@import url("https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Sora:wght@100;200;300;400;500;600;700;800&display=swap");
 
 .navbar_styling_dark {
   display: flex;

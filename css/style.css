@@ -1,11 +1,16 @@
+
+
+
+
 *{
     margin: 0;
     padding: 0;
     text-decoration:none ;
     list-style: none;
+   
 }
 /* hearder Section  */
-.outer_navbar_styling {
+/* .outer_navbar_styling {
     z-index: 100;
     display: inline-flex;
     position: fixed;
@@ -58,7 +63,7 @@
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 24px; /* 171.429% */
+    line-height: 24px; 
   }
   .free_qoute {
     display: flex;
@@ -99,11 +104,11 @@
   .right_arrow {
     width: 16px;
     height: 16px;
-  }
+  } */
   /* End Of Header section */
 
   /* Hero section */
-  .hero-section{
+  /* .hero-section{
     position: relative;
   }
   .slider__navi {
@@ -235,7 +240,7 @@
 	opacity: 1;
 }
 
-/* Piplup */
+
 
 .flex--piplup .flex__item--left {
 	
@@ -245,7 +250,7 @@
 	background: #f8d41f;
 }
 
-/* Pikachu */
+
 
 .flex--pikachu .flex__item--left {
 	background: #f8d41f;
@@ -255,7 +260,7 @@
 	background: #333;
 }
 
-/* Blaziken */
+
 
 .flex--blaziken .flex__item--left {
 	background: #f8d41f;
@@ -265,7 +270,6 @@
 	background: #333;
 }
 
-/* Dialga */
 
 .flex--dialga .flex__item--left {
 	
@@ -275,7 +279,7 @@
 	background: #f8d41f;
 }
 
-/* Zekrom */
+
 
 .flex--zekrom .flex__item--left {
 	background: #f8d41f;
@@ -303,7 +307,7 @@
 	transition: opacity 0.43s 0.6s, transform 0.4s 0.65s cubic-bezier(0, 0.88, 0.4, 0.93);
 }
 
-/* Animate-START point */
+
 
 .flex__container.animate--start .flex__content {
 	transform: translate3d(0,-200%,0);
@@ -315,7 +319,7 @@
 	opacity: 0;
 }
 
-/* Animate-END point */
+
 
 .flex__container.animate--end .flex__item--left {
 	transform: scaleY(0);
@@ -333,11 +337,11 @@
 .flex__container.animate--end .pokemon__img {
 	transform: translate3d(200px,0,0);
 	opacity: 0;
-}
+} */
   /* end of Hero section */
 
 /* footer section */
-.footer-section{
+/* .footer-section{
     display: flex;
   
     padding: 50px;
@@ -389,7 +393,7 @@ h4{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-}
+} */
 
 /* end of footer section */
 
@@ -536,7 +540,7 @@ line-height: 56px
 }
 .Skill-text p{
   color: rgba(34, 34, 34, 0.52);
-font-family: Inter;
+
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -560,7 +564,7 @@ line-height: 24px;
 }
 .skill-card p{
   color: rgba(34, 34, 34, 0.52);
-font-family: Inter;
+
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -568,7 +572,7 @@ line-height: 24px
 }
 .skill-card1 p{
   color: rgba(34, 34, 34, 0.52);
-font-family: Inter;
+
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -665,7 +669,7 @@ line-height: 24px;
 }
 .whitelabel-mt4 p{
   color: rgba(255, 255, 255, 0.52);
-font-family: Inter;
+
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -679,7 +683,7 @@ line-height: 24px;
 font-size: 20px;
 font-style: normal;
 font-weight: 700;
-line-height: 28px
+line-height: 28px 
 }
 
 .whitelabel-mt4 button{
@@ -715,7 +719,7 @@ line-height: 28px;
 }
 .quotes-price p{
   color: rgba(34, 34, 34, 0.52);
-font-family: Inter;
+
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -815,3 +819,137 @@ line-height: 24px
   background-position: center;
   padding: 50px;
 } */
+
+
+
+
+/* OurBlogs Section */
+.our_blog_section{
+  display: flex;
+
+padding: 0px 120px 128px 120px;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+gap: 64px;
+}
+
+.blogs-heading{
+  gap: 12px;  
+}
+
+.blogs-heading span{
+  color: #FAC211;
+
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 133.333% */
+letter-spacing: 2px;
+text-transform: uppercase;
+}
+
+.blogs-heading h1{
+  color: #222;
+
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 56px;
+margin-bottom: 4%;
+}
+
+.blog-date-container{
+
+padding: 16px 24px 24px 24px;
+align-items: flex-start;
+gap: 26px;
+align-self: stretch;
+}
+.blog-date{
+  display: flex;
+height: 32px;
+padding: 10px 12px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 100px;
+border: 1px solid rgba(34, 34, 34, 0.12);
+background: rgba(34, 34, 34, 0.02);
+}
+.blogs-card-content{
+  display: flex;
+padding: 32px 24px 16px 24px;
+flex-direction: column;
+align-items: flex-start;
+gap: 16px;
+align-self: stretch;
+
+}
+
+.hover-content{
+  display: none;
+}
+
+.card-para.hover-content:hover{
+  display: flex;
+}
+
+.blog-btn{
+  display: flex;
+height: 32px;
+padding: 10px 12px;
+font-size: 13px !important;
+justify-content: center !important;
+align-items: center !important;
+gap: 10px;
+border-radius: 100px !important;
+border: 1px solid rgba(34, 34, 34, 0.12) !important;
+background: rgba(34, 34, 34, 0.02) !important;
+color: #222 !important;
+font:normal !important;
+
+}
+/* p.blog-des {
+  display: none;
+  transition-duration: .3s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+}
+
+.blog-content:hover .card-text {
+  display: block;
+  transition-duration: .3s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+}
+.blog-content{
+  transition-duration: .3s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+}
+.blog-content:hover {
+  animation-name: bounce;
+  animation-timing-function: ease;
+  transform: translateY(-8px);
+  transition-duration: .3s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+} */
+.blog-card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+
+  transition: 0.5 ease;
+  cursor: pointer;
+  transition: 0.5s ease-in
+}
+.blog-card:hover {
+  transition:0.5s ease-out;
+  transform: scale(1.1);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
+}
+
+/* End Of Blogs section */
