@@ -278,12 +278,24 @@
 	justify-content: space-between;
 	align-items: center;
 	align-self: stretch;
+  color: #fff !important;
+	border-radius: 8px;
+	border: 1px solid #EBEBEF;
+	transition-duration: .3s;
+}
+.btton_bb{
+	padding: 15px 30px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	align-self: stretch;
+
 	border-radius: 8px;
 	border: 1px solid #EBEBEF;
 	transition-duration: .3s;
 }
 
-.button1.btton{
+.button1.btton_bb{
 	border: 1px solid #FBC212;
 	transition-duration: .3s;
 	background: #FBC212;
