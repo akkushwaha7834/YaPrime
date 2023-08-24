@@ -2072,3 +2072,9 @@ textarea:focus {
 .ya_wealth_section_1{
   background-color: #F9FAFB;
 }
+.demo_contact_yawealth{
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin-top: 15px;
+}
