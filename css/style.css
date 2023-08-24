@@ -610,7 +610,7 @@ background-image: url(/images/MicrosoftTeams-image.png);
 background-position: auto;
 background-repeat: no-repeat;
 background-size: cover;
-padding: 156px 120px;
+padding: 156px 120px; 
 text-align: center;
 background-color: transparent;
 }
@@ -632,6 +632,125 @@ font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: 24px;
+}
+
+
+.whitelabel-card{
+  display: flex;
+
+padding: 24px;
+align-items: center;
+gap: 24px;
+border-radius: 16px;
+background: #1A1A1A;
+text-align: left;
+margin-bottom: 6%;
+}
+
+.whitelabel-mt4{
+  display: flex;
+  flex-direction: column;
+  gap:20px;
+  justify-content: center;
+  border-radius: 10px;
+
+}
+
+.whitelabel-card span{
+  color: #FFF;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px;
+}
+.whitelabel-mt4 p{
+  color: rgba(255, 255, 255, 0.52);
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;  
+}
+
+
+.whitelabel-mt4 h5{
+  color: #FAC211;
+
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px
+}
+
+.whitelabel-mt4 button{
+  display: flex;
+  height: 40px;
+  padding: 8px 20px;
+  align-items: center;
+  gap: 8px;
+border-radius: 8px;
+background: #FAC211;
+}
+.quotes-price{
+  display: flex;
+width: 400px;
+height: 248px;
+padding: 24px;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+border-radius: 16px;
+border: 2px solid #FAC211;
+background: #FAC211;
+}
+
+.quotes-price h5{
+
+color: #222;
+
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px;
+}
+.quotes-price p{
+  color: rgba(34, 34, 34, 0.52);
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+.quotes-price button{
+  display: flex;
+height: 40px;
+padding: 8px 20px;
+align-items: center;
+gap: 8px;
+border-radius: 8px;
+color: #222;
+background: #FFF !important;
+}
+
+
+
+
+
+.whitelabel-mt4 img{
+  border-radius: 10px;
+  width: 25%;
+}
+
+
+.crm-card{
+  display: flex;
+
+  padding: 24px;
+  align-items: center;
+  gap: 24px;
+  border-radius: 16px;
+  background: #1A1A1A;
+  text-align: left;
 }
 /* end of  reputed section  */
 
