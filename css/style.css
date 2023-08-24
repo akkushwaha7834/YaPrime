@@ -411,6 +411,7 @@ background: #F9FAFB;
 }
 .ContactFormContainer h1{
     color: black;
+    font-size: 40px;
 }
 
 .form-style{
@@ -827,7 +828,7 @@ line-height: 24px
 .our_blog_section{
   display: flex;
 
-padding: 0px 120px 128px 120px;
+padding: 0px 120px 100px 120px;
 flex-direction: column;
 justify-content: center;
 align-items: flex-start;

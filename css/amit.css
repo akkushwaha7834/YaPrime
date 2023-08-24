@@ -8,7 +8,7 @@
 	margin-top: -20px;
   border-bottom-left-radius: 100% 200px;
 		border-bottom-right-radius: 100% 200px;
-		width: 100% ;
+	
     overflow: hidden;
 }
 .mt4_h4{
@@ -379,7 +379,7 @@ transition-duration: .3s
 
 /* Talk to Us  */
 .talk_to_us_sec{
-	padding: 150px 0 100px;
+	padding: 60px 0 100px;
 }
 .ContactFormContainer{
     display: flex;
