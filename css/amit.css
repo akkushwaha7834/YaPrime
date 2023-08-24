@@ -1458,3 +1458,102 @@ text-align: left;
     align-items: center;
     align-self: center;
 }
+
+/*Liquidity solution Start*/
+.forex_liquidity{
+/*	padding: 120px 0;*/
+}
+.liquidity_left_content{
+	padding: 120px 0;
+}
+.liquidity_banner{
+	background: url(../images/hero.png);
+	padding: 120px 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.liquidity_h4{
+	font-size: 12px;
+	letter-spacing: 2px;
+	line-height: 16px;
+	text-transform: uppercase;
+	font-family: Inter;
+	color: #fac211!important;
+	text-align: center;
+}
+.liquidity_h1{
+	font-size: 40px;
+	line-height: 56px;
+	font-family: Sora;
+	color: #fff;
+	text-align: center;
+}
+.liquidity_p{
+	font-size: 16px;
+	line-height: 24px;
+	font-family: Inter;
+	color: rgba(255, 255, 255, 0.52);
+	text-align: center;
+}
+.cta_liquidity{
+	text-align: center;
+	margin-top: 30px;
+}
+.forex_liquidity_h4{
+	font-size: 12px;
+	letter-spacing: 2px;
+	line-height: 16px;
+	text-transform: uppercase;
+	font-family: Inter;
+	color: #fac211!important;
+}
+.forex_liquidity_h1{
+	font-size: 40px;
+line-height: 56px;
+display: inline-block;
+font-family: Sora;
+color: #222;
+}
+.forex_liquidity_p{
+	font-size: 16px;
+line-height: 24px;
+font-family: Inter;
+color: rgba(34, 34, 34, 0.52);
+}
+.counter_number::before{
+	content: "|";
+	color: #fac211;
+}
+.counter_number{
+	font-size: 24px;
+	line-height: 32px;
+	font-family: Sora;
+	color: #222;
+}
+.counter_content{
+	padding-left: 10px;
+}
+.counter_content{
+	font-size: 15px;
+line-height: 24px;
+font-weight: 300;
+font-family: Inter;
+color: rgba(34, 34, 34, 0.52);
+}
+.liquidity_row_two{
+	margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*Liquidity solution End*/
