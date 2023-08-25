@@ -2046,7 +2046,7 @@ textarea:focus {
 }
 .yeawealth_prime_benefit__section {
   display: flex;
- 
+
   padding: 42px 120px;
   flex-direction: column;
   align-items: center;
@@ -2054,32 +2054,73 @@ textarea:focus {
   border-radius: 0px 128px 0px 0px;
   background: #fff;
 }
-.Benefit_first_section_yawealth{
+.Benefit_first_section_yawealth {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
- 
 }
-.row_centering_yawealth{
+.row_centering_yawealth {
   justify-content: center;
 }
-.yawealth_section_image{
+.yawealth_section_image {
   width: 100%;
   height: 100%;
   object-fit: contain;
 }
-.ya_wealth_section_1{
-  background-color: #F9FAFB;
+.ya_wealth_section_1 {
+  background-color: #f9fafb;
 }
-.demo_contact_yawealth{
+.demo_contact_yawealth {
   display: flex;
   align-items: flex-start;
   gap: 12px;
   margin-top: 15px;
 }
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}   
+}
+
+/* ui-ux design page design */
+.Hero_banner_vvip_section_uiux {
+  display: flex;
+  padding: 128px 120px;
+  flex-direction: column;
+  align-items: center;
+  gap: 64px;
+  background-image: url("../images/uiuxherobannerimage.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ui_uxHeroBanner_section2 {
+  display: flex;
+  height: 584px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 16px;
+  background: #fff;
+  border: 2px solid #fac211;
+}
+.uiuxmain_banner {
+  justify-content: center;
+}
+
+.technologies_uiux {
+  color: #222;
+  font-family: Sora;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px; /* 140% */
+}
+.uiuxmain_banner_technology{
+  justify-content: center;
+  padding-top: 30px;
+}
+.app_design_position{
+  justify-content:center ;
+  padding-top: 20px;
+  display: flex;
+}
