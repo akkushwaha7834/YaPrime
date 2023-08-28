@@ -12,21 +12,21 @@
   letter-spacing: 2px;
   line-height: 16px;
   text-transform: uppercase;
-  font-family: Inter;
+
   color: #fac211 !important;
   text-align: center;
 }
 .mt4_h1 {
   font-size: 40px;
   line-height: 56px;
-  font-family: Sora;
+
   color: #fff;
   text-align: center;
 }
 .mt4_p {
   font-size: 16px;
   line-height: 24px;
-  font-family: Inter;
+
   color: rgba(255, 255, 255, 0.52);
   text-align: center;
 }
@@ -34,7 +34,7 @@
   padding: 10px 20px;
   font-size: 16px;
   font-weight: 600;
-  font-family: Inter;
+
   color: #fac211;
   border-radius: 8px;
   border: 1px solid #fac211;
@@ -64,7 +64,7 @@
 }
 .benefits_h3 {
   color: #fac211;
-  font-family: Inter;
+
   font-size: 12px;
   font-style: normal;
   font-weight: 700;
@@ -74,7 +74,7 @@
 }
 .benefits_h2 {
   color: #222;
-  font-family: Sora;
+
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -82,7 +82,7 @@
 }
 .benefits_p {
   color: rgba(34, 34, 34, 0.52);
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -93,7 +93,7 @@
 }
 .icon_box_heading {
   color: #222;
-  font-family: Sora;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -102,7 +102,7 @@
 }
 .icon_box_para {
   color: rgba(34, 34, 34, 0.52);
-  font-family: Inter;
+
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -122,7 +122,7 @@
   letter-spacing: 2px;
   line-height: 16px;
   text-transform: uppercase;
-  font-family: Inter;
+
   color: #fac211;
   text-align: center;
 }
@@ -130,7 +130,7 @@
   position: relative;
   font-size: 40px;
   line-height: 56px;
-  font-family: Sora;
+
   color: #fff;
   text-align: center;
 }
@@ -142,20 +142,20 @@
   font-size: 40px;
   line-height: 56px;
   font-weight: 600;
-  font-family: Sora;
+
   color: #fff;
   text-align: left;
 }
 .pricing_para {
   font-size: 16px;
   line-height: 24px;
-  font-family: Inter;
+
   color: rgba(255, 255, 255, 0.52);
 }
 .experience-in-forex {
   font-size: 16px;
   line-height: 12px;
-  font-family: Inter;
+
   color: rgba(255, 255, 255, 0.52);
   text-align: center;
 }
@@ -164,12 +164,11 @@
   line-height: 24px;
   color: #fff;
   text-align: left;
-  font-family: Inter;
 }
 .month {
   font-size: 14px;
   font-weight: 500;
-  font-family: Inter;
+
   color: #fff;
   text-align: left;
 }
@@ -186,7 +185,7 @@
   text-align: left;
   font-size: 32px;
   color: #fff;
-  font-family: Inter;
+
   margin-bottom: 30px;
 }
 .btton {
@@ -263,7 +262,7 @@
   top: -24px;
   color: #fac211;
   text-align: center;
-  font-family: Sora;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -588,7 +587,6 @@ h4 {
 }
 
 .text--big {
-  font-family: "Poppins", sans-serif;
   font-size: 4.5em;
   font-weight: 700;
   line-height: 85px;
@@ -604,7 +602,6 @@ h4 {
 }
 
 .text__background {
-  font-family: "Poppins", sans-serif;
   position: absolute;
   left: 72px;
   bottom: -60px;
@@ -955,7 +952,7 @@ textarea:focus {
   align-items: center;
   gap: 4px;
   color: #fff;
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -1020,7 +1017,7 @@ textarea:focus {
   align-items: center;
   gap: 4px;
   color: #222;
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -1037,7 +1034,7 @@ textarea:focus {
   color: #222;
   leading-trim: both;
   text-edge: cap;
-  font-family: Inter;
+
   font-size: 14px;
   font-style: normal;
   font-weight: 600;
@@ -1077,7 +1074,7 @@ textarea:focus {
 
 .heading_prime_vip {
   color: #fac211;
-  font-family: Inter;
+
   font-size: 12px;
   font-style: normal;
   font-weight: 700;
@@ -1087,7 +1084,7 @@ textarea:focus {
 }
 .prime_vip_paragraph {
   color: #fff;
-  font-family: Sora;
+
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -1097,7 +1094,7 @@ textarea:focus {
 .content {
   align-self: stretch;
   color: rgba(255, 255, 255, 0.52);
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1121,7 +1118,7 @@ textarea:focus {
   color: #222;
   leading-trim: both;
   text-edge: cap;
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1138,7 +1135,7 @@ textarea:focus {
   color: #222;
   leading-trim: both;
   text-edge: cap;
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1202,7 +1199,7 @@ textarea:focus {
 .further_text {
   align-self: stretch;
   color: rgba(34, 34, 34, 0.52);
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1219,7 +1216,7 @@ textarea:focus {
   color: #222;
   leading-trim: both;
   text-edge: cap;
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1227,7 +1224,7 @@ textarea:focus {
 }
 .yellow_heading {
   color: #fac211;
-  font-family: Inter;
+
   font-size: 12px;
   font-style: normal;
   font-weight: 700;
@@ -1253,7 +1250,7 @@ textarea:focus {
 }
 .benefit {
   color: #fac211;
-  font-family: Inter;
+
   font-size: 12px;
   font-style: normal;
   font-weight: 700;
@@ -1264,7 +1261,7 @@ textarea:focus {
 .benefit_heading {
   color: #222;
   text-align: center;
-  font-family: Sora;
+
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -1276,7 +1273,7 @@ textarea:focus {
   align-self: stretch;
   color: rgba(34, 34, 34, 0.52);
   text-align: center;
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1305,7 +1302,7 @@ textarea:focus {
 }
 .ready_heading {
   color: #222;
-  font-family: Sora;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -1314,7 +1311,7 @@ textarea:focus {
 .ready_para {
   align-self: stretch;
   color: rgba(34, 34, 34, 0.52);
-  font-family: Inter;
+
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -1368,7 +1365,7 @@ textarea:focus {
   color: #222;
   leading-trim: both;
   text-edge: cap;
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1396,7 +1393,7 @@ textarea:focus {
 .YaPrimeMission {
   align-self: stretch;
   color: #222;
-  font-family: Sora;
+
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -1432,7 +1429,7 @@ textarea:focus {
 }
 .ready_made_heading {
   color: #fff;
-  font-family: Sora;
+
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -1441,7 +1438,7 @@ textarea:focus {
 .ready_made_text {
   align-self: stretch;
   color: rgba(255, 255, 255, 0.52);
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1452,7 +1449,7 @@ textarea:focus {
   align-items: center;
   gap: 2px;
   color: #fac211;
-  font-family: Sora;
+
   font-size: 64px;
   font-style: normal;
   font-weight: 700;
@@ -1493,7 +1490,7 @@ textarea:focus {
   align-self: stretch;
   color: #222;
   text-align: center;
-  font-family: Sora;
+
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -1503,7 +1500,7 @@ textarea:focus {
 
 .h2__heading {
   color: #222;
-  font-family: Sora;
+
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -1535,7 +1532,7 @@ textarea:focus {
 }
 .typo_styling {
   color: #222;
-  font-family: Sora;
+
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -1547,7 +1544,7 @@ textarea:focus {
 }
 .yellow_text {
   color: #fac211;
-  font-family: Inter;
+
   font-size: 12px;
   font-style: normal;
   font-weight: 700;
@@ -1568,7 +1565,7 @@ textarea:focus {
 
 .heading {
   color: #fac211;
-  font-family: Inter;
+
   font-size: 12px;
   font-style: normal;
   font-weight: 700;
@@ -1580,7 +1577,7 @@ textarea:focus {
 .package_plans {
   color: #222;
   text-align: center;
-  font-family: Sora;
+
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -1590,7 +1587,7 @@ textarea:focus {
   align-self: stretch;
   color: rgba(34, 34, 34, 0.52);
   text-align: center;
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1598,7 +1595,7 @@ textarea:focus {
 }
 .th_css {
   color: #222;
-  font-family: Sora;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1629,7 +1626,7 @@ textarea:focus {
 }
 .prime_vvip_heading {
   color: #fac211;
-  font-family: Inter;
+
   font-size: 12px;
   font-style: normal;
   font-weight: 700;
@@ -1641,7 +1638,7 @@ textarea:focus {
 .prime_vvip_subheading {
   color: #222;
   text-align: center;
-  font-family: Sora;
+
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -1652,7 +1649,7 @@ textarea:focus {
   align-self: stretch;
   color: rgba(34, 34, 34, 0.52);
   text-align: center;
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1676,7 +1673,7 @@ textarea:focus {
   color: #222;
   leading-trim: both;
   text-edge: cap;
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1693,7 +1690,7 @@ textarea:focus {
   color: #222;
   leading-trim: both;
   text-edge: cap;
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1716,7 +1713,7 @@ textarea:focus {
 
 .prime_vvip_heading2 {
   color: #fac211;
-  font-family: Inter;
+
   font-size: 12px;
   font-style: normal;
   font-weight: 700;
@@ -1727,7 +1724,6 @@ textarea:focus {
 .prime_vvip_subheading2 {
   color: #fff;
 
-  font-family: Sora;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -1738,7 +1734,7 @@ textarea:focus {
 .prime_vvip_info2 {
   align-self: stretch;
   color: rgba(255, 255, 255, 0.52);
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1759,7 +1755,7 @@ textarea:focus {
   color: #222;
   leading-trim: both;
   text-edge: cap;
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1782,7 +1778,7 @@ textarea:focus {
 }
 .benefit_yellow_heading {
   color: #fac211;
-  font-family: Inter;
+
   font-size: 12px;
   font-style: normal;
   font-weight: 700;
@@ -1792,7 +1788,7 @@ textarea:focus {
 }
 .benefit_preheading {
   color: #222;
-  font-family: Sora;
+
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -1802,7 +1798,7 @@ textarea:focus {
 .benefit_vvip_discription69 {
   align-self: stretch;
   color: rgba(34, 34, 34, 0.52);
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1815,7 +1811,7 @@ textarea:focus {
 }
 .take_control_heading {
   color: #222;
-  font-family: Sora;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -1824,7 +1820,7 @@ textarea:focus {
 .take_control_discription {
   align-self: stretch;
   color: rgba(34, 34, 34, 0.52);
-  font-family: Inter;
+
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -1884,7 +1880,6 @@ textarea:focus {
 /*  prime-special section css*/
 
 .prime_vip_paragraph_special {
-  font-family: Sora;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -1894,7 +1889,7 @@ textarea:focus {
 .content_special {
   align-self: stretch;
   color: rgba(34, 34, 34, 0.52);
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1911,7 +1906,7 @@ textarea:focus {
   color: #222;
   leading-trim: both;
   text-edge: cap;
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1979,7 +1974,7 @@ textarea:focus {
 }
 .yawealth_benefit_yellow_heading {
   color: #fac211;
-  font-family: Inter;
+
   font-size: 12px;
   font-style: normal;
   font-weight: 700;
@@ -1991,7 +1986,7 @@ textarea:focus {
 .yawealth_heading {
   color: #fff;
   text-align: center;
-  font-family: Sora;
+
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -2001,7 +1996,7 @@ textarea:focus {
 .yawealth_discription {
   color: rgba(255, 255, 255, 0.52);
   text-align: center;
-  font-family: Inter;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2027,7 +2022,7 @@ textarea:focus {
 }
 .take_control_heading5 {
   color: #fff;
-  font-family: Sora;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -2036,7 +2031,7 @@ textarea:focus {
 .take_control_discription5 {
   align-self: stretch;
   color: rgba(255, 255, 255, 0.52);
-  font-family: Inter;
+
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -2044,7 +2039,7 @@ textarea:focus {
 }
 .yeawealth_prime_benefit__section {
   display: flex;
- 
+
   padding: 42px 120px;
   flex-direction: column;
   align-items: center;
@@ -2052,32 +2047,189 @@ textarea:focus {
   border-radius: 0px 128px 0px 0px;
   background: #fff;
 }
-.Benefit_first_section_yawealth{
+.Benefit_first_section_yawealth {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
- 
 }
-.row_centering_yawealth{
+.row_centering_yawealth {
   justify-content: center;
 }
-.yawealth_section_image{
+.yawealth_section_image {
   width: 100%;
   height: 100%;
   object-fit: contain;
 }
-.ya_wealth_section_1{
-  background-color: #F9FAFB;
+.ya_wealth_section_1 {
+  background-color: #f9fafb;
 }
-.demo_contact_yawealth{
+.demo_contact_yawealth {
   display: flex;
   align-items: flex-start;
   gap: 12px;
   margin-top: 15px;
 }
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+/* ui-ux design page design */
+.Hero_banner_vvip_section_uiux {
+  display: flex;
+  padding: 128px 120px;
+  flex-direction: column;
+  align-items: center;
+  gap: 64px;
+  background-image: url("../images/uiuxherobannerimage.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ui_uxHeroBanner_section2 {
+  display: flex;
+  height: 584px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 16px;
+  background: #fff;
+  border: 2px solid #fac211;
+}
+.uiuxmain_banner {
+  justify-content: center;
+}
+
+.technologies_uiux {
+  color: #222;
+
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px; /* 140% */
+}
+.uiuxmain_banner_technology {
+  justify-content: center;
+  padding-top: 30px;
+}
+.app_design_position {
+  justify-content: center;
+  padding-top: 20px;
+  display: flex;
+}
+.uiuxFeatureSection {
+  padding: 128px 120px 120px 120px;
+}
+.uiuxHeading {
+  color: #222;
+
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px; /* 140% */
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+/* case study carousal section styling */
+.casestudysection_uiUx {
+  padding: 128px 120px 140px 120px;
+  background: radial-gradient(
+    61.64% 61.64% at 50% 50%,
+    rgba(235, 235, 235, 0.16) 0%,
+    rgba(235, 235, 235, 0) 80.21%
+  );
+  background: #101010;
+}
+.carousel-item {
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.caseStudy_heading {
+  color: #fac211;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px; /* 133.333% */
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.caseStudy_information {
+  color: #fff;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px; /* 140% */
+  text-align: center;
+}
+.case_study_carousal_heading {
+  color: #fff;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px; /* 150% */
+}
+.case_study_carousal_desciption {
+  color: rgba(255, 255, 255, 0.52);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px; /* 142.857% */
+}
+/* what to do section */
+
+.uiux_whatToSection {
+  padding: 128px 120px 140px 120px;
+}
+.what_todoSection {
+  color: #fac211;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px; /* 133.333% */
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.todo__Discription {
+  color: #222;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px; /* 140% */
+  text-align: center;
+}
+.text_uiux_heading {
+  color: #222;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px; /* 187.5% */
+}
+.voilet_heading {
+  display: inline-flex;
+  height: 44px;
+  padding: 10px 32px 10px 16px;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border: 1px solid #fff;
+  background: linear-gradient(
+      0deg,
+      rgba(169, 96, 238, 0.04) 0%,
+      rgba(169, 96, 238, 0.04) 100%
+    ),
+    #fff;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.02);
+  color: #a960ee;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px; /* 187.5% */
 }
