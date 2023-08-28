@@ -133,8 +133,10 @@
 
 /*Pricing Start*/
 .pricing_sec {
-  background: url(../images/pricing_bg.png);
-  padding: 200px 0 150px;
+
+  background-color: #F9FAFB;
+  background-image: -webkit-linear-gradient(98deg, #000 87%, #F9FAFB 50%);
+  padding: 250px 0 150px;
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -1019,15 +1021,20 @@ h4 {
 
 
 /* Talk to Us  */
-.ContactFormContainer {
+.ContactFormContainer{
   display: flex;
-  padding: 64px !important;
-  color: rgba(34, 34, 34, 0.52);
+  padding: 64px 0px 64px 64px !important;
+
+  color:rgba(34, 34, 34, 0.52);
   align-items: center;
   gap: 64px;
   align-self: stretch;
   border-radius: 40px;
-  background: #F9FAFB;
+background: #F9FAFB;
+;
+}
+.Talk{
+  margin-right: -40px !important;
 }
 
 .ContactFormContainer h1 {
@@ -1732,7 +1739,7 @@ textarea:focus {
 }
 
 .liquidity_banner {
-  background: url(../images/hero.png);
+  background: url(../images/liquidity.png);
   padding: 120px 0;
   background-repeat: no-repeat;
   background-size: cover;

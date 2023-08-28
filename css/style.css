@@ -401,13 +401,15 @@ h4{
 /* Talk to Us  */
 .ContactFormContainer{
     display: flex;
-    padding: 64px !important;
+    padding: 64px 0px 64px 64px !important;
+ 
     color:rgba(34, 34, 34, 0.52);
     align-items: center;
     gap: 64px;
     align-self: stretch;
     border-radius: 40px;
 background: #F9FAFB;
+ ;
 }
 .ContactFormContainer h1{
     color: black;
@@ -429,6 +431,9 @@ input{
     height: 50px !important;
     align-self: stretch;
     border-radius: 8px;
+}
+.Talk{
+  margin-right: -40px !important;
 }
 
 input:focus{
