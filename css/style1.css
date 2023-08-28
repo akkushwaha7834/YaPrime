@@ -2298,3 +2298,13 @@ font-style: normal;
 font-weight: 600;
 line-height: 30px; /* 187.5% */
 }
+/* web development */
+.Hero_banner_vvip_section_webdev {
+  display: flex;
+  padding: 128px 120px;
+  flex-direction: column;
+  align-items: center;
+  gap: 64px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
