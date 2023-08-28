@@ -2147,7 +2147,6 @@ textarea:focus {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  
 }
 .caseStudy_heading {
   color: #fac211;
@@ -2184,25 +2183,55 @@ textarea:focus {
 }
 /* what to do section */
 
-.uiux_whatToSection{
+.uiux_whatToSection {
   padding: 128px 120px 140px 120px;
 }
-.what_todoSection{
-  color: #FAC211;
-font-size: 12px;
-font-style: normal;
-font-weight: 700;
-line-height: 16px; /* 133.333% */
-letter-spacing: 2px;
-text-transform: uppercase;
-text-align: center;
-
+.what_todoSection {
+  color: #fac211;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px; /* 133.333% */
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
 }
-.todo__Discription{
+.todo__Discription {
   color: #222;
-font-size: 40px;
-font-style: normal;
-font-weight: 700;
-line-height: 56px; /* 140% */
-text-align: center;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px; /* 140% */
+  text-align: center;
+}
+.text_uiux_heading {
+  color: #222;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px; /* 187.5% */
+}
+.voilet_heading {
+  display: inline-flex;
+  height: 44px;
+  padding: 10px 32px 10px 16px;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border: 1px solid #fff;
+  background: linear-gradient(
+      0deg,
+      rgba(169, 96, 238, 0.04) 0%,
+      rgba(169, 96, 238, 0.04) 100%
+    ),
+    #fff;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.02);
+  color: #a960ee;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px; /* 187.5% */
 }
