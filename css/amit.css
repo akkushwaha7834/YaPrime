@@ -1916,12 +1916,17 @@ font-family: Inter;
 color: rgba(34, 34, 34, 0.52);
 margin-top: 10px;
 }
-
-
-
-
-
-
-
-
 /*CRM and API Page End */
+
+/*Primary Advisory Page Start*/
+.prime_ad_banner {
+  background: url(../images/mt4-banner.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 200px;
+  margin-top: -20px;
+}
+
+
+/*Primaryb Advisory Page End*/
