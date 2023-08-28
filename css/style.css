@@ -974,4 +974,79 @@ align-items: flex-start;
 gap: 48px;
 }
 
+.Details-hero-section{
+
+  display: flex;
+justify-content: center;
+align-items: center;
+gap: 64px;
+padding: 128px 120px;
+}
+
+.blog-hero-content{
+  color:rgba(34, 34, 34, 0.52);
+  display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 16px;
+align-self: stretch;
+font-size: 14px !important;
+}
+
+.blog-hero-content h1{
+  font-size: 40px;
+  color: #222;
+}
+
+.blog-hero-content span{
+  color: #222;
+}
+
+.blog-hero-content ul{
+  display: flex;
+  flex-direction: row;
+gap: 36px;
+list-style: disc !important;
+
+}
+
+.blog-description{
+  display: flex;
+
+padding: 0px 120px;
+justify-content: center;
+align-items: flex-start;
+gap: 64px;
+
+}
+.blog-description p{
+  color: rgba(34, 34, 34, 0.52);
+
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+margin-bottom: 20px;
+}
+
+.blog-description h4{
+
+color: #222;
+
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 32px;
+margin-bottom:16px;
+}
+
+.blogs-des-cards{
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 48px;
+
+}
+
 /* End Of Blogs section */
