@@ -1327,3 +1327,11 @@ line-height: 24px;
   line-height: 20px;
 }
 /* end of  benefits section */
+
+
+.home_banner{
+  /* padding: 150px; */
+  background-image: url(/images/div.svg);
+ 
+  background-size: cover;
+}
