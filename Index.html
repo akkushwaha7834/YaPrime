@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/amit.css">
    
     <link rel="stylesheet" href="css/style.css">
-
+    <link rel="stylesheet" href="css/style1.css">
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
@@ -18,66 +18,173 @@
 </head>
 <body>
     <!-- header Section -->
-    <div class="container-fluid outer_navbar_styling">
-        <div class="row navbar_styling">
-          <div class="col-lg-2 logo_layout">
-            <img src="../images/yaprime logo-05 2.webp" alt="logo" />
+    <section class="header_section navbar_styling">
+      <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <div class="col-lg-1 col-md-1 logo_layout">
+           <a href="Index.html"> <img src="../images/YaPrimeLightLogo.png"  alt="logo"  /></a>
           </div>
-          <div class="col-lg-10 option_section">
-            <div class="menu_options">
-              <div class="menu_item">
-                About
-                <div class="arrow">
-                  <i class="fa fa-angle-down arrow_image" aria-hidden="true"></i>
-                </div>
-              </div>
-              <div class="menu_item">Institutional Trading
-                  <div class="arrow">
-                      <i class="fa fa-angle-down arrow_image" aria-hidden="true"></i>
-                    </div>
-              </div>
-              <div class="menu_item">Broker Solution
-                  <div class="arrow">
-                      <i class="fa fa-angle-down arrow_image" aria-hidden="true"></i>
-                    </div>
-              </div>
-              <div class="menu_item">Research & Advisery
-                  <div class="arrow">
-                      <i class="fa fa-angle-down arrow_image" aria-hidden="true"></i>
-                    </div>
-              </div>
-              <div class="menu_item">Weath Services
-                  <div class="arrow">
-                      <i class="fa fa-angle-down arrow_image" aria-hidden="true"></i>
-                    </div>
-              </div>
-              <div class="menu_item">Contact Us
-                  <div class="arrow">
-                      <i class="fa fa-angle-down arrow_image" aria-hidden="true"></i>
-                    </div>
-              </div>
-            </div>
-            <div class="free_qoute">Free Quote
-              <div class="right_arrow">
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div
+            class="collapse navbar-collapse position_newHeader"
+            id="navbarSupportedContent"
+          >
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle coloring_header"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  About
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a id="sub_menu_item" class="dropdown-item" href="#">About Us</a></li>
+                  <li><a id="sub_menu_item" class="dropdown-item" href="#">Why Choose Us</a></li>
+                
+                  <li>
+                    <a id="sub_menu_item" class="dropdown-item" href="Blogs.html">Our Blog</a>
+                  </li>
+                  <li><a id="sub_menu_item" class="dropdown-item" href="#">Careers</a></li>
+                  <li><a id="sub_menu_item" class="dropdown-item" href="#">Portfolio</a></li>
+                  <li><a id="sub_menu_item" class="dropdown-item" href="#">Meet Our Team</a></li>
+                  <li><a id="sub_menu_item" class="dropdown-item" href="#">PriceList</a></li>
+                  <li><a id="sub_menu_item" class="dropdown-item" href="contact-us.html">Contact Us</a></li>
+
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle coloring_header"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Institutional Trading
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a id="sub_menu_item" class="dropdown-item" href="Prime-vip.html">Prime VIP</a></li>
+                  <li><a id="sub_menu_item" class="dropdown-item" href="Prime-vvip.html">Prime VVIP</a></li>
+
+                  <li>
+                    <a id="sub_menu_item" class="dropdown-item" href="Prime-special.html">Prime Special</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle coloring_header"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Broker Solution
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a id="sub_menu_item" class="dropdown-item" href="MT4-white-label.html">MT4 White Label</a></li>
+                  <li><a id="sub_menu_item" class="dropdown-item" href="MT5-white-label.html">MT5 White Label</a></li>
+                  <li>
+                    <a id="sub_menu_item" class="dropdown-item" href="admin-consultation.html">Admin Consultation</a>
+                  </li>
+                  <li>
+                    <a id="sub_menu_item" class="dropdown-item" href="liquidity-solution.html">liquidity Solution</a>
+                  </li>
+                  <li><a id="sub_menu_item" class="dropdown-item" href="crm-api.html">CRM API</a></li>
+                 
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle coloring_header"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Website & Marketing
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a id="sub_menu_item" class="dropdown-item" href="ui_ux.html">UI/UX Design</a></li>
+                  <li><a id="sub_menu_item" class="dropdown-item" href="web_development.html">Web Development</a></li>
+                 
+                  <li>
+                    <a id="sub_menu_item" class="dropdown-item" href="app_development.html">App Development</a>
+                  </li>
+                  <li><a id="sub_menu_item" class="dropdown-item" href="graphicDesign.html">Graphic Design</a></li>
+                  <li><a id="sub_menu_item" class="dropdown-item" href="#">Digital Marketing</a></li>
+                  
+                
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle coloring_header"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Research and Advisery
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a id="sub_menu_item" class="dropdown-item" href="#">Free Service</a></li>
+                  <li><a id="sub_menu_item" class="dropdown-item" href="#">Personal Advisory</a></li>
+                  
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle coloring_header"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Wealth Services
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a id="sub_menu_item" class="dropdown-item" href="Ya_wealth.html">Ya Wealth</a></li>
   
-                  <i class="fa fa-arrow-right" aria-hidden="true"></i>
-              </div>
-              
-            </div>
+                 
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link coloring_header "
+              </li>
+            </ul>
+            <div class="free_qoute free_qoute_new">Free Quote</div>
           </div>
         </div>
-      </div>
+      </nav>
+    </section>
         <!-- End of  header Section -->
         <!-- Home Page Hero Section -->
         <section class="home_banner">
           <div class="container">
             <div class="row">
-              <div class="col-md-6 admin_banner_left">
+              <div class="col-md-6 admin_banner_left" 
+            style="max-width: 48% !important;"  
+          >
                 <h4 class="unique_h4">
-                  Admin consultation
+                  Explore products
+
                 </h4>
                 <h1 class="unique_h1">
-                  Elevate your forex<br> game with admin <br>consultation bliss!
+                  Start your own<br> profitable forex broker  
                 </h1>
                 <p class="unique_p">
                   Unleash the full potential of your forex endeavors with our admin consultation services. Let our experts handle the backend, while you focus on your trading success. Seamlessly optimize your operations and maximize your profits!
@@ -89,7 +196,7 @@
               </div>
               <div class="col-md-6 home_banner_img">
     
-                <img src="images/iPhone.webp">
+                <img src="images/iphone_banner.webp">
               </div>
             </div>
           </div>
@@ -175,6 +282,51 @@
           </div>
         </section> -->
         <!--End of Home Page Hero Section -->
+            <!-- skills section -->
+            <section class="skill-section">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6 Skill-text">
+                    <h1>Get started by
+                      choosing your current skill level</h1>
+                      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores atque, libero excepturi iusto maiores nihil, perspiciatis voluptas quos impedit sint laboriosam. Vel culpa iure nesciunt sequi officiis nostrum libero autem.</p>
+                      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores atque, libero excepturi iusto maiores nihil, perspiciatis voluptas quos impedit sint laboriosam. Vel culpa iure nesciunt sequi officiis nostrum libero autem.</p>
+                      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores atque, libero excepturi iusto maiores nihil, perspiciatis voluptas quos impedit sint laboriosam. Vel culpa iure nesciunt sequi officiis nostrum libero autem.</p>
+                  
+                  
+                    </div>
+                  <div class="col-md-6 skill-cards">
+                    <div class="card  skill-card">
+                      <div class="card-body ">
+                        <div class="skill-card-header">
+                            <img src="/images/Frame 1000002727.jpg"/>
+                            <i class="fa fa-check-square" aria-hidden="true"></i>
+                        </div>
+                        <h5 class="card-title">I’m a beginner</h5>
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur.</p>
+                       
+                      </div>
+                    </div>
+                    <div class="skill-image">
+                      <img src="/images/Or.png"/>
+                    </div>
+                    <div class="card  skill-card1">
+                      <div class="card-body">
+                        <div class="skill-card-header">
+                            <img src="/images/briefcase.jpg"/>
+                            <i class="fa fa-check-square" aria-hidden="true"></i>
+                        </div>
+                        <h5 class="card-title">I’m experienced</h5>
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur.</p>
+                       
+                      </div>
+                    </div>
+                  </div>
+    
+                </div>
+              </div>
+            </section>
+            <!-- end of skills section -->
         <!-- Statistic Section -->
         <section class="statistic">
             <div class="container">
@@ -204,47 +356,7 @@
         </section>
         <!--End Of Statistic Section -->
    
-        <!-- skills section -->
-        <section class="skill-section">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-6 Skill-text">
-                <h1>Get started by
-                  choosing your current skill level</h1>
-                  <p>*You can only choose one.</p>
-              </div>
-              <div class="col-md-6 skill-cards">
-                <div class="card  skill-card">
-                  <div class="card-body ">
-                    <div class="skill-card-header">
-                        <img src="/images/Frame 1000002727.jpg"/>
-                        <i class="fa fa-check-square" aria-hidden="true"></i>
-                    </div>
-                    <h5 class="card-title">I’m a beginner</h5>
-                    <p class="card-text">Lorem ipsum dolor sit amet consectetur.</p>
-                   
-                  </div>
-                </div>
-                <div class="skill-image">
-                  <img src="/images/Or.png"/>
-                </div>
-                <div class="card  skill-card1">
-                  <div class="card-body">
-                    <div class="skill-card-header">
-                        <img src="/images/briefcase.jpg"/>
-                        <i class="fa fa-check-square" aria-hidden="true"></i>
-                    </div>
-                    <h5 class="card-title">I’m experienced</h5>
-                    <p class="card-text">Lorem ipsum dolor sit amet consectetur.</p>
-                   
-                  </div>
-                </div>
-              </div>
-
-            </div>
-          </div>
-        </section>
-        <!-- end of skills section -->
+    
         <!-- unique feature -->
    <section class="unique-section">
     <div class="container">

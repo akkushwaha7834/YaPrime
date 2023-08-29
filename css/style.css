@@ -1332,6 +1332,10 @@ line-height: 24px;
 .home_banner{
   /* padding: 150px; */
   background-image: url(/images/div.svg);
- 
+
   background-size: cover;
+}
+.home_banner_img {
+  width: 48% !important;
+ max-width: 48% !important;
 }

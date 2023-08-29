@@ -491,7 +491,7 @@ h4 {
   line-height: normal;
 }
  .free_qoute_new{
-  width: 111px;
+  width: 121px;
  }
  
 .arrow {
@@ -2324,8 +2324,12 @@ textarea:focus {
 /* new header css */
 .coloring_header {
   color: #222 !important;
+  font-size: 14px;
 }
 
+a#sub_menu_item{
+  font-size: 14px!important;
+}
 .position_newHeader {
   justify-content: center !important;
 }
