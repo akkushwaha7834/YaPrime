@@ -485,14 +485,15 @@ h4 {
   border-radius: 8px;
   background: #fac211;
   color: #222;
-  leading-trim: both;
-  text-edge: cap;
-
   font-size: 14px;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
 }
+ .free_qoute_new{
+  width: 111px;
+ }
+ 
 .arrow {
   display: flex;
   width: 12px;
@@ -922,7 +923,6 @@ textarea:focus {
 }
 /* end of  skill section  */
 /* dark header css */
-
 
 .navbar_styling_dark {
   display: flex;
@@ -2229,7 +2229,103 @@ textarea:focus {
   color: #a960ee;
   text-align: center;
   font-size: 16px;
+  font-weight: 600;
+  line-height: 30px; /* 187.5% */
+}
+.ui_ux_position {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.orange_uiux_heading {
+  display: inline-flex;
+  height: 44px;
+  padding: 10px 32px 10px 16px;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border: 1px solid #fff;
+  background: linear-gradient(
+      0deg,
+      rgba(255, 115, 48, 0.04) 0%,
+      rgba(255, 115, 48, 0.04) 100%
+    ),
+    #fff;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.02);
+  color: #ff7330;
+  text-align: center;
+  font-size: 16px;
   font-style: normal;
   font-weight: 600;
   line-height: 30px; /* 187.5% */
+}
+.black_uiux_heading {
+  display: inline-flex;
+  height: 44px;
+  padding: 10px 32px 10px 16px;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border: 1px solid #ebebeb;
+  background: #fff;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.02);
+  color: rgba(34, 34, 34, 0.8);
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px; /* 187.5% */
+}
+.blue_uiux_heading {
+  display: inline-flex;
+  height: 44px;
+  padding: 10px 20px;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border: 1px solid #fff;
+  background: linear-gradient(
+      0deg,
+      rgba(21, 112, 239, 0.04) 0%,
+      rgba(21, 112, 239, 0.04) 100%
+    ),
+    #fff;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.02);
+  color: #1570ef;
+  text-align: center;
+
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px; /* 187.5% */
+}
+/* web development */
+.Hero_banner_vvip_section_webdev {
+  display: flex;
+  padding: 128px 120px;
+  flex-direction: column;
+  align-items: center;
+  gap: 64px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.postioning_graphicdesign {
+  align-items: center;
+  margin-top: 50px;
+}
+
+/* new header css */
+.coloring_header {
+  color: #222 !important;
+}
+
+.position_newHeader {
+  justify-content: center !important;
 }

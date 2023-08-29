@@ -22,132 +22,243 @@
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-    <title>Ui Ux Design</title>
+    <title>Graphic Design</title>
+    <link
+      href="https://getbootstrap.com/docs/5.3/assets/css/docs.css"
+      rel="stylesheet"
+    />
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
   </head>
   <body>
     <!-- Header Section -->
 
-    <section class="header_section">
-      <div class="container outer_navbar_styling">
-        <div class="row navbar_styling">
+    <section class="header_section navbar_styling">
+      <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
           <div class="col-lg-1 col-md-1 logo_layout">
             <img src="../images/YaPrimeLightLogo.png" alt="logo" />
           </div>
-          <div class="col-lg-11 col-md-11 option_section">
-            <div class="menu_options">
-              <div class="menu_item">
-                About
-                <div class="arrow">
-                  <i
-                    class="fa fa-angle-down arrow_image"
-                    aria-hidden="true"
-                  ></i>
-                </div>
-              </div>
-              <div class="menu_item">
-                Institutional Trading
-                <div class="arrow">
-                  <i
-                    class="fa fa-angle-down arrow_image"
-                    aria-hidden="true"
-                  ></i>
-                </div>
-              </div>
-              <div class="menu_item">
-                Broker Solution
-                <div class="arrow">
-                  <i
-                    class="fa fa-angle-down arrow_image"
-                    aria-hidden="true"
-                  ></i>
-                </div>
-              </div>
-              <div class="menu_item">
-                Research & Advisery
-                <div class="arrow">
-                  <i
-                    class="fa fa-angle-down arrow_image"
-                    aria-hidden="true"
-                  ></i>
-                </div>
-              </div>
-              <div class="menu_item">
-                Weath Services
-                <div class="arrow">
-                  <i
-                    class="fa fa-angle-down arrow_image"
-                    aria-hidden="true"
-                  ></i>
-                </div>
-              </div>
-              <div class="menu_item">
-                Contact Us
-                <div class="arrow">
-                  <i
-                    class="fa fa-angle-down arrow_image"
-                    aria-hidden="true"
-                  ></i>
-                </div>
-              </div>
-            </div>
-            <div class="free_qoute">
-              Free Quote
-              <div class="right_arrow">
-                <i class="fa fa-arrow-right" aria-hidden="true"></i>
-              </div>
-            </div>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div
+            class="collapse navbar-collapse position_newHeader"
+            id="navbarSupportedContent"
+          >
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle coloring_header"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  About
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">About Us</a></li>
+                  <li><a class="dropdown-item" href="#">Why Choose Us</a></li>
+                  <li><hr class="dropdown-divider" /></li>
+                  <li>
+                    <a class="dropdown-item" href="Blogs.html">Our Blog</a>
+                  </li>
+                  <li><a class="dropdown-item" href="#">Careers</a></li>
+                  <li><a class="dropdown-item" href="#">Portfolio</a></li>
+                  <li><a class="dropdown-item" href="#">Meet Our Team</a></li>
+                  <li><a class="dropdown-item" href="#">PriceList</a></li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle coloring_header"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Institutional Trading
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="Prime-vip.html">Prime VIP</a></li>
+                  <li><a class="dropdown-item" href="Prime-vvip.html">Prime VVIP</a></li>
+
+                  <li>
+                    <a class="dropdown-item" href="Prime-special.html">Prime Special</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle coloring_header"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Broker Solution
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="MT4-white-label.html">MT4 White Label</a></li>
+                  <li><a class="dropdown-item" href="MT5-white-label.html">MT5 White Label</a></li>
+                  <li>
+                    <a class="dropdown-item" href="admin-consultation.html">Admin Consultation</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="liquidity-solution.html">liquidity Solution</a>
+                  </li>
+                  <li><a class="dropdown-item" href="crm-api.html">CRM API</a></li>
+                 
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle coloring_header"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Website & Marketing
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="ui_ux.html">UI/UX Design</a></li>
+                  <li><a class="dropdown-item" href="web_development.html">Web Development</a></li>
+                  <li><hr class="dropdown-divider" /></li>
+                  <li>
+                    <a class="dropdown-item" href="app_development.html">App Development</a>
+                  </li>
+                  <li><a class="dropdown-item" href="graphicDesign.html">Graphic Design</a></li>
+                  <li><a class="dropdown-item" href="#">Digital Marketing</a></li>
+                  
+                
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle coloring_header"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Research and Advisery
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">Free Service</a></li>
+                  <li><a class="dropdown-item" href="#">Personal Advisory</a></li>
+                  
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle coloring_header"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Wealth Services
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="Ya_wealth.html">Ya Wealth</a></li>
+  
+                 
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link coloring_header " href="contact-us.html">Contact Us</a>
+              </li>
+            </ul>
+            <div class="free_qoute free_qoute_new">Free Quote</div>
           </div>
         </div>
-      </div>
+      </nav>
     </section>
 
-    <!-- ui-ux hero banner section -->
-    <section class="Hero_banner_vvip_section_uiux">
+    <!-- graphic design curosal section -->
+
+    <section>
       <div class="container">
-        <div class="row admin_consultation_section">
-          <div class="col-lg-8">
-            <div class="prime_vvip_heading">UI/UX Design</div>
-            <div class="prime_vvip_subheading">
-              We drive growth by centering design innovations around user needs
+        <div class="row postioning_graphicdesign">
+          <div class="col-lg-6 prime_vip_section">
+            <div class="text_section">
+              <div class="inner_text_section">
+                <div class="heading_prime_vip">Graphic design</div>
+                <div class="prime_vip_paragraph_special">
+                  Designs that leave a lasting impact of your business
+                </div>
+              </div>
+              <div class="content_special">
+                It's social media visuals that people stop-by and that's one of
+                the ways to sell your product or service
+              </div>
             </div>
-            <div class="prime_vvip_info">
-              Building high quality custom websites that hit the mark in every
-              aspect, keeping your users engaged and turning users into paying
-              customers
-            </div>
-            <div class="optionbotton_section">
-              <div class="request_a_demo_botton">
+
+            <div class="demo_contact">
+              <div class="request_demo">
                 Get In Touch
+
                 <div class="right_arrow">
                   <i class="fa fa-arrow-right" aria-hidden="true"></i>
                 </div>
               </div>
             </div>
           </div>
-        </div>
-        <br />
-
-        <div class="row uiuxmain_banner">
-          <div class="col-lg-8 ui_uxHeroBanner_section2">
-            <div class="optionbotton_section">
-              <div class="request_a_demo_botton">
-                <div class="right_arrow">
-                  <i class="fa fa-play-circle" aria-hidden="true"></i>
+          <div class="col-lg-5 image_section">
+            <div
+              id="carouselExampleIndicators"
+              class="carousel slide"
+              data-ride="carousel"
+            >
+              <ol class="carousel-indicators">
+                <li
+                  data-target="#carouselExampleIndicators"
+                  data-slide-to="0"
+                  class="active"
+                ></li>
+                <li
+                  data-target="#carouselExampleIndicators"
+                  data-slide-to="1"
+                ></li>
+                <li
+                  data-target="#carouselExampleIndicators"
+                  data-slide-to="2"
+                ></li>
+              </ol>
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img
+                    class="d-block w-100"
+                    src="/images/graphicdesignherobanner.png"
+                    alt="First slide"
+                  />
                 </div>
-                play Showreel
+                <div class="carousel-item">
+                  <img
+                    class="d-block w-100"
+                    src="/images/graphicdesignherobanner.png"
+                    alt="Second slide"
+                  />
+                </div>
+                <div class="carousel-item">
+                  <img
+                    class="d-block w-100"
+                    src="/images/graphicdesignherobanner.png"
+                    alt="Third slide"
+                  />
+                </div>
               </div>
             </div>
-          </div>
-        </div>
-
-        <div class="row uiuxmain_banner_technology">
-          <div class="col-lg-6">
-            <center>
-              <div class="technologies_uiux">Technologies we work on</div>
-              <div class="app_design_position">
-                <img src="./images/App design.png" alt="appicons" />
-              </div>
-            </center>
           </div>
         </div>
       </div>
@@ -389,6 +500,32 @@
               </a>
             </div>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- video section  -->
+
+    <section class="Hero_banner_vvip_section_webdev">
+      <div class="container">
+        <div class="row admin_consultation_section">
+          <div class="col-lg-8">
+            <div class="prime_vvip_heading">Latest videos</div>
+            <div class="prime_vvip_subheading">Explore our latest videos</div>
+          </div>
+        </div>
+        <br />
+        <br />
+        <div class="row admin_consultation_section graphic_design">
+          <iframe
+            width="873"
+            height="491"
+            src="https://www.youtube.com/embed/ZnCbTp2tDlI"
+            title="YaMarkets Unveils New Dubai Office - Taking Financial Success to the Next Level"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
         </div>
       </div>
     </section>
