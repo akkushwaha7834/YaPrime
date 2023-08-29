@@ -2308,3 +2308,7 @@ line-height: 30px; /* 187.5% */
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.postioning_graphicdesign{
+  align-items:center ;
+}
