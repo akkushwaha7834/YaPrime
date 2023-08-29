@@ -2103,20 +2103,24 @@ color: #fff;
   border-radius: 12px;
 }
 .pricing_col_6_first{
-  background: url(../images/union-first.png);
+/*  background: url(../images/union-first.png);*/
+background: #1A1A1A;
   padding: 24px;
   width: 45%;
 }
 .pricing_col_6_second{
-  background: url(../images/union-second.png);
+/*  background: url(../images/union-second.png);*/
+background: #1A1A1A;
   padding: 24px;
 }
 .pricing_col_6_third{
-  background: url(../images/union-third.png);
+/*  background: url(../images/union-third.png);*/
+background: #1A1A1A;
   padding: 24px;
 }
 .pricing_col_6_fourth{
-  background: url(../images/union-fourth.png);
+/*  background: url(../images/union-fourth.png);*/
+background: #1A1A1A;
   padding: 24px;
 }
 .para_pricing{
@@ -2125,7 +2129,9 @@ line-height: 20px;
 font-family: Inter;
 color: rgba(255, 255, 255, 0.52);
 }
-
+.row_check_white{
+  margin-top: 30px;
+}
 
 
 
