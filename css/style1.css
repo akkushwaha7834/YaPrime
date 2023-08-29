@@ -485,14 +485,15 @@ h4 {
   border-radius: 8px;
   background: #fac211;
   color: #222;
-  leading-trim: both;
-  text-edge: cap;
-
   font-size: 14px;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
 }
+ .free_qoute_new{
+  width: 111px;
+ }
+ 
 .arrow {
   display: flex;
   width: 12px;
@@ -2279,24 +2280,30 @@ textarea:focus {
   font-weight: 600;
   line-height: 30px; /* 187.5% */
 }
-.blue_uiux_heading{
+.blue_uiux_heading {
   display: inline-flex;
-height: 44px;
-padding: 10px 20px;
-align-items: center;
-gap: 10px;
-flex-shrink: 0;
-border-radius: 8px;
-border: 1px solid #FFF;
-background: linear-gradient(0deg, rgba(21, 112, 239, 0.04) 0%, rgba(21, 112, 239, 0.04) 100%), #FFF;
-box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01), 0px 4px 4px 0px rgba(0, 0, 0, 0.02);
-color: #1570EF;
-text-align: center;
- 
-font-size: 16px;
-font-style: normal;
-font-weight: 600;
-line-height: 30px; /* 187.5% */
+  height: 44px;
+  padding: 10px 20px;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border: 1px solid #fff;
+  background: linear-gradient(
+      0deg,
+      rgba(21, 112, 239, 0.04) 0%,
+      rgba(21, 112, 239, 0.04) 100%
+    ),
+    #fff;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.02);
+  color: #1570ef;
+  text-align: center;
+
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px; /* 187.5% */
 }
 /* web development */
 .Hero_banner_vvip_section_webdev {
@@ -2309,6 +2316,16 @@ line-height: 30px; /* 187.5% */
   background-size: cover;
 }
 
-.postioning_graphicdesign{
-  align-items:center ;
+.postioning_graphicdesign {
+  align-items: center;
+  margin-top: 50px;
+}
+
+/* new header css */
+.coloring_header {
+  color: #222 !important;
+}
+
+.position_newHeader {
+  justify-content: center !important;
 }
