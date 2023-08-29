@@ -71,7 +71,7 @@
 }
 
 .benefits_left,
-.admin_banner_left {
+.admin_banner_left,.prime_ad_banner .col-md-6 {
   display: grid;
   align-items: center;
   align-self: center;
@@ -2039,9 +2039,103 @@ margin-top: 10px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 200px;
+  padding: 200px 0;
   margin-top: -20px;
+  overflow: hidden;
 }
+.prime_banner_images{
+  margin:20px 0;
+}
+.prime_banner_container{
+  padding-left: 0!important;
+  padding-right: 0!important;
+}
+.prime_banner_images_right{
+  margin:20px 0;
+  float: right;
+}
+.aapl_row_two{
+  margin-top: 50px;
+}
+.pricing_plans_section{
+  padding: 100px 0;
+  background: #101010;
+}
+.pricing_plans_section_h3{
+  font-size: 12px;
+letter-spacing: 2px;
+line-height: 16px;
+text-transform: uppercase;
+font-family: Inter;
+color: #fac211;
+text-align: center;
+}
+.pricing_plans_section_h2{
+  font-size: 40px;
+line-height: 56px;
+font-family: Sora;
+color: #fff;
+text-align: center;
+}
+.pricing_plans_section_p{
+  font-size: 16px;
+line-height: 24px;
+font-family: Inter;
+color: rgba(255, 255, 255, 0.52);
+text-align: center;
+}
+.head_pricing{
+  font-size: 16px;
+line-height: 24px;
+font-family: Sora;
+color: #fff;
+}
+.col-md-6.pricing_col_6_first, .col-md-6.pricing_col_6_third{
+  width: 48%;
+  max-width: 48%;
+  margin-right: 10px;
+  border-radius: 12px;
+}
+.col-md-6.pricing_col_6_second, .col-md-6.pricing_col_6_fourth{
+  width: 48%;
+  max-width: 48%;
+  margin-left: 10px;
+  border-radius: 12px;
+}
+.pricing_col_6_first{
+  background: url(../images/union-first.png);
+  padding: 24px;
+  width: 45%;
+}
+.pricing_col_6_second{
+  background: url(../images/union-second.png);
+  padding: 24px;
+}
+.pricing_col_6_third{
+  background: url(../images/union-third.png);
+  padding: 24px;
+}
+.pricing_col_6_fourth{
+  background: url(../images/union-fourth.png);
+  padding: 24px;
+}
+.para_pricing{
+  font-size: 14px;
+line-height: 20px;
+font-family: Inter;
+color: rgba(255, 255, 255, 0.52);
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*Primaryb Advisory Page End*/
