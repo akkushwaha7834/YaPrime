@@ -309,7 +309,7 @@
 	border: 1px solid #FBC212;
 	transition-duration: .3s;
 	background: #FBC212;
-	color: #000;
+	color: #000 !important;
 }
 
 .get-started:hover {
