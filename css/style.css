@@ -1453,6 +1453,393 @@ textarea:focus {
 
 
 
+
+.col-width {
+  max-width: 20% !important;
+}
+
+.col-width h6 {
+  color: black;
+}
+
+.col-width a {
+  font-size: 14px;
+  font-weight: 300;
+  text-decoration: none;
+  color: rgba(34, 34, 34, 0.52);
+
+}
+
+.col-width a:hover {
+  text-decoration: none;
+  color: #FAC211;
+}
+
+.copyrights {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.footer-section p {
+  font-size: 14px;
+}
+
+.footer-section p b {
+  color: #000;
+}
+
+/* end of footer section */
+
+
+
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+/* hearder Section  */
+.outer_navbar_styling {
+  z-index: 100;
+  display: inline-flex;
+  position: fixed;
+  height: 72px;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.navbar_styling {
+  border-bottom: 1px solid #ebebeb;
+  background: #fff;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.02);
+  display: flex;
+  height: 72px;
+  padding: 12px 120px;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+  width: 1440px;
+}
+
+.logo_layout {
+  display: flex;
+  width: 108px;
+  height: 48px;
+  padding: 0.09px 0px 0.087px 0px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.option_section {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.menu_options {
+  display: flex;
+  align-items: center;
+}
+
+.menu_item {
+  display: flex;
+  padding: 0px 12px;
+  align-items: center;
+  gap: 4px;
+  color: #222;
+
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  /* 171.429% */
+}
+
+.free_qoute {
+  display: flex;
+  height: 40px;
+  padding: 8px 20px;
+  align-items: center;
+  gap: 8px;
+  border-radius: 8px;
+  background: #fac211;
+  color: #222;
+  leading-trim: both;
+  text-edge: cap;
+
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.arrow {
+  display: flex;
+  width: 12px;
+  height: 20px;
+  padding: 4px 0px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.arrow_image {
+  display: flex;
+  width: 12px;
+  height: 12px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  color: #222222;
+}
+
+.right_arrow {
+  width: 16px;
+  height: 16px;
+}
+
+/* End Of Header section */
+
+/* Hero section */
+.hero-section {
+  position: relative;
+}
+
+.slider__navi {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  z-index: 999;
+}
+
+.slider__navi a {
+  display: block;
+  height: 6px;
+  width: 20px;
+  margin: 20px 0;
+  text-indent: -9999px;
+  box-shadow: none;
+  border: none;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.slider__navi a.active {
+  background: rgba(255, 255, 255, 1);
+}
+
+
+
+.flex__container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  -webkit-flex-flow: row wrap;
+  -moz-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
+  -o-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-justify-content: flex-start;
+  -moz-justify-content: flex-start;
+  -ms-justify-content: flex-start;
+  -o-justify-content: flex-start;
+  justify-content: flex-start;
+  height: 100vh;
+  width: 100%;
+  z-index: 1;
+}
+
+.flex__container.flex--active {
+  z-index: 2;
+}
+
+.text--sub {
+  font-size: 16px;
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  padding: 20px;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+.text--big {
+  font-family: 'Poppins', sans-serif;
+  font-size: 4.5em;
+  font-weight: 700;
+  line-height: 85px;
+  color: #222;
+  margin-left: -8px;
+}
+
+.text--normal {
+  font-size: 13px;
+  color: rgba(34, 34, 34, 0.52);
+  line-height: 22px;
+  margin-top: 25px;
+}
+
+.text__background {
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  left: 72px;
+  bottom: -60px;
+  color: rgba(0, 0, 0, 0.05);
+  font-size: 170px;
+  font-weight: 700;
+}
+
+.flex__item {
+  height: 100vh;
+  color: #fff;
+  transition: transform 0.1s linear;
+}
+
+.flex__item--left {
+  display: flex;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  -moz-align-items: center;
+  -ms-align-items: center;
+  width: 65%;
+  transform-origin: left bottom;
+  transition: transform 0.1s linear 0.4s;
+  opacity: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.flex__item--right {
+  width: 35%;
+  transform-origin: right center;
+  transition: transform 0.1s linear 0s;
+  opacity: 0;
+}
+
+.flex--preStart .flex__item--left,
+.flex--preStart .flex__item--right,
+.flex--active .flex__item--left,
+.flex--active .flex__item--right {
+  opacity: 1;
+}
+
+/* Piplup */
+
+.flex--piplup .flex__item--left {}
+
+.flex--piplup .flex__item--right {
+  background: #f8d41f;
+}
+
+/* Pikachu */
+
+.flex--pikachu .flex__item--left {
+  background: #f8d41f;
+}
+
+.flex--pikachu .flex__item--right {
+  background: #333;
+}
+
+/* Blaziken */
+
+.flex--blaziken .flex__item--left {
+  background: #f8d41f;
+}
+
+.flex--blaziken .flex__item--right {
+  background: #333;
+}
+
+/* Dialga */
+
+.flex--dialga .flex__item--left {}
+
+.flex--dialga .flex__item--right {
+  background: #f8d41f;
+}
+
+/* Zekrom */
+
+.flex--zekrom .flex__item--left {
+  background: #f8d41f;
+}
+
+.flex--zekrom .flex__item--right {
+  background: #333;
+}
+
+.flex__content {
+  margin-left: 80px;
+  width: 55%;
+  opacity: 1;
+  transform: translate3d(0, 0, 0);
+  transition: transform 0.2s linear 0.2s, opacity 0.1s linear 0.2s;
+}
+
+.pokemon__img {
+  position: absolute;
+  bottom: 20px;
+  right: 15%;
+  max-height: 40vw;
+  opacity: 1;
+  transform: translate3d(0, 0, 0);
+  transition: opacity 0.43s 0.6s, transform 0.4s 0.65s cubic-bezier(0, 0.88, 0.4, 0.93);
+}
+
+/* Animate-START point */
+
+.flex__container.animate--start .flex__content {
+  transform: translate3d(0, -200%, 0);
+  opacity: 0;
+}
+
+.flex__container.animate--start .pokemon__img {
+  transform: translate3d(-200px, 0, 0);
+  opacity: 0;
+}
+
+/* Animate-END point */
+
+.flex__container.animate--end .flex__item--left {
+  transform: scaleY(0);
+}
+
+.flex__container.animate--end .flex__item--right {
+  transform: scaleX(0);
+}
+
+.flex__container.animate--end .flex__content {
+  transform: translate3d(0, 200%, 0);
+  opacity: 0;
+}
+
+.flex__container.animate--end .pokemon__img {
+  transform: translate3d(200px, 0, 0);
+  opacity: 0;
+}
+
+/* end of Hero section */
+
 /* footer section */
 .footer-section {
   display: flex;
@@ -1578,22 +1965,61 @@ h4 {
 
 
 
-/* header css */
+
+/* end of  skill section  */
+/* dark header css */
 
 
-
-.navbar_styling {
-  border-bottom: 1px solid #ebebeb;
-  background: #fff;
-  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
-    0px 4px 4px 0px rgba(0, 0, 0, 0.02);
+.navbar_styling_dark {
   display: flex;
   height: 72px;
   padding: 12px 120px;
   justify-content: space-between;
   align-items: center;
   flex-shrink: 0;
+  width: 1540px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.16);
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.02);
+  background-color: #222222;
 }
+
+.outer_navbar_styling {
+  display: inline-flex;
+  height: 72px;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.menu_item_dark {
+  display: flex;
+  padding: 0px 12px;
+  align-items: center;
+  gap: 4px;
+  color: #fff;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  /* 171.429% */
+}
+
+.arrow_image_dark {
+  display: flex;
+  width: 12px;
+  height: 12px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  color: #fff;
+}
+
+/* header css */
+
+
+
 
 .logo_layout {
   display: flex;
@@ -2573,7 +2999,7 @@ color: rgba(255, 255, 255, 0.52);
   line-height: normal;
 }
  .free_qoute_new{
-  width: 121px;
+  width: 135px;
  }
  
 .arrow {
@@ -2652,7 +3078,7 @@ color: rgba(255, 255, 255, 0.52);
   display: flex;
   height: 72px;
   padding: 12px 120px;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   flex-shrink: 0;
   width: 100vw;
@@ -3995,7 +4421,4 @@ color: rgba(255, 255, 255, 0.52);
 
 a#sub_menu_item{
   font-size: 14px!important;
-}
-.position_newHeader {
-  justify-content: center !important;
 }
