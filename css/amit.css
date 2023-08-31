@@ -1,12 +1,12 @@
 .about_banner{
-	padding: 120px 0;
+	padding: 0px 0 50px;
 	background: url(../images/mt4-banner.webp);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	margin-top: -20px;
-	border-bottom-left-radius: 100% 200px;
-	border-bottom-right-radius: 100% 200px;
+	/* margin-top: -20px; */
+	/* border-bottom-left-radius: 100% 200px;
+	border-bottom-right-radius: 100% 200px; */
 	overflow: hidden;
 }
 .about_h4{
