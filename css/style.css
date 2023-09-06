@@ -2957,7 +2957,6 @@ color: rgba(255, 255, 255, 0.52);
   justify-content: space-between;
   align-items: center;
   flex-shrink: 0;
-  width: 1440px;
 }
 
 .logo_layout {
@@ -3043,7 +3042,6 @@ color: rgba(255, 255, 255, 0.52);
   justify-content: space-between;
   align-items: center;
   flex-shrink: 0;
-  width: 1540px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.16);
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
     0px 4px 4px 0px rgba(0, 0, 0, 0.02);
@@ -3088,7 +3086,6 @@ color: rgba(255, 255, 255, 0.52);
   justify-content: center;
   align-items: center;
   flex-shrink: 0;
-  width: 100vw;
 }
 
 .logo_layout {
