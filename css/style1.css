@@ -68,8 +68,11 @@
 }
 .nav-item.dropdown.dropdown-mega .dropdown-menu {
   width: 90%;
-  top: auto;
+/*  top: auto;*/
   left: 5%;
+}
+ul.navbar-nav.mr-auto.mb-2.mb-lg-0 {
+    margin-right: 20px;
 }
 
 .navbar-toggler {
