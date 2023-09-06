@@ -4434,11 +4434,25 @@ a.nav-link.coloring_header {
   padding: 0px 15px!important;
 }
 
+.index_banner_left{
+  max-width: 48% !important;
+}
+
+.index_bnn_img{
+  height: auto;
+  width: auto;
+}
+.table-responsive{
+  width: 100% !important;
+}
+.table_width{
+  width: 100% !important;
+
+}
 
 
 
-
-@media only screen and (min-width: 767px) and (max-width: 1023px){
+@media only screen and (min-width: 767px) and (max-width: 1123px){
   .statistic{
     padding: 64px 30px;
   }
@@ -4451,4 +4465,145 @@ a.nav-link.coloring_header {
   .statistic p{
     font-size: 12px;
   }
+
+.skill-card{
+  margin-left: 0 !important;
+}
+.skill-card1{
+  margin-right: 0 !important;
+}
+.unique-section{
+  padding: 120px 20px ;
+}
+
+}
+
+
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+  .index_banner_left{
+    max-width: 100%!important;
+  }
+
+.index_bnn_img {
+  height: 65%;
+  margin-top: 30%;
+}
+.statistic{
+  padding: 64px 20px;
+  text-align: center;
+}
+.statistic_card{
+  margin: 6%;
+}
+.skill-section{
+  padding: 64px 20px;
+  /* margin-bottom: 5%; */
+}
+.skill-card{
+  margin-left: 0 !important;
+}
+.skill-card1{
+  margin-right: 0 !important;
+}
+.skill-cards{
+  margin-top: 6%;
+}
+.unique-section{
+  padding: 80px 20px ;
+}
+.reputed-section{
+  background-image: -webkit-linear-gradient(121deg, #000 90%, #F9FAFB 50%);
+  padding: 250px 20px 100px;
+}
+.whitelabel-mt4 button{
+  padding: 8px 14px;
+}
+.whitelabel-mt4{
+  align-items: center;
+}
+.whitelabel-mt4 p{
+  text-align: center !important;
+}
+.pricing_light {
+  margin-bottom: 10%;
+}
+.pricing_sec_light {
+  padding: 120px 0;
+}
+.blog-card {
+  margin-bottom: 10%;
+}
+.our_blog_section{
+  padding: 0px;
+}
+.ContactFormContainer{
+  padding: 44px !important;
+}
+.col-width{
+  max-width: 100% !important;
+}
+.footer-section{
+  padding: 20px;
+}
+.copyrights{
+  display: inline;
+}
+.footer-section p{
+  line-height: 24px;
+}
+.our_blog_grid{
+  padding: 20px;
+}
+.Details-hero-section {
+  padding: 120px 20px;
+}
+.blog-description{
+padding: 0px 20px;
+}
+.pricing_plan_section{
+  padding: 120px 20px;
+}
+.unique_feature_sec .col-md-3{
+  width: 100%;
+  flex: 100%;
+}
+.unique_feature_sec .col-md-4{
+  width: 100%;
+  flex: 100%;
+}
+#genuine_prime .nav-link {
+  padding: 9px 2px;
+  color: rgba(255, 255, 255, 0.32);
+  font-size: 8px;
+  letter-spacing: 1px;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: Inter;
+}
+
+.prime_vip_section_carousal{
+  margin-bottom: 6%;
+}
+.uiuxFeatureSection {
+  padding: 128px 20px;
+}
+.card_modification2{
+  margin-bottom: 4%;
+}
+.casestudysection_uiUx {
+  padding: 128px 20px;
+}
+.Hero_banner_vvip_section_webdev {
+ 
+  padding: 128px 20px;
+}
+.uiux_whatToSection {
+  padding: 128px 20px;
+}
+.Hero_banner_vvip_section_uiux {
+  
+  padding: 128px 20px;
+}
 }
