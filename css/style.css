@@ -4606,4 +4606,18 @@ padding: 0px 20px;
   
   padding: 128px 20px;
 }
+.free-service-hero{
+  padding: 120px 20px;
+}
+.benefits_section {
+  
+  background-image: -webkit-linear-gradient(100deg, #000 95%, #F9FAFB 50%);
+  padding: 120px 20px 128px;
+}
+.benfits_free_img2 img{
+  width: 100%;
+}
+.benefits_section_2 {
+  padding: 120px 20px;
+}
 }
