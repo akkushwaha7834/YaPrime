@@ -31,7 +31,7 @@ h1{
 
 
 p{
-  line-height: 24px !important;
+
   font-weight: 400 !important;
 }
 
@@ -4432,4 +4432,23 @@ a#sub_menu_item{
 }
 a.nav-link.coloring_header {
   padding: 0px 15px!important;
+}
+
+
+
+
+
+@media only screen and (min-width: 767px) and (max-width: 1023px){
+  .statistic{
+    padding: 64px 30px;
+  }
+  .statistic h1{
+    font-size: 40px;
+  }
+  .statistic h4{
+    font-size: 15px;
+  }
+  .statistic p{
+    font-size: 12px;
+  }
 }
