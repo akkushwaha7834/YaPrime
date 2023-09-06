@@ -24,6 +24,12 @@ h1{
   line-height: 50px !important;
 
 }
+a{
+  text-decoration: none;
+}
+ul{
+  padding-left: 0;
+}
 
 
 
