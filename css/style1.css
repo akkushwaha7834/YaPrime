@@ -73,7 +73,7 @@
   left: 5%;
 }
 ul.navbar-nav.mr-auto.mb-2.mb-lg-0 {
-    margin-right: 20px;
+    margin-right: 20px!important;
 }
 
 .navbar-toggler {
