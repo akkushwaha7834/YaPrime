@@ -463,17 +463,17 @@
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link yaprimeheader-size" href="#">Contact Us</a>
+              <a class="nav-link yaprimeheader-size" href="contact-us.html">Contact Us</a>
             </li>
           </ul>
           <form class="d-flex">
             <div class="input-group">
-              <button
+              <a href="contact-us.html" 
                 class="btn btn-primary btnn-yellow-colour border-0 yaprimeheader-size"
                 type="submit"
               >
                 Free Quote
-              </button>
+              </a>
             </div>
           </form>
         </div>
