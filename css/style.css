@@ -25,7 +25,7 @@ h1{
 
 }
 a{
-  text-decoration: none;
+  text-decoration: none !important;
 }
 ul{
   padding-left: 0;
@@ -49,7 +49,7 @@ li{
 /* skill section  */
 
 .skill-section{
-    padding: 128px 120px;
+    padding: 80px 120px;
 
 }
 
@@ -71,7 +71,21 @@ line-height: 24px;
 }
 .Skill-text h3{
   line-height: 45px !important;
+  font-size: 35px;
+  font-weight: 700;
 
+}
+.skill-card h5{
+  font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px;
+}
+.skill-card1 h5{
+  font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px;
 }
 .skill-card{
   color: #222;
@@ -171,11 +185,11 @@ color: #00b14f;
 
 
   background-color: #F9FAFB;
-  background-image: -webkit-linear-gradient(97deg, #000 87%, #F9FAFB 50%);
+  background-image:  -webkit-linear-gradient(93deg, rgb(0, 0, 0) 93%, rgb(249, 250, 251) 50%);
 
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 250px 120px 100px;
+  padding: 100px ;
 text-align: center;
 background-color: transparent;
 }
@@ -328,7 +342,7 @@ background: #FFF !important;
 .unique-section{
   text-align: center;
   background-color: #F9FAFB;  
-  padding: 120px 60px;
+  padding: 80px 60px;
   gap: 64px;
 }
 .unique-section h1{
@@ -368,6 +382,10 @@ line-height: 24px;
   text-align: left;
   border-radius: 16px !important;
 
+  }
+  .talk_img {
+    margin-left: 47%;
+    width: 100%;
   }
 
   .book-bg{
@@ -418,7 +436,7 @@ gap: 64px;
 .our_blog_grid{
   display: flex;
 
-padding: 120px ;
+padding: 80px ;
 flex-direction: column;
 justify-content: center;
 align-items: flex-start;
@@ -539,6 +557,9 @@ font:normal !important;
   transition: 0.5 ease;
   cursor: pointer;
   transition: 0.5s ease-in
+}
+.blog-card h3{
+  font-size: 20px;
 }
 .blog-card:hover {
   transition:0.5s ease-out;
@@ -895,7 +916,7 @@ line-height: 24px;
 
 
 .home_banner{
-  /* padding: 150px; */
+  padding: 80px;
   background-image: url(/images/div.svg);
 
   background-size: cover;
@@ -911,7 +932,7 @@ line-height: 24px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 125px 0;
+  padding: 80px 0;
   /* margin-top: -20px; */
   border-bottom-left-radius: 100% 200px;
 		border-bottom-right-radius: 100% 200px;
@@ -971,7 +992,7 @@ line-height: 24px;
 
 /*Benefits Start*/
 .benefits_sec {
-  padding: 100px 0;
+  padding: 80px 0;
   background: url(../images/benefits_bg.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -2224,9 +2245,7 @@ h4 {
 
 .image_section {
   display: flex;
-  width: 596px;
-  height: 440px;
-  padding: 20px 30.321px 20px 30.32px;
+
   justify-content: center;
   align-items: center;
   flex-shrink: 0;
@@ -2400,7 +2419,7 @@ h4 {
 }
 
 .unique_feature_sec {
-  padding: 100px 0;
+  padding: 80px 0;
 }
 
 .unique_heading {
@@ -3154,8 +3173,10 @@ color: rgba(255, 255, 255, 0.52);
   flex-direction: column;
   align-items: flex-start;
   gap: 32px;
-  margin-top: 55px;
-  margin-left: 40px;
+
+}
+.prime_vip_iimg{
+  width: 100%;
 }
 .text_section {
   display: flex;
@@ -3383,7 +3404,7 @@ color: rgba(255, 255, 255, 0.52);
   line-height: 24px; /* 150% */
   padding-top: 20px;
 }
-.Benefits_section {
+.Benefits_section_prime {
   padding-top: 40px;
   background-color: #22222214;
   padding-bottom: 40px;
@@ -3450,6 +3471,13 @@ color: rgba(255, 255, 255, 0.52);
   gap: 32px;
   flex-shrink: 0;
 }
+.hero_banner_section{
+
+  background-color: #101010;
+
+  padding-bottom: 64px;
+
+} 
 .inner_mission_section {
   display: flex;
   flex-direction: column;
