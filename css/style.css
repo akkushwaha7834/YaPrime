@@ -4653,3 +4653,15 @@ padding: 0px 20px;
   padding: 120px 20px;
 }
 }
+.prime_special-section{
+  padding: 80px 0;
+}
+.prime_accordion_buttons .accordion-button:not(.collapsed){
+  background-color:#fac211;
+  box-shadow: none;
+  border-color: #fac211;
+}
+.prime_accordion_buttons .accordion-button:focus{
+  border-color:#fac211;
+  box-shadow:none;
+}
