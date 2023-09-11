@@ -2145,8 +2145,8 @@ h4 {
   flex-direction: column;
   align-items: flex-start;
   gap: 32px;
-  margin-top: 55px;
-  margin-left: 40px;
+/*  margin-top: 55px;
+  margin-left: 40px;*/
 }
 
 .text_section {
@@ -3410,19 +3410,19 @@ color: rgba(255, 255, 255, 0.52);
   padding-bottom: 40px;
 }
 
-.feature_section {
+/*.feature_section {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 12px;
-}
+}*/
 .feature_first {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: -44px;
+/*  gap: -44px;
   padding-left: 90px !important;
-  padding-right: 90px !important;
+  padding-right: 90px !important;*/
 }
 .ready_heading {
   color: #222;
@@ -3475,7 +3475,7 @@ color: rgba(255, 255, 255, 0.52);
 
   background-color: #101010;
 
-  padding-bottom: 64px;
+  padding: 80px 0;
 
 } 
 .inner_mission_section {
@@ -4037,7 +4037,7 @@ border-width: 2px;
 /* pricing prime vvip  */
 .pricing_primevvip_package_section {
   display: flex;
-  padding: 128px 120px 0px 120px;
+  padding: 120px 0;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -4704,4 +4704,16 @@ padding: 0px 20px;
 .benefits_section_2 {
   padding: 120px 20px;
 }
+}
+.prime_special-section{
+  padding: 80px 0;
+}
+.prime_accordion_buttons .accordion-button:not(.collapsed){
+  background-color:#fac211;
+  box-shadow: none;
+  border-color: #fac211;
+}
+.prime_accordion_buttons .accordion-button:focus{
+  border-color:#fac211;
+  box-shadow:none;
 }
