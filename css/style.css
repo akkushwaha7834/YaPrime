@@ -4285,23 +4285,23 @@ border-width: 2px;
 
 .technologies_uiux {
   color: #222;
-
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
-  line-height: 56px; /* 140% */
+  line-height: 56px;
+  padding-top: 30px;
 }
 .uiuxmain_banner_technology {
-  justify-content: center;
+/*  justify-content: center;*/
   padding-top: 30px;
 }
 .app_design_position {
   justify-content: center;
-  padding-top: 20px;
+  padding-top: 30px;
   display: flex;
 }
 .uiuxFeatureSection {
-  padding: 128px 120px 120px 120px;
+  padding: 80px 0;
 }
 .uiuxHeading {
   color: #222;
