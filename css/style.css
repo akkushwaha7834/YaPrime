@@ -189,18 +189,21 @@ color: #00b14f;
 
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 100px ;
+  padding: 80px ;
 text-align: center;
 background-color: transparent;
 }
 
 .reputed-section h1{
   color: #FFF;
-
+  margin-top: 7%;
 font-size: 40px;
 font-style: normal;
 font-weight: 700;
 line-height: 56px;
+}
+.bl_des_img{
+  margin-bottom: 5%;
 }
 
 .reputed-section p{
@@ -559,7 +562,7 @@ font:normal !important;
   transition: 0.5s ease-in
 }
 .blog-card h3{
-  font-size: 20px;
+  font-size: 16px;
 }
 .blog-card:hover {
   transition:0.5s ease-out;
@@ -628,7 +631,7 @@ font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: 28px;
-margin-bottom: 20px;
+margin-bottom: 7%;
 }
 
 .blog-description h4{
@@ -1063,11 +1066,14 @@ line-height: 24px;
 .pricing_sec {
 
   background-color: #F9FAFB;
-  background-image: -webkit-linear-gradient(98deg, #000 87%, #F9FAFB 50%);
-  padding: 250px 0 150px;
+  background-image: -webkit-linear-gradient(94deg, #000 92%, #F9FAFB 50%);
+  padding: 80px;
   background-repeat: no-repeat;
   background-size: cover;
 
+}
+.pricing-plans-parent{
+  margin-top: 7%;
 }
 .pricing_sec_personal{
   background-color: #F9FAFB;
@@ -1078,7 +1084,7 @@ line-height: 24px;
 } 
 
 .pricing_sec_light{
-  padding: 120px 0 150px;
+  padding: 80px  ;
 }
 .pricing-plans  {
   font-size: 12px;
@@ -2832,7 +2838,7 @@ color: rgba(34, 34, 34, 0.52);
 margin-top: 10px;
 }
 .mt4_white_lable_sec{
-  padding: 100px 0;
+  padding: 80px 0;
   background: #F9FAFB;
 }
 .crm_row_two, .crm_row_three{
@@ -4615,6 +4621,10 @@ a.nav-link.coloring_header {
 .pricing_sec_light {
   padding: 120px 0;
 }
+.blog-hero-content h1{
+  font-size: 24px;
+  line-height: 32px !important;
+}
 .blog-card {
   margin-bottom: 10%;
 }
@@ -4640,7 +4650,7 @@ a.nav-link.coloring_header {
   padding: 20px;
 }
 .Details-hero-section {
-  padding: 120px 20px;
+  padding: 30px 20px;
 }
 .blog-description{
 padding: 0px 20px;
