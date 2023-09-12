@@ -12,10 +12,10 @@
             Liquidity solutions
           </h4>
           <h1 class="liquidity_h1">
-            Prime of prime forex liquidity
+          Complete solution for Prime Liquidity
           </h1>
           <p class="liquidity_p">
-            The deepest liquidity pool in the forex market
+          Get started by choosing your current skill level
           </p>
           <div class="cta_liquidity">
             <a class="unique_anchor_one" href="#">Request a Demo </a>
@@ -41,14 +41,9 @@
               Forex liquidity
             </h1>
             <p class="forex_liquidity_p">
-              B2Broker offers direct market access to major Tier-1 FX liquidity venues, empowering your business with
-              incomparable levels of technology, the deepest liquidity pool, speed of execution and professional support
-              with full transparency and trading anonymity at ultra-competitive trading costs.</p>
+            Choose YaPrime for unparalleled liquidity solutions, bespoke services, and a trusted partnership that drives your financial success .We offer a range of integration options, including APIs and FIX connectivity, to make it easy to integrate with existing systems</p>
             <p class="forex_liquidity_p">
-              With our liquidity solutions, we are able to provide financial institutions highly developed liquidity
-              access, infrastructure and connectivity choices necessary to handle even the most complex HFT systems.
-              Using our expertise and technology, we deliver customized liquidity solutions tailored to our clients'
-              exact execution needs.
+            We offer direct access to Liquidity from Institutional Liquidity pools – through our partnership with a regulated Liquidity Provider, and use our Data Feeds to enjoy the low latency price streams for more than 300 instruments
             </p>
           </div>
           <div class="liquidity_counter">

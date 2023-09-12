@@ -91,8 +91,8 @@
                       choosing your current skill level</h3>
                       <br>
                       <!-- <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores atque, libero excepturi iusto maiores nihil, perspiciatis voluptas quos impedit sint laboriosam. Vel culpa iure nesciunt sequi officiis nostrum libero autem.</p> -->
-                      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores atque, libero excepturi iusto maiores nihil, perspiciatis voluptas quos impedit sint laboriosam. Vel culpa iure nesciunt sequi officiis nostrum libero autem.</p>
-                      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores atque, libero excepturi iusto maiores nihil, perspiciatis voluptas quos impedit sint laboriosam. Vel culpa iure nesciunt sequi officiis nostrum libero autem.</p>
+                      <p>YaPrime believes in setting the industry standard for liquidity and market access solutions. We recognize that our global customer base has varied requirements and priorities, and our solutions are designed around this understanding.</p>
+                      <p>We offer direct access to Liquidity from Institutional Liquidity pools – through our partnership with a regulated Liquidity Provider, and use our Data Feeds to enjoy the low latency price streams for more than 300 instruments.</p>
                   
                   
                     </div>
@@ -105,7 +105,6 @@
                         </div>
                         <h5 class="card-title">I’m a beginner</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet consectetur.</p>
-                       
                       </div>
                     </div>
                     <div class="skill-image">
@@ -161,14 +160,13 @@
                             <div class="card-body ">
                               <div class="feqatured-card-header">
                                   <img src="images/customer-service 1.jpg"/>
-                                  <h5 class="card-title">Take full control <br>and client
-                                    ownership</h5>
+                                  <h5 class="card-title">CRM & BACK OFFICE</h5>
                               </div>
                               
 
 
                               <br>
-                              <p class="card-text">Create new clients, execute deposits and withdrawals, observe live trading activity of your clients and view overall portfolio performance.</p>
+                              <p class="card-text">A fully automated client service is in the spotlight. A new generation of professional trader’s room for stepping up into the competitive Forex Market</p>
                              
                             </div>
                           </div>
@@ -198,10 +196,10 @@
                             <div class="card-body ">
                               <div class="feqatured-card-header">
                                   <img src="images/Frame 1000002854.jpg"/>
-                                  <h5 class="card-title">Independent liquidity</h5>
+                                  <h5 class="card-title">Forex Liquidity </h5>
                               </div>
                        <br>
-                              <p class="card-text">Count your setup and monthly spending for successful forex broker, Find YaPrime quality service priced low.</p>
+                              <p class="card-text">Choose YaPrime for unparalleled liquidity solutions, bespoke services, and a trusted partnership that drives your financial success .We offer a range of integration options, including APIs and FIX connectivity, to make it easy to integrate with existing systems</p>
                              
                             </div>
                           </div>
@@ -215,10 +213,11 @@
                             <div class="card-body ">
                               <div class="feqatured-card-header">
                                   <img src="images/customer-service (1) 1.jpg"/>
-                                  <h5 class="card-title">Dedicated partner <br>  and customer support</h5>
+                                  <h5 class="card-title">Prime Account</h5>
                               </div>
                        <br>
-                              <p class="card-text">As well as 24/5 dealing, customer service & technical support, we provide training & ongoing strategic advice to help grow your business.</p>
+                              <p class="card-text">
+An exclusive account for high volume traders looking for competitive pricing and extra benefits.</p>
                              
                             </div>
                           </div>
