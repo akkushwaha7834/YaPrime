@@ -35,7 +35,7 @@
 
     <nav class="navbar navbar-expand-lg shadow positoning-fluid-container">
       <div class="container" id="container-switch" >
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="index.php">
           <img src="images/yaprime__svglogo.svg" alt="logo" />
         </a>
         <button
@@ -227,8 +227,8 @@
                     <div class="row">
                       <h5 class="new-header-main-heading row_positioning992">Broker Solution</h5>
                       <div class="col-12 col-sm-4 col-md-3 py-4">
-                        <a href="mt4-white-label.php">
-                          <h5 class="new-header-heading">MT4 White Label</h5>
+                        <a href="white-label.php">
+                          <h5 class="new-header-heading">White Label</h5>
                         </a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
@@ -241,11 +241,10 @@
                         </p>
                       </div>
 
-                      <div class="col-12 col-sm-4 col-md-3 py-4">
-                        <a href="mt5-white-label.php">
-                          <h5 class="new-header-heading">MT5 White Label</h5>
+                      <div class="col-12 col-sm-4 col-md-4 py-4">
+                        <a href="admin-consultation.php">
+                          <h5 class="new-header-heading">Admin Consultation</h5>
                         </a>
-
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
@@ -257,15 +256,15 @@
                         </p>
                       </div>
 
-                      <div class="col-12 col-sm-4 col-md-3 py-4">
+                     <!--  <div class="col-12 col-sm-4 col-md-3 py-4">
                         <a href="admin-consultation.php">
                           <h5 class="new-header-heading">Admin Consultation</h5>
                         </a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
-                      </div>
-                      <div class="col-12 col-sm-4 col-md-3 py-4 row_positioning992">
+                      </div> -->
+                      <div class="col-12 col-sm-4 col-md-4 py-4 row_positioning992">
                         <div class="card">
                           <div class="card-body yaprime_card-body">
                             <div class="yaprime_newheader_heading">
