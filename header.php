@@ -83,8 +83,8 @@
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
-                        <a class="newheaderyaprime" href="#">
-                          <h5 class="new-header-heading">Pricelist</h5></a
+                        <a class="newheaderyaprime" href="contact-us.php">
+                          <h5 class="new-header-heading">Contact Us</h5></a
                         >
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
@@ -140,6 +140,9 @@
                   </div>
                 </div>
               </div>
+            </li>
+             <li class="nav-item">
+              <a class="nav-link yaprimeheader-size" href="liquidity-solution.php">Liquidity Solution</a>
             </li>
             <li class="nav-item dropdown dropdown-mega position-static">
               <a
@@ -425,10 +428,12 @@
                
               </ul>
             </li>
-            <li class="nav-item">
+           
+           <!--   <li class="nav-item">
               <a class="nav-link yaprimeheader-size" href="contact-us.php">Contact Us</a>
-            </li>
+            </li> -->
           </ul>
+          
           <form class="d-flex">
             <div class="input-group">
               <a href="contact-us.php" 
