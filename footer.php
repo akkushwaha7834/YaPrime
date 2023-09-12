@@ -29,8 +29,6 @@
             <p><i class="fa fa-volume-control-phone"></i> +357 22030234</p>
 
             <p> <i class="fa fa-envelope"></i> support@yaprime.com</p>
-            </li>
-            </ul>
           </div>
         </div>
 
