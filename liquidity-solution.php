@@ -293,7 +293,7 @@
             Pricing plans
           </h4>
           <h2 class="unique_heading">700 trading products<br>7 asset classes</h2>
-          <p class="unique_para">700+ financial instruments and 7 asset classes including FOREX, indices, shares, precious metals, energy and cryptocurrencies. With a strong reputation, solid financial markets expertise and access to the best solutions, B2Broker is one of the most sought-after liquidity providers in the industry. </p>
+          <p class="unique_para">700+ financial instruments and 7 asset classes including FOREX, indices, shares, precious metals, energy and cryptocurrencies. With a strong reputation, solid financial markets expertise and access to the best solutions, YaPrime is one of the most sought-after liquidity providers in the industry. </p>
         </div>
       </div>
       <div class="row benefits_row_two">

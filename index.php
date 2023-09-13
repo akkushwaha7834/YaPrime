@@ -11,8 +11,8 @@
   </ol>
   <div class="carousel-inner">
     <div id="overlay" class="carousel-item active">
-      <img src="images/p1.jpg" class="d-block w-100 index_banner_hieght" alt="...">
-      <div class="overlay"></div>
+      <img src="images/yaprime-banner.png" class="d-block w-100 index_banner_hieght" alt="...">
+      <!-- <div class="overlay"></div> -->
       <div class="carousel-caption d-none d-md-block carousel-text-div">
         <h1>Start your own
           <br>
@@ -24,8 +24,8 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="images/p2.jpg" class="d-block w-100 index_banner_hieght" alt="...">
-      <div class="overlay"></div>
+      <img src="images/yaprime-banner.png" class="d-block w-100 index_banner_hieght" alt="...">
+      <!-- <div class="overlay"></div> -->
       <div class="carousel-caption d-none d-md-block carousel-text-div">
         <h1>Start your own
           <br>
@@ -34,27 +34,17 @@
         <a href="">Start Broker</a>
       </div>
     </div>
-    <!-- <div class="carousel-item">
-      <img src="images/p3.jpg" class="d-block w-100 index_banner_hieght" alt="...">
-      <div class="carousel-caption d-none d-md-block carousel-text-div">
-        <h1>Third slide label</h1>
-        <p>Some representative placeholder content for the first slide.</p>
-      </div>
-    </div> -->
   </div>
-  <button class="carousel-control-prev" type="button" data-target="#carouselExampleIndicators" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-target="#carouselExampleIndicators" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </button>
 </div>
+
+<!-- Live Data -->
+
+<?php include 'trading-spreads.php';?>
+
+<!-- Live Data -->
        
            <!-- Statistic Section -->
-           <br>
-           <br>
+
            <section class="statistic">
             <div class="container">
                 <div class="row">
