@@ -311,6 +311,121 @@ An exclusive account for high volume traders looking for competitive pricing and
                </div>
              </section>
              <!--End Of Reputed Section -->
+             <!-- Partners Section -->
+             <section class="partners-section">
+             <div class="container partners_logo">
+             <h1>Liquidity partners</h1>
+<ul class="logogrid">
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+  </li>
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+</ul>
+
+</div>
+<div class="container partners_logo">
+<h1>Liquidity partners</h1>
+<ul class="logogrid">
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+  </li>
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+</ul>
+
+</div>
+<div class="container partners_logo">
+<h1>Liquidity partners</h1>
+<ul class="logogrid">
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+  </li>
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+  <li class="logogrid__item">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+
+  </li>
+</ul>
+
+</div>
+             </section>
+             <!-- end of partners section -->
               <!-- Pricing Start -->
   <section class="pricing_sec_light">
     <div class="container">
