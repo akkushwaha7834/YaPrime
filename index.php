@@ -37,11 +37,6 @@
   </div>
 </div>
 
-<!-- Live Data -->
-
-<?php include 'trading-spreads.php';?>
-
-<!-- Live Data -->
        
            <!-- Statistic Section -->
 
@@ -72,6 +67,12 @@
             </div>
         </section>
         <!--End Of Statistic Section -->
+
+        <!-- Live Data -->
+
+<?php include 'trading-spreads.php';?>
+
+<!-- Live Data -->
             <!-- skills section -->
             <section class="skill-section">
               <div class="container">
