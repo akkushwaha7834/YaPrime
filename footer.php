@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-8">
-          <img src="images/yaprime-logo.svg" />
+          <img src="images/yaprime-logo.svg" class='footer-logo' />
 
           <p>YaPrime is a group of expert broker consultants here to guide you and help you in setting up your
             own Forex business. Since its advent, YaPrime has advanced with the sole goal in mind – to
@@ -37,16 +37,16 @@
 
       <div class="row">
         <div class="col-md-3 col-width">
-          <h6>The company</h6>
+          <h6>About company</h6>
           <ul>
-            <a href="#">
+            <a href="about-us.php">
               <li>About us</li>
             </a>
 
             <a href="#">
               <li>Why choose us</li>
             </a>
-            <a href="#">
+            <a href="blogs.php">
               <li>Our Blog</li>
             </a>
             <a href="#">
@@ -58,27 +58,27 @@
             <a href="#">
               <li>Meet our Team</li>
             </a>
-            <a href="#">
+            <!-- <a href="#">
               <li>Pricelist</li>
-            </a>
+            </a> -->
           </ul>
         </div>
         <div class="col-md-3 col-width">
-          <h6>Products</h6>
+          <h6>Broker Solution</h6>
           <ul>
-            <a href="#">
-              <li>MT4 White Label</li>
+            <a href="white-label.php">
+              <li>White Label</li>
             </a>
             <a href="#">
-              <li>MT5 White Label</li>
+              <li>Admin Consultation</li>
             </a>
-            <a href="#">
-              <li>MT4/MT5 White Label Packages</li>
+            <a href="liquidity.php">
+              <li>Liquidity Solution</li>
             </a>
-            <a href="#">
-              <li>Forex Broker CRM</li>
+            <a href="crm-api.php">
+              <li>CRM & API</li>
             </a>
-            <a href="#">
+            <!-- <a href="#">
               <li>Plugins</li>
             </a>
             <a href="#">
@@ -86,28 +86,29 @@
             </a>
             <a href="#">
               <li>PAMM/MAM for MT4 and MT5</li>
-            </a>
+            </a> -->
           </ul>
         </div>
         <div class="col-md-3 col-width">
           <h6>Services</h6>
           <ul>
-            <a href="#">
-              <li>Forex Company Formation</li>
+         
+            <a href="ui-ux.php">
+              <li>UI/UX Design</li>
+            </a>
+            <a href="web-development">
+              <li>Web Development</li>
+            </a>
+            <a href="app-development">
+              <li>App Development</li>
+            </a>
+            <a href="graphic-design.php">
+              <li>Graphic Design</li>
             </a>
             <a href="#">
-              <li>Forex License</li>
+              <li>Digital Marketing</li>
             </a>
-            <a href="#">
-              <li>Business Setup UAE</li>
-            </a>
-            <a href="#">
-              <li>Bank account opening</li>
-            </a>
-            <a href="#">
-              <li>MT4 and MT5 Liquidity Bridge</li>
-            </a>
-            <a href="#">
+            <!-- <a href="#">
               <li>Ctrader white labels</li>
             </a>
             <a href="#">
@@ -115,25 +116,25 @@
             </a>
             <a href="#">
               <li>Exchange solutions</li>
-            </a>
+            </a> -->
           </ul>
         </div>
         <div class="col-md-3 col-width">
-          <h6>Features</h6>
+          <h6>Research & Advisory</h6>
           <ul>
-            <a href="#">
-              <li>Start Forex Brokerage</li>
+          <a href="ya-wealth.php">
+              <li>Ya Wealth</li>
             </a>
-            <a href="#">
-              <li>Brokerage Revenue model</li>
+            <a href="free-service.php">
+              <li>Free Services</li>
             </a>
-            <a href="#">
-              <li>MT4 vs MT5 comparison chart</li>
+            <a href="personal-advisory.php">
+              <li>Personal Advisory</li>
             </a>
-            <a href="#">
-              <li>Forex Brokerage startup FAQ</li>
+            <a href="blogs.php">
+              <li>Our Blog</li>
             </a>
-            <a href="#">
+            <!-- <a href="#">
               <li>Project Timeline</li>
             </a>
             <a href="#">
@@ -141,22 +142,22 @@
             </a>
             <a href="#">
               <li>Forex CRM feature</li>
-            </a>
+            </a> -->
           </ul>
         </div>
         <div class="col-md-3 col-width">
-          <h6>Branding & Features</h6>
+          <h6>Institutional Trading</h6>
           <ul>
-            <a href="#">
-              <li>Forex logo Design</li>
+            <a href="prime-vip.php">
+              <li>Prime VIP</li>
             </a>
-            <a href="#">
-              <li>Forex web Design</li>
+            <a href="prime-vvip.php">
+              <li>Prime VVIP</li>
             </a>
-            <a href="#">
-              <li>Landing page Design</li>
+            <a href="prime-special.php">
+              <li>Prime Special</li>
             </a>
-            <a href="#">
+            <!-- <a href="#">
               <li>Forex SEO</li>
             </a>
             <a href="#">
@@ -164,14 +165,14 @@
             </a>
             <a href="#">
               <li>Email Marketing</li>
-            </a>
+            </a> -->
 
           </ul>
         </div>
 
 
       </div>
-      <hr />
+      <!-- <hr />
       <div class="row">
         <div class="col-md-3 col-width">
           <h6>Useful Links</h6>
@@ -267,7 +268,7 @@
         </div>
 
 
-      </div>
+      </div> -->
       <hr />
       <p>YaPrime is the industry leader in the Forex and CFD markets. registered in Vanuata. We provide certain services
         like Forex White Label, Company formation, License service under the company name. Registered office @ Law

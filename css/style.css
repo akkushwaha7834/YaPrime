@@ -1100,6 +1100,10 @@ line-height: 24px;
 .pricing-plans-parent{
   margin-top: 7%;
 }
+.footer-logo{
+  width: 20%;
+  margin-bottom: 2%;
+}
 
 .check-our-white {
   position: relative;
@@ -1182,6 +1186,11 @@ line-height: 24px;
 	text-align: left;
 
 }
+.navbar-brand img {
+    height: 55px;
+    width: 130px;
+}
+
 .month {
   font-size: 14px;
   font-weight: 500;
@@ -3756,7 +3765,8 @@ color: rgba(255, 255, 255, 0.52);
   top: 50%;
   right: 0;
   bottom: auto;
-  left: 0;
+
+  left: 2%;
   display: flex;
   align-items: center;
   -webkit-transform: translateY(-50%);
@@ -4714,6 +4724,10 @@ padding: 0px 20px;
 }
 .benfits_free_img2 img{
   width: 100%;
+}
+.talk_img {
+  margin-left: 15%;
+  /* width: 100%; */
 }
 .benefits_section_2 {
   padding: 120px 20px;
