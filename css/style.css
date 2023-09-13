@@ -3762,7 +3762,7 @@ color: rgba(255, 255, 255, 0.52);
 }
 /* partners section */
 .partners-section{
-  padding: 80px 250px;
+  padding: 80px 250px 0;
 }
 .logogrid {
   padding: 0;

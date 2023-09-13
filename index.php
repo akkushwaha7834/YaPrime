@@ -318,7 +318,7 @@ An exclusive account for high volume traders looking for competitive pricing and
              <!-- Partners Section -->
              <section class="partners-section">
              <div class="container partners_logo">
-             <h1>Liquidity partners</h1>
+             <h1>Liquidity Partners</h1>
                 <ul class="logogrid">
                   <li class="logogrid__item">
                   <img src="images/CFH-clear.webp" class="logogrid__img" alt="Google">
@@ -335,96 +335,45 @@ An exclusive account for high volume traders looking for competitive pricing and
                   <img src="images/finalto_dark.png" class="logogrid__img" alt="Google">
 
                   </li>
-                  <li class="logogrid__item">
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
 
-                  </li>
-                  <li class="logogrid__item">
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
-
-                  </li>
-                  <li class="logogrid__item">
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
-
-                  </li>
-                  <li class="logogrid__item">
-                       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
-
-                  </li>
+                  
                 </ul>
 
 </div>
 <div class="container partners_logo">
-<h1>Liquidity partners</h1>
+<h1>Technology Partners</h1>
 <ul class="logogrid">
   <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+  <img src="images/fortex-fx.png" class="logogrid__img" alt="Google">
 
   </li>
   <li class="logogrid__item">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+    <img src="images/Zero-One-Bank-Logo.png" class="logogrid__img" alt="Google">
   </li>
   <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+  <img src="images/brokree.svg" class="logogrid__img" alt="Google">
 
   </li>
-  <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
-
-  </li>
-  <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
-
-  </li>
-  <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
-
-  </li>
-  <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
-
-  </li>
-  <li class="logogrid__item">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
-
-  </li>
+  
+  
 </ul>
 
 </div>
 <div class="container partners_logo">
-<h1>Liquidity partners</h1>
+<h1>Trading Platform Partners</h1>
 <ul class="logogrid">
   <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+  <img src="images/metaQuotes-logo.png" class="logogrid__img" alt="Google">
 
   </li>
   <li class="logogrid__item">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+    <img src="images/ctrader_logo.png" class="logogrid__img" alt="Google">
   </li>
   <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+  <img src="images/match-trade-logo.png" class="logogrid__img" alt="Google">
 
   </li>
-  <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
-
-  </li>
-  <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
-
-  </li>
-  <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
-
-  </li>
-  <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
-
-  </li>
-  <li class="logogrid__item">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
-
-  </li>
+  
 </ul>
 
 </div>
