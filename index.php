@@ -15,28 +15,28 @@
       <!-- <div class="overlay"></div> -->
      
       <div class="carousel-caption d-none d-md-block carousel-text-div">
-      <div class="col-md-6">
         <h1>Start your own
           <br>
           profitable forex broker
         </h1>
 
         <p>Are you ready to venture into the dynamic and potentially lucrative world of Forex brokerage?</p>
-        <a href="">Start Broker</a>
-      </div>
+        <a class="unique_anchor_one" href="#">Request a Demo </a>
+
       </div>
     </div>
     <div class="carousel-item">
       <img src="images/yaprime-banner.png" class="d-block w-100 index_banner_hieght" alt="...">
       <!-- <div class="overlay"></div> -->
       <div class="carousel-caption d-none d-md-block carousel-text-div">
-      <div class="col-md-6">
-        <h1>Start your own
-          <br>
-          profitable forex broker</h1>
-        <p>Look no further! YaPrime is your trusted partner on the path to establishing a profitable and sustainable Forex brokerage business.</p>
-        <a href="">Start Broker</a>
-</div>
+            <h1>Start your own
+              <br>
+              profitable forex broker
+            </h1>
+
+            <p>Are you ready to venture into the dynamic and potentially lucrative world of Forex brokerage?</p>
+            <a class="unique_anchor_one" href="#">Request a Demo </a>
+
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-target="#carouselExampleIndicators" data-slide="prev">
@@ -319,39 +319,39 @@ An exclusive account for high volume traders looking for competitive pricing and
              <section class="partners-section">
              <div class="container partners_logo">
              <h1>Liquidity partners</h1>
-<ul class="logogrid">
-  <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+                <ul class="logogrid">
+                  <li class="logogrid__item">
+                  <img src="images/CFH-clear.webp" class="logogrid__img" alt="Google">
 
-  </li>
-  <li class="logogrid__item">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
-  </li>
-  <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+                  </li>
+                  <li class="logogrid__item">
+                    <img src="images/LMAX.png" class="logogrid__img" alt="Google">
+                  </li>
+                  <li class="logogrid__item">
+                  <img src="images/match-trade-logo.png" class="logogrid__img" alt="Google">
 
-  </li>
-  <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+                  </li>
+                  <li class="logogrid__item">
+                  <img src="images/finalto_dark.png" class="logogrid__img" alt="Google">
 
-  </li>
-  <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+                  </li>
+                  <li class="logogrid__item">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
 
-  </li>
-  <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+                  </li>
+                  <li class="logogrid__item">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
 
-  </li>
-  <li class="logogrid__item">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+                  </li>
+                  <li class="logogrid__item">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
 
-  </li>
-  <li class="logogrid__item">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
+                  </li>
+                  <li class="logogrid__item">
+                       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="logogrid__img" alt="Google">
 
-  </li>
-</ul>
+                  </li>
+                </ul>
 
 </div>
 <div class="container partners_logo">

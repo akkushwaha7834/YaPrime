@@ -3787,8 +3787,9 @@ color: rgba(255, 255, 255, 0.52);
 }
 .logogrid__img {
   object-fit: cover;
-  max-width: 120px;
-  max-height: 60px;
+  /*max-width: 120px;
+  max-height: 60px;*/
+  width: 150px;
   filter: grayscale(100%) contrast(25%);
   transition: filter 0.3s ease;
 }
@@ -3811,15 +3812,22 @@ color: rgba(255, 255, 255, 0.52);
 }
 
 .carousel-text-div h1{
-  font-size: 30px;
-  line-height: 45px !important;
+  font-size: 50px;
+  line-height: 65px !important;
   font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 20px;
 }
 .carousel-text-div p{
   font-size: 16px;
+  text-align: center;
+  margin-bottom: 20px;
 
 }
-
+.carousel-caption.carousel-text-div{
+  text-align: center!important;
+}
 .carousel-text-div a{
  display: inline-flex;
  font-weight: 500;
@@ -3833,6 +3841,7 @@ border-radius: 3px;
 /* border: 1px solid #222; */
 background: #FAC211;
 border-width: 2px;
+text-align: center;
 }
 .overlay {
   position: absolute;
