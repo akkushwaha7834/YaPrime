@@ -3811,12 +3811,12 @@ color: rgba(255, 255, 255, 0.52);
 }
 
 .carousel-text-div h1{
-   font-size: 50px ;
-   line-height: 70px !important;
-   font-weight: 700;
+  font-size: 30px;
+  line-height: 45px !important;
+  font-weight: 700;
 }
 .carousel-text-div p{
-  font-size: 23px;
+  font-size: 16px;
 
 }
 
