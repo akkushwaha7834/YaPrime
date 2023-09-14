@@ -5,24 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <title>YaPrime</title>
-    <link rel="stylesheet" type="text/css" href="css/bootstrap5.3.0.min.css">
-    <link rel="stylesheet" type="text/css" href="css/material-design-iconic-font.min.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="fonts/font-awesome.css">
-    <link rel="stylesheet" type="text/css" href="css/font-poppins.css">
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&amp;display=swap"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css" integrity="sha512-Mo79lrQ4UecW8OCcRUZzf0ntfMNgpOFR46Acj2ZtWO8vKhBvD79VCp3VOKSzk6TovLg5evL3Xi3u475Q/jMu4g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./script.js"></script>
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/amit.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <script src="js/index1.js"></script>
     <link rel="stylesheet" href="css/style1.css" />
     
-    
-    
-    
-
-
-    <script src="js/index1.js"></script>
-    <script src="./script.js"></script>
-    <script type="text/javascript" src="js/bootstrap.bundle.min5.2.0.js"></script>
   </head>
   <body>
     <div></div>
