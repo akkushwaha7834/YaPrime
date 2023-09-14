@@ -1423,7 +1423,7 @@ line-height: 56px
 }
 
 .form-style {
-  margin: 5%;
+  margin-top: 2%;
 }
 
 .input-style {
@@ -2741,6 +2741,9 @@ h4 {
 
 #partners .nav-tabs {
   border-bottom: none;
+  display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .pricing_plan_section {
@@ -3821,6 +3824,13 @@ color: rgba(255, 255, 255, 0.52);
 }
 .partners_logo_card{
   box-shadow: 2px 2px 7px; 
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding: -37px; */
+    width: 220px;
+    height: 70px;
+    /* border: 1px solid yellow; */
 }
 .partners_logo_card:hover{
   box-shadow: 5px 5px 15px; 

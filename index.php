@@ -193,7 +193,7 @@
                           </div>
                     </div>
                     <div class="col-md-12 featured-card text-center">
-                        <img src="images/center-image.webp" alt="" width="100%">
+                        <img src="images/illustrations.png" alt="" width="100%">
                     </div>
                     <div class="col-md-12">
                         <div class="card  featured-card">
@@ -341,53 +341,69 @@ An exclusive account for high volume traders looking for competitive pricing and
                   <img src="images/CFH-clear.webp" class="logogrid__img" alt="Google">
                   </div>
                   </li>
+                  <div class="partners_logo_card">
                   <li class="logogrid__item">
                     <img src="images/LMAX.png" class="logogrid__img" alt="Google">
                   </li>
+</div>
+                  <div class="partners_logo_card">
                   <li class="logogrid__item">
                   <img src="images/match-trade-logo.png" class="logogrid__img" alt="Google">
 
                   </li>
+</div>
+                  <div class="partners_logo_card">
                   <li class="logogrid__item">
                   <img src="images/finalto_dark.png" class="logogrid__img" alt="Google">
 
                   </li>
+</div>
 
                   
                 </ul>
             </div>
             <div class="tab-pane fade" id="nav-crypto" role="tabpanel" aria-labelledby="nav-crypto-tab">
             <ul class="logogrid">
+            <div class="partners_logo_card">
   <li class="logogrid__item">
   <img src="images/fortex-fx.png" class="logogrid__img" alt="Google">
 
   </li>
+</div>
+  <div class="partners_logo_card">
   <li class="logogrid__item">
     <img src="images/Zero-One-Bank-Logo.png" class="logogrid__img" alt="Google">
   </li>
+</div>
+  <div class="partners_logo_card">
   <li class="logogrid__item">
   <img src="images/brokree.svg" class="logogrid__img" alt="Google">
 
   </li>
-  
+</div>
   
 </ul>
 
             </div>
             <div class="tab-pane fade" id="nav-metals" role="tabpanel" aria-labelledby="nav-metals-tab">
             <ul class="logogrid">
+            <div class="partners_logo_card">
   <li class="logogrid__item">
   <img src="images/metaQuotes-logo.png" class="logogrid__img" alt="Google">
 
   </li>
+</div>
+  <div class="partners_logo_card">
   <li class="logogrid__item">
     <img src="images/ctrader_logo.png" class="logogrid__img" alt="Google">
   </li>
+</div>
+  <div class="partners_logo_card">
   <li class="logogrid__item">
   <img src="images/match-trade-logo.png" class="logogrid__img" alt="Google">
 
   </li>
-  
+</div>
 </ul>
             </div>
             <div class="tab-pane fade" id="nav-indices" role="tabpanel" aria-labelledby="nav-metals-tab">
