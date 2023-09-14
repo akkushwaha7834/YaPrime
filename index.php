@@ -97,7 +97,7 @@
                       <!-- <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores atque, libero excepturi iusto maiores nihil, perspiciatis voluptas quos impedit sint laboriosam. Vel culpa iure nesciunt sequi officiis nostrum libero autem.</p> -->
                       <p>YaPrime believes in setting the industry standard for liquidity and market access solutions. We recognize that our global customer base has varied requirements and priorities, and our solutions are designed around this understanding.</p>
                       <p>We offer direct access to Liquidity from Institutional Liquidity pools – through our partnership with a regulated Liquidity Provider, and use our Data Feeds to enjoy the low latency price streams for more than 300 instruments.</p>
-                  
+                                        
                   
                     </div>
                   <div class="  col-lg-6 col-md-6 col-sm-12 skill-cards">

@@ -5,11 +5,11 @@
           <div class="text">
             <div class="pricing-plans-parent">
               <p class="pricing-plans">Pricing plans</p>
-              <p class="check-our-white">Check our White Label packages</p>
+              <p class="check-our-white">Forex Broker Service Plans</p>
             </div>
             <div class="experience-in-forex-container">
-              <p class="experience-in-forex">Experience in forex industry can build real forex broker, we are</p>
-              <p class="experience-in-forex">named for expertise, compare to know</p>
+              <p class="experience-in-forex">Explore our best-in-industry forex broker services plans</p>
+              <p class="experience-in-forex">Specially tailored to fuel your forex trading business</p>
             </div>
           </div>
         </div>
@@ -22,7 +22,7 @@
                 <div class="frame-group">
                   <div class="mt4-limited-parent">
                     <div class="mt4-limited">MT4 Limited</div>
-                    <div class="pricing_para">Lorem ipsum dolor sit amet consectetur. Augue consectetur nisl.
+                    <div class="pricing_para">Designed for aspiring Forex <br> brokers.
                     </div>
                   </div>
                   <div class="frame-container">
@@ -133,7 +133,7 @@
                 <div class="frame-parent2">
                   <div class="mt4-limited-parent">
                     <div class="mt4-limited">MT4 Advanced</div>
-                    <div class="pricing_para">Lorem ipsum dolor sit amet consectetur. Augue consectetur nisl.
+                    <div class="pricing_para">For experienced brokers seeking excellence.
                     </div>
                   </div>
                   <div class="frame-container">
@@ -247,7 +247,7 @@
                 <div class="frame-group">
                   <div class="mt4-limited-parent">
                     <div class="mt4-limited">MT4 Custom</div>
-                    <div class="pricing_para">Lorem ipsum dolor sit amet consectetur. Augue consectetur nisl.
+                    <div class="pricing_para">Ideal for brokers looking to start strong	
                     </div>
                   </div>
                   <div class="frame-container">

@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome.css">
     <link rel="stylesheet" type="text/css" href="css/font-poppins.css">
-
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/css/intlTelInput.css'>
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/amit.css" />
     <link rel="stylesheet" href="css/style1.css" />
@@ -21,7 +21,10 @@
 
 
     <script src="js/index1.js"></script>
+    <script src="js/index.js"></script>
     <script src="./script.js"></script>
+    <script src='https://code.jquery.com/jquery-3.4.1.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/js/intlTelInput-jquery.min.js'></script>
     <script type="text/javascript" src="js/bootstrap.bundle.min5.2.0.js"></script>
   </head>
   <body>
@@ -428,16 +431,62 @@
             </li> -->
           </ul>
           
-          <form class="d-flex">
+          <div class="d-flex">
             <div class="input-group">
-              <a href="contact-us.php" 
+              <button href="contact-us.php" 
                 class="btn btn-primary btnn-yellow-colour border-0 yaprimeheader-size"
-                type="submit"
+                type="button"
+                data-toggle="modal" data-target="#exampleModal"
               >
                 Free Quote
-              </a>
+              </button>
+              <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">New message</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form>
+          <div class="form-group">
+            <label for="recipient-name" class="col-form-label">Full Name</label>
+            <input type="text" placeholder='Name' class="form-control" id="recipient-name" >
+            <label for="recipient-name" class="col-form-label">Email Address</label>
+            <input type="text" placeholder='Email Address' class="form-control" id="recipient-name">
+            <label for="recipient-name" class="col-form-label">Phone Number</label>
+            <input type="text" id="mobile_code" class="form-control" placeholder="Phone Number" name="name">
+
+            <label for="recipient-name" class="col-form-label">Recipient:</label>
+            <input type="text" class="form-control" id="recipient-name">
+            <label for="recipient-name" class="col-form-label">Recipient:</label>
+            <input type="text" class="form-control" id="recipient-name">
+            <label for="recipient-name" class="col-form-label">Recipient:</label>
+            <input type="text" class="form-control" id="recipient-name">
+            <label for="recipient-name" class="col-form-label">Recipient:</label>
+            <input type="text" class="form-control" id="recipient-name">
+
+          </div>
+          <div class="form-group">
+            <label for="message-text" class="col-form-label">Message:</label>
+            <textarea class="form-control" id="message-text"></textarea>
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Send message</button>
+      </div>
+    </div>
+  </div>
+</div>
             </div>
-          </form>
+          </div>
         </div>
       </div>
     </nav>
+
+
+<!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">Open modal for @mdo</button> -->
