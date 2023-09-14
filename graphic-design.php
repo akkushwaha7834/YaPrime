@@ -170,7 +170,7 @@
       <div class="row">
         <div class="col-lg-12">
           <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner">
+            <div class="carousel-inner custom-display-slider">
               <div class="carousel-item active">
                 <img class="d-block" src="images/casestudyimage.png" alt="First slide" />
                 <br />
@@ -236,9 +236,7 @@
       <br />
       <div class="row admin_consultation_section graphic_design">
         <iframe width="100%" height="491" src="https://www.youtube.com/embed/ZnCbTp2tDlI"
-          title="YaMarkets Unveils New Dubai Office - Taking Financial Success to the Next Level" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen></iframe>
+          title="YaMarkets Unveils New Dubai Office - Taking Financial Success to the Next Level" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>
       </div>
     </div>
   </section>
