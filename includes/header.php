@@ -21,7 +21,7 @@
 
 
     <script src="js/index1.js"></script>
-    <script src="./script.js"></script>
+    
     <script type="text/javascript" src="js/bootstrap.bundle.min5.2.0.js"></script>
   </head>
   <body>

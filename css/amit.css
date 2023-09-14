@@ -137,3 +137,6 @@
 	float: right;
 	width: 60%;	
 }
+.custom-display-slider .carousel-item.active{
+/*  display: grid!important;*/
+}
