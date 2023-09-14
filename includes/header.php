@@ -13,10 +13,8 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/amit.css" />
     <link rel="stylesheet" href="css/style1.css" />
-    
-    
-    
-    
+    <script src='https://code.jquery.com/jquery-3.4.1.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/js/intlTelInput-jquery.min.js'></script>
 
     <script src="js/index1.js"></script>
     <script src="js/index.js"></script>
@@ -483,13 +481,13 @@
       </div>
     </nav>
 
-<script src='https://code.jquery.com/jquery-3.4.1.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/js/intlTelInput-jquery.min.js'></script>
+
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/css/intlTelInput.css'>
 <script>
     $("#mobile_code").intlTelInput({
     initialCountry: "in",
     separateDialCode: true,
+    
 });
 </script>
-<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/css/intlTelInput.css'>
 <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">Open modal for @mdo</button> -->

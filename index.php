@@ -39,11 +39,11 @@
 
       </div>
     </div>
-    <button class="carousel-control-prev" type="button" data-target="#carouselExampleIndicators" data-slide="prev">
+    <button class="carousel-control-prev prev" type="button" data-target="#carouselExampleIndicators" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-target="#carouselExampleIndicators" data-slide="next">
+  <button class="carousel-control-next next" type="button" data-target="#carouselExampleIndicators" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </button>
@@ -318,11 +318,28 @@ An exclusive account for high volume traders looking for competitive pricing and
              <!-- Partners Section -->
              <section class="partners-section">
              <div class="container partners_logo">
-             <h1>Liquidity Partners</h1>
+             <div class="container partners_logo">
+<h1>Technology Partners</h1>
+
+</div>
+<nav id="partners">
+             <div class="nav nav-tabs" id="nav-tab" role="tablist">
+              <button class="nav-link partners active" id="nav-forex-tab" data-bs-toggle="tab" data-bs-target="#nav-forex"
+                type="button" role="tab" aria-controls="nav-forex" aria-selected="true">Liquidity Partners</button>
+              <button class="nav-link partners" id="nav-crypto-tab" data-bs-toggle="tab" data-bs-target="#nav-crypto"
+                type="button" role="tab" aria-controls="nav-crypto" aria-selected="false">Technology Partners</button>
+              <button class="nav-link partners" id="nav-metals-tab" data-bs-toggle="tab" data-bs-target="#nav-metals"
+                type="button" role="tab" aria-controls="nav-metals" aria-selected="false">Trading Platform Partners</button>
+             
+            </div>
+</nav>
+            <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active" id="nav-forex" role="tabpanel" aria-labelledby="nav-forex-tab">
                 <ul class="logogrid">
                   <li class="logogrid__item">
+                    <div class="partners_logo_card">
                   <img src="images/CFH-clear.webp" class="logogrid__img" alt="Google">
-
+                  </div>
                   </li>
                   <li class="logogrid__item">
                     <img src="images/LMAX.png" class="logogrid__img" alt="Google">
@@ -338,11 +355,9 @@ An exclusive account for high volume traders looking for competitive pricing and
 
                   
                 </ul>
-
-</div>
-<div class="container partners_logo">
-<h1>Technology Partners</h1>
-<ul class="logogrid">
+            </div>
+            <div class="tab-pane fade" id="nav-crypto" role="tabpanel" aria-labelledby="nav-crypto-tab">
+            <ul class="logogrid">
   <li class="logogrid__item">
   <img src="images/fortex-fx.png" class="logogrid__img" alt="Google">
 
@@ -358,10 +373,9 @@ An exclusive account for high volume traders looking for competitive pricing and
   
 </ul>
 
-</div>
-<div class="container partners_logo">
-<h1>Trading Platform Partners</h1>
-<ul class="logogrid">
+            </div>
+            <div class="tab-pane fade" id="nav-metals" role="tabpanel" aria-labelledby="nav-metals-tab">
+            <ul class="logogrid">
   <li class="logogrid__item">
   <img src="images/metaQuotes-logo.png" class="logogrid__img" alt="Google">
 
@@ -375,6 +389,26 @@ An exclusive account for high volume traders looking for competitive pricing and
   </li>
   
 </ul>
+            </div>
+            <div class="tab-pane fade" id="nav-indices" role="tabpanel" aria-labelledby="nav-metals-tab">
+              <img src="images/tabs.jpeg" width="100%">
+            </div>
+            <div class="tab-pane fade" id="nav-energy" role="tabpanel" aria-labelledby="nav-metals-tab">
+              <img src="images/tabs.jpeg" width="100%">
+            </div>
+            <div class="tab-pane fade" id="nav-equities" role="tabpanel" aria-labelledby="nav-metals-tab">
+              <img src="images/tabs.jpeg" width="100%">
+            </div>
+            <div class="tab-pane fade" id="nav-etfs" role="tabpanel" aria-labelledby="nav-metals-tab">
+              <img src="images/tabs.jpeg" width="100%">
+            </div>
+          </div>
+             <h1></h1>
+             
+
+</div>
+
+
 
 </div>
              </section>
