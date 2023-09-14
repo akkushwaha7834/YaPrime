@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'includes/header.php';?>
 
 
     <section class="hero_banner_section">
@@ -164,7 +164,7 @@
 
 
             <!-- Pricing Start -->
-  <?php include 'dark-pricing.php';?>
+  <?php include 'includes/dark-pricing.php';?>
 
   <!-- Pricing End   -->
 
@@ -543,7 +543,7 @@
     </section>
 
 
-<?php include 'footer.php';?>            
+<?php include 'includes/footer.php';?>            
 
 
         <!-- end of footer section -->

@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'includes/header.php';?>
 
     <!-- prime special hero banner section -->
 
@@ -330,7 +330,7 @@
     </section>
 
   <!-- Pricing Start -->
-  <?php include 'dark-pricing.php';?>
+  <?php include 'includes/dark-pricing.php';?>
 
   <!-- Pricing End   -->
 
@@ -684,7 +684,7 @@
     <!-- TALK TO US -->
     <!-- FOOTER -->
 
-<?php include 'footer.php';?>
+<?php include 'includes/footer.php';?>
 
   <!-- FOOTER -->
 </body>

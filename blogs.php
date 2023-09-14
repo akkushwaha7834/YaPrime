@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'includes/header.php';?>
 
 
          <!--End of  Header Section -->
@@ -146,7 +146,7 @@ taking notes
 
     <!-- FOOTER -->
 
-   <?php include 'footer.php';?>
+   <?php include 'includes/footer.php';?>
     
       <!-- FOOTER -->
 </body>

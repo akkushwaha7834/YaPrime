@@ -1,5 +1,5 @@
 
-<?php include 'header.php';?>
+<?php include 'includes/header.php';?>
 
   <!-- graphic design curosal section -->
 
@@ -389,7 +389,7 @@
   </section>
 
   <!-- Pricing Start -->
-  <?php include 'dark-pricing.php';?>
+  <?php include 'includes/dark-pricing.php';?>
 
   <!-- Pricing End   -->
 
@@ -457,7 +457,7 @@
   <!-- TALK TO US -->
   <!-- FOOTER -->
 
-  <?php include 'footer.php';?>
+  <?php include 'includes/footer.php';?>
 
   <!-- FOOTER -->
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"

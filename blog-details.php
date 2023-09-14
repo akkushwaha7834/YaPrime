@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'includes/header.php';?>
 
         <!-- End of  header Section -->
         <!-- Details Hero  -->
@@ -94,7 +94,7 @@
          <!-- End Of Blogs Description  -->
           <!-- FOOTER -->
 
-  <?php include 'footer.php';?>
+  <?php include 'includes/footer.php';?>
 
   <!-- FOOTER -->
 </body>

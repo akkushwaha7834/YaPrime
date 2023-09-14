@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'includes/header.php';?>
 
 
     <!-- yawealth section -->
@@ -375,7 +375,7 @@
         </div>
       </section>
             <!-- Footer section -->
-  <?php include 'footer.php';?>
+  <?php include 'includes/footer.php';?>
         <!-- end of footer section -->
 </body>
 </html>

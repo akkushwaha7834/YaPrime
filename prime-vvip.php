@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'includes/header.php';?>
 
 
     <!-- hero banner vvip section-->
@@ -249,7 +249,7 @@
 
 
       <!-- Pricing Start -->
-<?php include 'dark-pricing.php';?>
+<?php include 'includes/dark-pricing.php';?>
 
   <!-- Pricing End   -->
 
@@ -592,7 +592,7 @@
     
       <!-- TALK TO US -->
         
-<?php include 'footer.php';?>
+<?php include 'includes/footer.php';?>
         <!-- end of footer section -->
 </body>
 </html>

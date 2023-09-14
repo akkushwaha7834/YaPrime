@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'includes/header.php';?>
 
 
         <!-- End of  header Section -->
@@ -83,7 +83,7 @@
 
         <!-- Live Data -->
 
-<?php include 'trading-spreads.php';?>
+<?php include 'includes/trading-spreads.php';?>
 
 <!-- Live Data -->
             <!-- skills section -->
@@ -380,7 +380,7 @@ An exclusive account for high volume traders looking for competitive pricing and
              </section>
              <!-- end of partners section -->
               <!-- Pricing Start -->
-  <?php include 'dark-pricing.php';?>
+  <?php include 'includes/dark-pricing.php';?>
 
   <!-- Pricing End   -->
   <!-- Our Blogs Section -->
@@ -490,7 +490,7 @@ An exclusive account for high volume traders looking for competitive pricing and
     <!-- TALK TO US -->
         <!-- Footer section -->
 
-<?php include 'footer.php';?>
+<?php include 'includes/footer.php';?>
 
 
         <!-- end of footer section -->

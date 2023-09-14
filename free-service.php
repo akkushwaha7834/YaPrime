@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'includes/header.php';?>
 
     <!-- end of header section -->
     <!-- free service hero section -->
@@ -328,7 +328,7 @@
      <!--end of benefits section 2 -->
         
           <!-- Pricing Start -->
-  <?php include 'dark-pricing.php';?>
+  <?php include 'includes/dark-pricing.php';?>
 
   <!-- Pricing End   -->
 
@@ -396,7 +396,7 @@
   
     <!-- TALK TO US -->
           <!-- Footer section -->
-          <?php include 'footer.php';?>
+          <?php include 'includes/footer.php';?>
           <!-- end of footer section -->
 
 </body>

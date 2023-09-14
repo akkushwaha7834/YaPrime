@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'includes/header.php';?>
 
 
   <!-- HEADER -->
@@ -127,7 +127,7 @@
 
   <!-- Discover our MT4 white label solution’s key benefits -->
   <!-- Pricing Start -->
-  <?php include 'dark-pricing.php';?>
+  <?php include 'includes/dark-pricing.php';?>
   <!-- Pricing End   -->
 
   <!-- TALK TO US -->
@@ -188,7 +188,7 @@
 
   <!-- FOOTER -->
 
-  <?php include 'footer.php';?>
+  <?php include 'includes/footer.php';?>
 
   <!-- FOOTER -->
 </body>

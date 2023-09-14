@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'includes/header.php';?>
 
     <!-- app development hero banner section -->
     <section class="Hero_banner_vvip_section_webdev">
@@ -376,7 +376,7 @@
   </section>
 
   <!-- Pricing Start -->
-  <?php include 'dark-pricing.php';?>
+  <?php include 'includes/dark-pricing.php';?>
 
   <!-- Pricing End   -->
 
@@ -445,7 +445,7 @@
 
      <!-- FOOTER -->
 
-<?php include 'footer.php';?>
+<?php include 'includes/footer.php';?>
   
     <!-- FOOTER -->
   </body>

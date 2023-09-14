@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'includes/header.php';?>
 
 
   <!-- HEADER -->
@@ -432,7 +432,7 @@
 
   <!-- FOOTER -->
 
- <?php include 'footer.php';?>
+ <?php include 'includes/footer.php';?>
 
   <!-- FOOTER -->
 
