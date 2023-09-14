@@ -374,6 +374,101 @@
           </div>
         </div>
       </section>
+
+       <!-- faq section with accordian -->
+
+       <!-- Dark Pricing Start -->
+<?php include 'includes/dark-pricing.php';?>
+       <!-- Dark Pricing End -->
+
+  <section class="accordion-section prime_accordion_buttons clearfix mt-5" aria-label="Question Accordions">
+    <div class="container">
+      <center>
+        <div class="yellow_text">FAQS</div>
+      </center>
+      <center>
+        <h2 class="h2__heading">Frequently Asked Questions</h2>
+      </center>
+      <br />
+      <br />
+      <div class="accordion" id="accordionExample">
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingOne">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              What are the benefits of Solodev CMS?
+            </button>
+          </h2>
+          <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <p>
+                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives the highest levels of site performance, speed and engagement - and contributes more to your bottom line. Our users fell in love with.
+              </p>
+              <p>
+                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
+              </p>
+              <p>
+                Scalability – pay for what you need today and add-on options as you grow.
+              </p>
+              <p>
+                All of the bells and whistles of other enterprise CMS options but without the design limitations - this CMS simply lets you realize your creative visions.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingTwo">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+              How easy is it to build a website with Solodev CMS?
+            </button>
+          </h2>
+          <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <p>
+                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives the highest levels of site performance, speed and engagement - and contributes more to your bottom line. Our users fell in love with.
+              </p>
+              <p>
+                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
+              </p>
+              <p>
+                Scalability – pay for what you need today and add-on options as you grow.
+              </p>
+              <p>
+                All of the bells and whistles of other enterprise CMS options but without the design limitations - this CMS simply lets you realize your creative visions.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingThree">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              What is the uptime for Solodev CMS?
+            </button>
+          </h2>
+          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <p>
+                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives the highest levels of site performance, speed and engagement - and contributes more to your bottom line. Our users fell in love with.
+              </p>
+              <p>
+                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
+              </p>
+              <p>
+                Scalability – pay for what you need today and add-on options as you grow.
+              </p>
+              <p>
+                All of the bells and whistles of other enterprise CMS options but without the design limitations - this CMS simply lets you realize your creative visions.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- FAQ end -->
+
+      <!-- Talk to us Start -->
+      <?php include 'includes/talk-to-us.php';?>
+      <!-- Talk to us end -->
             <!-- Footer section -->
   <?php include 'includes/footer.php';?>
         <!-- end of footer section -->
