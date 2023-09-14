@@ -58,9 +58,6 @@
             <a href="#">
               <li>Meet our Team</li>
             </a>
-            <!-- <a href="#">
-              <li>Pricelist</li>
-            </a> -->
           </ul>
         </div>
         <div class="col-md-3 col-width">
@@ -78,15 +75,6 @@
             <a href="crm-api.php">
               <li>CRM & API</li>
             </a>
-            <!-- <a href="#">
-              <li>Plugins</li>
-            </a>
-            <a href="#">
-              <li>Multi-Account Terminal for MT4/MT5</li>
-            </a>
-            <a href="#">
-              <li>PAMM/MAM for MT4 and MT5</li>
-            </a> -->
           </ul>
         </div>
         <div class="col-md-3 col-width">
@@ -108,15 +96,6 @@
             <a href="#">
               <li>Digital Marketing</li>
             </a>
-            <!-- <a href="#">
-              <li>Ctrader white labels</li>
-            </a>
-            <a href="#">
-              <li>Broker Tools</li>
-            </a>
-            <a href="#">
-              <li>Exchange solutions</li>
-            </a> -->
           </ul>
         </div>
         <div class="col-md-3 col-width">
@@ -134,15 +113,6 @@
             <a href="blogs.php">
               <li>Our Blog</li>
             </a>
-            <!-- <a href="#">
-              <li>Project Timeline</li>
-            </a>
-            <a href="#">
-              <li>Metatrader services</li>
-            </a>
-            <a href="#">
-              <li>Forex CRM feature</li>
-            </a> -->
           </ul>
         </div>
         <div class="col-md-3 col-width">
@@ -157,118 +127,13 @@
             <a href="prime-special.php">
               <li>Prime Special</li>
             </a>
-            <!-- <a href="#">
-              <li>Forex SEO</li>
-            </a>
-            <a href="#">
-              <li>Social Media marketing</li>
-            </a>
-            <a href="#">
-              <li>Email Marketing</li>
-            </a> -->
 
           </ul>
         </div>
 
 
       </div>
-      <!-- <hr />
-      <div class="row">
-        <div class="col-md-3 col-width">
-          <h6>Useful Links</h6>
-          <ul>
-            <a href="#">
-              <li>MT4 Trade Copier</li>
-            </a>
-
-            <a href="#">
-              <li>How To Become A Forex Broker</li>
-            </a>
-            <a href="#">
-              <li>Forex CRM System</li>
-            </a>
-            <a href="#">
-              <li>MT4 Trading Solution</li>
-            </a>
-
-          </ul>
-        </div>
-        <div class="col-md-3 col-width">
-          <h6></h6>
-          <ul>
-            <a href="#">
-              <li>Forex MAM Broker</li>
-            </a>
-            <a href="#">
-              <li>White Label</li>
-            </a>
-            <a href="#">
-              <li>What Is White Label Forex Broker</li>
-            </a>
-            <a href="#">
-              <li>Tools For Brokers</li>
-            </a>
-
-          </ul>
-        </div>
-        <div class="col-md-3 col-width">
-          <h6></h6>
-          <ul>
-            <a href="#">
-              <li>Forex Back Office Software </li>
-            </a>
-            <a href="#">
-              <li>Forex Trading Company</li>
-            </a>
-            <a href="#">
-              <li>Turnkey Brokerage Solutions</li>
-            </a>
-            <a href="#">
-              <li>White Label Forex Solution</li>
-            </a>
-
-          </ul>
-        </div>
-        <div class="col-md-3 col-width">
-          <h6></h6>
-          <ul>
-            <a href="#">
-              <li>Forex White Label Cost</li>
-            </a>
-            <a href="#">
-              <li>Forex CRM Provider</li>
-            </a>
-            <a href="#">
-              <li>Risk manager mt4</li>
-            </a>
-            <a href="#">
-              <li>Forex CRM</li>
-            </a>
-
-          </ul>
-        </div>
-        <div class="col-md-3 col-width">
-          <h6></h6>
-          <ul>
-            <a href="#">
-              <li>PAMM System</li>
-            </a>
-            <a href="#">
-              <li>Metatrader White Label</li>
-            </a>
-            <a href="#">
-              <li>MT4 White Label Solutions</li>
-            </a>
-            <a href="#">
-              <li>Forex Website Builder</li>
-            </a>
-
-
-          </ul>
-        </div>
-
-
-      </div> -->
+      
       <hr />
       <p>YaPrime is the industry leader in the Forex and CFD markets. registered in Vanuata. We provide certain services
         like Forex White Label, Company formation, License service under the company name. Registered office @ Law
