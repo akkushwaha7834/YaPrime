@@ -2247,7 +2247,9 @@ h4 {
   font-weight: 600;
   line-height: normal;
 }
-
+.request_demo a, .contact_sales a{
+  color: #000;
+}
 .contact_sales {
   display: flex;
   height: 48px;

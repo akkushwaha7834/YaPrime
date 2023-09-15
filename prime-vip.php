@@ -22,13 +22,15 @@
 
             <div class="demo_contact">
               <div class="request_demo">
-                Request a Demo
+                <a href="contact-us.php">Request a Demo</a>
 
                 <div class="right_arrow">
                   <i class="fa fa-arrow-right" aria-hidden="true"></i>
                 </div>
               </div>
-              <div class="contact_sales">Contact Sales</div>
+              <div class="contact_sales">
+                <a href="contact-us.php">Contact Sales</a>
+              </div>
             </div>
           </div>
 
@@ -74,6 +76,7 @@
                   bonuses automatically applied on every account.
                 </div>
               </div>
+              <br>
               <div class="ready_made">
                 <img src="images/primevipimage2.png" />
                 <div class="ready_heading">Trade with reduced spreads.</div>
