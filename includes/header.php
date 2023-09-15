@@ -451,7 +451,6 @@
             <input type="text" placeholder='Email Address' class="form-control" id="recipient-name">
             <label for="recipient-name" class="col-form-label">Phone Number</label>
             <input type="text" id="mobile_code" class="form-control" placeholder="Phone Number" name="name">
-
             <label for="recipient-name" class="col-form-label">Recipient:</label>
             <input type="text" class="form-control" id="recipient-name">
             <label for="recipient-name" class="col-form-label">Recipient:</label>
