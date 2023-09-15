@@ -3,7 +3,6 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <title>YaPrime</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap5.3.0.min.css">
     <link rel="stylesheet" type="text/css" href="css/material-design-iconic-font.min.css">
@@ -13,27 +12,23 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/amit.css" />
     <link rel="stylesheet" href="css/style1.css" />
-    <script src='https://code.jquery.com/jquery-3.4.1.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/js/intlTelInput-jquery.min.js'></script>
+    
+    
+    
+  
+
 
     <script src="js/index1.js"></script>
-    <script src="js/index.js"></script>
+  
     <script type="text/javascript" src="js/bootstrap.bundle.min5.2.0.js"></script>
   </head>
   <body>
-    <div></div>
-
     <nav class="navbar navbar-expand-lg shadow positoning-fluid-container">
       <div class="container" id="container-switch" >
         <a class="navbar-brand" href="index.php">
           <img src="images/yaprime__svglogo.svg" alt="logo" />
         </a>
-        <button
-          class="navbar-toggler collapsed"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbar-content"
-        >
+        <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-content" >
           <div class="hamburger-toggle">
             <div class="hamburger">
               <span></span>
@@ -44,17 +39,8 @@
         </button>
         <div class="collapse navbar-collapse" id="navbar-content">
           <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
-            <!-- <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
-          </li> -->
             <li class="nav-item dropdown dropdown-mega position-static">
-              <a
-                class="nav-link dropdown-toggle yaprimeheader-size"
-                href="about-us.php"
-                data-bs-toggle="dropdown"
-                data-bs-auto-close="outside"
-                >About</a
-              >
+              <a class="nav-link dropdown-toggle yaprimeheader-size" href="about-us.php" data-bs-toggle="dropdown" data-bs-auto-close="outside" >About</a>
               <div class="dropdown-menu shadow">
                 <div class="mega-content px-4">
                   <div class="container-fluid">
@@ -62,56 +48,45 @@
                       <h5 class="new-header-main-heading row_positioning992">About Us</h5>
                       <div class="col-12 col-sm-4 col-md-3 py-4">
                         <a class="newheaderyaprime" href="about-us.php">
-                          <h5 class="new-header-heading">About Us</h5></a
-                        >
+                          <h5 class="new-header-heading">About Us</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
                         <a class="newheaderyaprime" href="#">
-                          <h5 class="new-header-heading">Careers</h5></a
-                        >
+                          <h5 class="new-header-heading">Careers</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
                         <a class="newheaderyaprime" href="contact-us.php">
-                          <h5 class="new-header-heading">Contact Us</h5></a
-                        >
+                          <h5 class="new-header-heading">Contact Us</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
                       </div>
-
                       <div class="col-12 col-sm-4 col-md-3 py-4 ">
                         <a class="newheaderyaprime" href="#">
-                          <h5 class="new-header-heading ">Why Choose Us</h5></a
-                        >
-
+                          <h5 class="new-header-heading ">Why Choose Us</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
                         <a class="newheaderyaprime" href="#"
-                          ><h5 class="new-header-heading">Portfolio</h5></a
-                        >
+                          ><h5 class="new-header-heading">Portfolio</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
                         <a class="newheaderyaprime" href="#">
-                          <h5 class="new-header-heading">Meet Our Team</h5></a
-                        >
+                          <h5 class="new-header-heading">Meet Our Team</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
                       </div>
-
                       <div class="col-12 col-sm-4 col-md-3 py-4">
                         <a class="newheaderyaprime" href="blogs.php">
-                          <h5 class="new-header-heading">Our Blog</h5></a
-                        >
+                          <h5 class="new-header-heading">Our Blog</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
                       </div>
-
                       <div class="col-12 col-sm-4 col-md-3 py-4 row_positioning992">
                         <div class="card yaprime_card-body">
                           <div class="card-body ">
@@ -135,13 +110,7 @@
               <a class="nav-link yaprimeheader-size" href="liquidity-solution.php">Liquidity Solution</a>
             </li>
             <li class="nav-item dropdown dropdown-mega position-static">
-              <a
-                class="nav-link dropdown-toggle yaprimeheader-size"
-                href="#"
-                data-bs-toggle="dropdown"
-                data-bs-auto-close="outside"
-                >Institutional Trading</a
-              >
+              <a class="nav-link dropdown-toggle yaprimeheader-size" href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" >Institutional Trading</a >
               <div class="dropdown-menu shadow">
                 <div class="mega-content px-4">
                   <div class="container-fluid">
@@ -150,16 +119,19 @@
                         Institutional Trading
                       </h5>
                       <div class="col-12 col-sm-4 col-md-3 py-4">
-                        <a href="prime-vip.php"><h5 class="new-header-heading">Prime VIP</h5></a>
+                        <a href="prime-vip.php">
+                          <h5 class="new-header-heading">Prime VIP</h5>
+                        </a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
-                        <h5 class="new-header-main-heading row_positioning992">Get In Touch</h5>
+                        <h5 class="new-header-main-heading row_positioning992">
+                          Get In Touch
+                        </h5>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
                       </div>
-
                       <div class="col-12 col-sm-4 col-md-3 py-4">
                         <a href="prime-vvip.php">
                           <h5 class="new-header-heading">Prime VVIP</h5>
@@ -169,22 +141,17 @@
                         </p>
                         <form class="d-flex  ">
                           <div class="input-group row_positioning992">
-                            <a href="contact-us.php" 
-                              class="btn btn-primary btnn-yellow-colour border-0"
-                              type="submit"
-                            >
+                            <a href="contact-us.php"  class="btn btn-primary btnn-yellow-colour border-0" type="submit" >
                               Get In Touch
                             </a>
                           </div>
                       </div>
-
                       <div class="col-12 col-sm-4 col-md-3 py-4">
                         <a href="prime-special.php"><h5 class="new-header-heading">Prime Special</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
                       </div>
-
                       <div class="col-12 col-sm-4 col-md-3 py-4 row_positioning992">
                         <div class="card yaprime_card-body">
                           <div class="card-body ">
@@ -200,7 +167,6 @@
                         </div>
                       </div>
                     </div>
-               
                   </div>
                 </div>
               </div>
@@ -304,15 +270,8 @@
                 </div>
               </div>
             </li>
-
             <li class="nav-item dropdown dropdown-mega position-static">
-              <a
-                class="nav-link dropdown-toggle yaprimeheader-size"
-                href="#"
-                data-bs-toggle="dropdown"
-                data-bs-auto-close="outside"
-                >Research & Advisory</a
-              >
+              <a class="nav-link dropdown-toggle yaprimeheader-size" href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" >Research & Advisory</a >
               <div class="dropdown-menu shadow">
                 <div class="mega-content px-4">
                   <div class="container-fluid">
@@ -327,32 +286,28 @@
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
-                        <h5 class="new-header-main-heading row_positioning992">Get In Touch</h5>
+                        <h5 class="new-header-main-heading row_positioning992">
+                          Get In Touch
+                        </h5>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
                       </div>
-
                       <div class="col-12 col-sm-4 col-md-3 py-4">
                         <a href="personal-advisory.php">
                           <h5 class="new-header-heading">Personal Advisory</h5>
                         </a>
-
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
                         <form class="d-flex  ">
                           <div class="input-group">
-                            <a href="contact-us.php" 
-                              class="btn btn-primary btnn-yellow-colour border-0 row_positioning992"
-                              type="submit"
-                            >
+                            <a href="contact-us.php" class="btn btn-primary btnn-yellow-colour border-0 row_positioning992" type="submit">
                               Get In Touch
                             </a>
                           </div>
                         </form>
                       </div>
-
                       <div class="col-12 col-sm-4 col-md-3 py-4">
                         <a href="blogs.php">
                           <h5 class="new-header-heading">Our Blog</h5>
@@ -377,33 +332,20 @@
                         </div>
                       </div>
                     </div>
-                  
                   </div>
                 </div>
               </div>
             </li>
-
             <li class="nav-item dropdown">
-              <a
-                class="nav-link dropdown-toggle yaprimeheader-size"
-                href="#"
-                data-bs-toggle="dropdown"
-                data-bs-auto-close="outside"
-                >Wealth Services</a
-              >
+              <a class="nav-link dropdown-toggle yaprimeheader-size" href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" >Wealth Services</a >
               <ul class="dropdown-menu shadow">
                 <li>
                   <a class="dropdown-item yaprimeheader-size" href="ya-wealth.php"
                     >Ya Wealth
                   </a>
                 </li>
-               
               </ul>
             </li>
-           
-           <!--   <li class="nav-item">
-              <a class="nav-link yaprimeheader-size" href="contact-us.php">Contact Us</a>
-            </li> -->
           </ul>
           
           <div class="d-flex">

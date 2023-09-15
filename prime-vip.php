@@ -22,13 +22,15 @@
 
             <div class="demo_contact">
               <div class="request_demo">
-                Request a Demo
+                <a href="contact-us.php">Request a Demo</a>
 
                 <div class="right_arrow">
                   <i class="fa fa-arrow-right" aria-hidden="true"></i>
                 </div>
               </div>
-              <div class="contact_sales">Contact Sales</div>
+              <div class="contact_sales">
+                <a href="contact-us.php">Contact Sales</a>
+              </div>
             </div>
           </div>
 
@@ -64,6 +66,7 @@
         </div>
         <br />
         <div class="row">
+
               <div class="col-lg-6 feature_first">
               <div class="ready_made">
                 <img src="images/primevipimage1.png" />
@@ -74,6 +77,7 @@
                   bonuses automatically applied on every account.
                 </div>
               </div>
+      
               <div class="ready_made">
                 <img src="images/primevipimage2.png" />
                 <div class="ready_heading">Trade with reduced spreads.</div>
@@ -97,7 +101,7 @@
                   vision of starting the trading process.
                 </div>
               </div>
-              <br />
+   
               <div class="ready_made">
                 <img src="images/primevipimage4.png" />
 
@@ -113,7 +117,8 @@
               </div>
             </div>
           </div>
-
+</div>
+<div class="container">
         <div class="row row_centering">
           <div class="col-lg-12 sizing-section">
             <div class="card1">
@@ -139,6 +144,8 @@
             <img src="images/Product image.png" />
           </div> -->
         </div>
+        </div>
+        <div class="container">
         <div class="row position_rows">
           <div class="col-lg-6 ready_made_section">
             <div class="ready_made_heading">Ready-made solution</div>
@@ -159,6 +166,7 @@
             </div>
           </div>
         </div>
+        
       </div>
     </section>
 

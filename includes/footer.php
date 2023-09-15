@@ -33,7 +33,7 @@
         </div>
 
       </div>
-      <hr />
+      <hr class="footer_hr" />
 
       <div class="row">
         <div class="col-md-3 col-width">
@@ -66,7 +66,7 @@
             <a href="white-label.php">
               <li>White Label</li>
             </a>
-            <a href="#">
+            <a href="admin-consultation.php">
               <li>Admin Consultation</li>
             </a>
             <a href="liquidity.php">
@@ -84,7 +84,7 @@
             <a href="ui-ux.php">
               <li>UI/UX Design</li>
             </a>
-            <a href="web-development">
+            <a href="web-development.php">
               <li>Web Development</li>
             </a>
             <a href="app-development">
@@ -134,7 +134,7 @@
 
       </div>
       
-      <hr />
+      <hr class="footer_hr" />
       <p>YaPrime is the industry leader in the Forex and CFD markets. registered in Vanuata. We provide certain services
         like Forex White Label, Company formation, License service under the company name. Registered office @ Law
         Partners House, Kumul Highway, Port Vila, Vanuatu Postal Address Po Box 212, Port Vila, Vanuatu. For any
@@ -151,14 +151,13 @@
         relationship.All individuals/ institutions seeking to sign up for a White Label are subject to YaPrime
         verification process, which includes a “Know Your Customer” (KYC) documentation to be furnished by the
         beneficiary/ approaching client.</p>
-      <hr />
+      <hr class="footer_hr"  />
       <div class="copyrights">
-        <p>All Rights Reserved © 2016-2023 | YaPrime Limited.</p>
-        <p>Disclaimer</p>
-        <p>Terms & Conditions</p>
-        <p>Privacy Policy</p>
-        <p>Refund & Cancellation</p>
-        <p>Copyrights</p>
+        <p>All Rights Reserved © 2016-2023 |<a href="index.php"> YaPrime</a></p>
+        <p><a href="disclaimer.php">Disclaimer</a> </p>
+        <p><a href="terms-conditions.php">Terms & Conditions</a></p>
+        <p><a href="privacy-policy.php">Privacy Policy</a></p>
+        <p><a href="refund-cancellation.php">Refund & Cancellation</a></p>
       </div>
     </div>
   </section>

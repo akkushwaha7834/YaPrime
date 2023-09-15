@@ -101,9 +101,97 @@
           </div>
         </div>
         <div class="col-md-6 liquidity_right_content">
-          <marquee direction="up" style="animation: marquee 20s linear infinite;">
-            <img src="images/figg.png">
-          </marquee>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="qoute_wrapper_yellow">
+                <div class="symbol">
+                  <img src="images/EURUSD.svg">
+                  EURUSD
+                </div>
+                <div class="rate">
+                  1.07424 / 1.07425
+                </div>
+                <div class="spread">
+                  Spread<br><span>0.1</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="qoute_wrapper_black">
+                <div class="symbol">
+                  <img src="images/EURUSD.svg">
+                  EURUSD
+                </div>
+                <div class="rate">
+                  1.07424 / 1.07425
+                </div>
+                <div class="spread">
+                  Spread<br><span>0.1</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row trading_cards_row_two">
+            <div class="col-md-6">
+              <div class="qoute_wrapper_black">
+                <div class="symbol">
+                  <img src="images/EURUSD.svg">
+                  EURUSD
+                </div>
+                <div class="rate">
+                  1.07424 / 1.07425
+                </div>
+                <div class="spread">
+                  Spread<br><span>0.1</span>
+                </div>
+              </div>
+              
+            </div>
+            <div class="col-md-6">
+              <div class="qoute_wrapper_yellow">
+                <div class="symbol">
+                  <img src="images/EURUSD.svg">
+                  EURUSD
+                </div>
+                <div class="rate">
+                  1.07424 / 1.07425
+                </div>
+                <div class="spread">
+                  Spread<br><span>0.1</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row trading_cards_row_two">
+            <div class="col-md-6">
+              <div class="qoute_wrapper_yellow">
+                <div class="symbol">
+                  <img src="images/EURUSD.svg">
+                  EURUSD
+                </div>
+                <div class="rate">
+                  1.07424 / 1.07425
+                </div>
+                <div class="spread">
+                  Spread<br><span>0.1</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="qoute_wrapper_black">
+                <div class="symbol">
+                  <img src="images/EURUSD.svg">
+                  EURUSD
+                </div>
+                <div class="rate">
+                  1.07424 / 1.07425
+                </div>
+                <div class="spread">
+                  Spread<br><span>0.1</span>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
