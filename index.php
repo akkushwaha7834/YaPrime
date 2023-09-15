@@ -3,7 +3,7 @@
 
         <!-- End of  header Section -->
         <!-- Home Page Hero Section -->
-       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+       <div id="carouselExampleIndicators " class="carousel slide carousel_index" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -53,7 +53,7 @@
        
            <!-- Statistic Section -->
 
-           <section class="statistic">
+           <section class="statistic2">
             <div class="container">
                 <div class="row">
                     <div class="col-md-3 statistic_card">
@@ -193,7 +193,7 @@
                           </div>
                     </div>
                     <div class="col-md-12 featured-card text-center">
-                        <img src="images/illustrations.png" alt="" width="100%">
+                        <img src="images/uniqui-feature.png" alt="" width="100%">
                     </div>
                     <div class="col-md-12">
                         <div class="card  featured-card">
@@ -258,9 +258,7 @@ An exclusive account for high volume traders looking for competitive pricing and
                     <p>Experience in forex industry can build real forex broker,<br> we are
                         named for expertise, compare to know</p>
                         <br>
-                        <br>
-                        <br>
-                        <br>
+                    
                
                 <div class="row whitelabel-card">
                   
@@ -319,7 +317,7 @@ An exclusive account for high volume traders looking for competitive pricing and
              <section class="partners-section">
              <div class="container partners_logo">
              <div class="container partners_logo">
-<h1>Technology Partners</h1>
+<h1>Our Partners</h1>
 
 </div>
 <nav id="partners">
@@ -333,7 +331,7 @@ An exclusive account for high volume traders looking for competitive pricing and
              
             </div>
 </nav>
-            <div class="tab-content" id="nav-tabContent">
+            <div class="tab-content tab-border" id="nav-tabContent">
             <div class="tab-pane fade show active" id="nav-forex" role="tabpanel" aria-labelledby="nav-forex-tab">
                 <ul class="logogrid">
                   <li class="logogrid__item">

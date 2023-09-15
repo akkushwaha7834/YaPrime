@@ -113,8 +113,8 @@
                       </div>
 
                       <div class="col-12 col-sm-4 col-md-3 py-4 row_positioning992">
-                        <div class="card">
-                          <div class="card-body yaprime_card-body">
+                        <div class="card yaprime_card-body">
+                          <div class="card-body ">
                             <div class="yaprime_newheader_heading">
                               Why YaPrime?
                             </div>
@@ -187,8 +187,8 @@
 
                       <div class="col-12 col-sm-4 col-md-3 py-4 row_positioning992">
                         <!-- <h5 class="new-header-heading">Card</h5> -->
-                        <div class="card">
-                          <div class="card-body yaprime_card-body">
+                        <div class="card yaprime_card-body">
+                          <div class="card-body ">
                             <div class="yaprime_newheader_heading">
                               Why YaPrime?
                             </div>
@@ -226,8 +226,8 @@
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
-                        <a href="liquidity-solution.php">
-                          <h5 class="new-header-heading">Liquidity Solution</h5>
+                        <a href="crm-api.php">
+                          <h5 class="new-header-heading">CRM & API</h5>
                         </a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
@@ -241,12 +241,7 @@
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
-                        <a href="crm-api.php">
-                          <h5 class="new-header-heading">CRM & API</h5>
-                        </a>
-                        <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
-                        </p>
+                    
                       </div>
 
                      <!--  <div class="col-12 col-sm-4 col-md-3 py-4">
@@ -258,8 +253,8 @@
                         </p>
                       </div> -->
                       <div class="col-12 col-sm-4 col-md-4 py-4 row_positioning992">
-                        <div class="card">
-                          <div class="card-body yaprime_card-body">
+                        <div class="card yaprime_card-body">
+                          <div class="card-body">
                             <div class="yaprime_newheader_heading">
                               Why YaPrime?
                             </div>
@@ -381,8 +376,8 @@
                       </div>
                       <div class="col-12 col-sm-4 col-md-3 py-4 row_positioning992">
                         <!-- <h5 class="new-header-heading">Card</h5> -->
-                        <div class="card">
-                          <div class="card-body yaprime_card-body">
+                        <div class="card yaprime_card-body">
+                          <div class="card-body ">
                             <div class="yaprime_newheader_heading">
                               Why YaPrime?
                             </div>
