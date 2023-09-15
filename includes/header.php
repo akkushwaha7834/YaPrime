@@ -186,7 +186,6 @@
                       </div>
 
                       <div class="col-12 col-sm-4 col-md-3 py-4 row_positioning992">
-                        <!-- <h5 class="new-header-heading">Card</h5> -->
                         <div class="card yaprime_card-body">
                           <div class="card-body ">
                             <div class="yaprime_newheader_heading">
@@ -207,112 +206,100 @@
               </div>
             </li>
             <li class="nav-item dropdown dropdown-mega position-static">
-              <a
-                class="nav-link dropdown-toggle yaprimeheader-size"
-                href="#"
-                data-bs-toggle="dropdown"
-                data-bs-auto-close="outside"
-                >Broker Solution</a
-              >
+              <a class="nav-link dropdown-toggle yaprimeheader-size" href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" >Broker Solution</a >
               <div class="dropdown-menu shadow">
                 <div class="mega-content px-4">
                   <div class="container-fluid">
-                    <div class="row">
-                      <h5 class="new-header-main-heading row_positioning992">Broker Solution</h5>
-                      <div class="col-12 col-sm-4 col-md-3 py-4">
-                        <a href="white-label.php">
-                          <h5 class="new-header-heading">White Label</h5>
-                        </a>
-                        <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
-                        </p>
-                        <a href="crm-api.php">
-                          <h5 class="new-header-heading">CRM & API</h5>
-                        </a>
-                        <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
-                        </p>
-                      </div>
-
-                      <div class="col-12 col-sm-4 col-md-4 py-4">
-                        <a href="admin-consultation.php">
-                          <h5 class="new-header-heading">Admin Consultation</h5>
-                        </a>
-                        <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
-                        </p>
-                    
-                      </div>
-
-                     <!--  <div class="col-12 col-sm-4 col-md-3 py-4">
-                        <a href="admin-consultation.php">
-                          <h5 class="new-header-heading">Admin Consultation</h5>
-                        </a>
-                        <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
-                        </p>
-                      </div> -->
-                      <div class="col-12 col-sm-4 col-md-4 py-4 row_positioning992">
-                        <div class="card yaprime_card-body">
-                          <div class="card-body">
-                            <div class="yaprime_newheader_heading">
-                              Why YaPrime?
-                            </div>
-                            <p class="card-text new-header-paragraph-text">
-                              YaMarkets is the industry leader in the Forex and
-                              CFD markets. We pledge to create a trustworthy,
-                              approachable, and ethical trading platform.
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="row">
-                      <h5 class="new-header-main-heading">
-                        WEBSITE & MARKETING
-                      </h5>
-                      <div class="col-12 col-sm-4 col-md-3 py-4">
-                        <a href="ui-ux.php">
-                          <h5 class="new-header-heading">UI/UX Design</h5>
-                        </a>
-                        <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
-                        </p>
-                        <a href="graphic-design.php">
-                          <h5 class="new-header-heading">Graphic Design</h5>
-                        </a>
-                        <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
-                        </p>
-                      </div>
-
-                      <div class="col-12 col-sm-4 col-md-3 py-4">
-                        <a href="web-development.php">
-                          <h5 class="new-header-heading">Web Development</h5>
-                        </a>
-
-                        <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
-                        </p>
-                        <a href="#">
-                          <h5 class="new-header-heading">Digital Marketing</h5>
-                        </a>
-                        <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
-                        </p>
-                      </div>
-
-                      <div class="col-12 col-sm-4 col-md-3 py-4">
-                        <a href="app-development.php">
-                          <h5 class="new-header-heading">App Development</h5>
-                        </a>
-                        <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
-                        </p>
-                      </div>
-                      <div class="col-12 col-sm-4 col-md-3 py-4 row_positioning992">
-                      </div>
-                    </div>
+                   <div class="row">
+  <div class="col-md-12">
+    <h5 class="new-header-main-heading row_positioning992">Broker Solution</h5>
+  </div>
+  <div class="col-md-8">
+    <div class="row">
+      <div class="col-12 col-sm-4 col-md-4 py-4">
+        <a href="white-label.php">
+          <h5 class="new-header-heading">White Label</h5>
+        </a>
+        <p class="new-header-paragraph-text row_positioning992">
+          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+        </p>
+      </div>
+      <div class="col-12 col-sm-4 col-md-4 py-4">
+        <a href="admin-consultation.php">
+          <h5 class="new-header-heading">Admin Consultation</h5>
+        </a>
+        <p class="new-header-paragraph-text row_positioning992">
+          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+        </p>
+      </div>
+      <div class="col-12 col-sm-4 col-md-4 py-4">
+        <a href="crm-api.php">
+          <h5 class="new-header-heading">CRM & API</h5>
+        </a>
+        <p class="new-header-paragraph-text row_positioning992">
+          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+        </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <h5 class="new-header-main-heading">
+          WEBSITE & MARKETING
+        </h5>
+      </div>
+      <div class="col-12 col-sm-4 col-md-4 py-4">
+        <a href="ui-ux.php">
+          <h5 class="new-header-heading">UI/UX Design</h5>
+        </a>
+        <p class="new-header-paragraph-text row_positioning992">
+          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+        </p>
+        <a href="graphic-design.php">
+          <h5 class="new-header-heading">Graphic Design</h5>
+        </a>
+        <p class="new-header-paragraph-text row_positioning992">
+          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+        </p>
+      </div>
+      <div class="col-12 col-sm-4 col-md-4 py-4">
+        <a href="web-development.php">
+          <h5 class="new-header-heading">Web Development</h5>
+        </a>
+        <p class="new-header-paragraph-text row_positioning992">
+          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+        </p>
+        <a href="#">
+          <h5 class="new-header-heading">Digital Marketing</h5>
+        </a>
+        <p class="new-header-paragraph-text row_positioning992">
+          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+        </p>
+      </div>
+      <div class="col-12 col-sm-4 col-md-4 py-4">
+    <a href="app-development.php">
+      <h5 class="new-header-heading">App Development</h5>
+    </a>
+    <p class="new-header-paragraph-text row_positioning992">
+      Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+    </p>
+  </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="card yaprime_card-body">
+      <div class="card-body">
+        <div class="yaprime_newheader_heading">
+          Why YaPrime?
+        </div>
+        <p class="card-text new-header-paragraph-text">
+          YaMarkets is the industry leader in the Forex and
+          CFD markets. We pledge to create a trustworthy,
+          approachable, and ethical trading platform.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
                   </div>
                 </div>
               </div>
