@@ -4707,11 +4707,11 @@ a.nav-link.coloring_header {
   display: flex;
   align-items: center;
   text-align: center;
-  padding: 6% 0;
+  padding: 80px 0;
 
 }
 .teams_content h2{
-  margin-bottom: 4%;
+  margin-bottom: 10px;
   line-height: 52px;
 }
 
@@ -4719,9 +4719,7 @@ a.nav-link.coloring_header {
   font-weight: 800;
   color: #fac213;
 }
-.teams_heading{
-  padding: 0 31%;
-}
+
 /* end teams */
 
 @media only screen and (min-width: 767px) and (max-width: 1123px){
@@ -4912,4 +4910,48 @@ padding: 0px 20px;
 .prime_accordion_buttons .accordion-button:focus{
   border-color:#fac211;
   box-shadow:none;
+}
+.team_member_image{
+  width: 40%;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+.team_social a {
+  padding: 5px 10px;
+  background: #fac213;
+  color: #fac213;
+  border-radius: 5px;
+  border: 1px solid #fac213;
+}
+.team_social a i {
+  color: #fff;
+}
+.team_social a:hover {
+  background: #fff;
+  padding: 5px 10px;
+  border: 1px solid #fac213;
+  transition-duration: .3s;
+}
+.team_social a:hover i {
+  color: #fac213;
+}
+.teams_card{
+  padding: 60px 20px
+}
+.teama_member_name{
+  margin-bottom: 15px;
+}
+.team_member_des{
+  margin-bottom: 25px;
+}
+.teams_card.two{
+box-shadow: 10px 10px 40px 0 rgba(0,0,0,.1);
+transition-duration: .5s;
+cursor: pointer;
+}
+.teams_card.two:hover {
+    box-shadow: 5px 5px 6px 0 rgb(250 194 19);
+}
+.team_row_two{
+  margin-top: 40px;
 }
