@@ -2476,10 +2476,10 @@ margin: -4%  0  4%;
   transition-duration: .3s;
 }
 .unique_feature_sec .col-md-3:hover, .unique_feature_sec .col-md-4:hover{
-transform: translateY(-10px);
-transition-duration: .3s;
-background: #fac213;
-cursor: pointer;
+  transform: translateY(-10px);
+  transition-duration: .3s;
+  background: #fac213;
+  cursor: pointer;
 }
 
 .unique_feature_sec .col-md-4 {
