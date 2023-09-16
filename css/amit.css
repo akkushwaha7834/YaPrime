@@ -14,14 +14,14 @@
 	letter-spacing: 2px;
 	line-height: 16px;
 	text-transform: uppercase;
-	font-family: Inter;
+	
 	color: #fac211 !important;
 }
 
 .about_h1 {
   font-size: 40px;
   line-height: 56px;
-  font-family: Sora;
+  
   color: #fff;
   text-align: left;
   font-weight: 600;
@@ -30,7 +30,7 @@
 .about_p {
   font-size: 16px;
   line-height: 24px;
-  font-family: Inter;
+  
   color: #e6e6e6;
   text-align: left;
 }
@@ -177,4 +177,31 @@ a.dropdown-item.yaprimeheader-size:hover {
 }
 .footer_hr{
   border-top: 1px solid #fac213;
+}
+.white_label .benefits_row_two .col-md-3{
+  border: 2px solid #fac213;
+  width: 23%;
+  flex: 23%;
+  padding: 25px;
+  border-radius: 20px 0;
+  margin: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+.white_label .benefits_row_two .col-md-3:hover{
+  border-radius: 0 20px;
+  transition-duration: .3s;
+}
+.white_label .benefits_row_two .col-md-3:hover:nth-child(even) .icon_box_heading{
+    color: #fff!important;
+}
+.white_label .benefits_row_two .col-md-3:hover:nth-child(even) .icon_box_para{
+    color: #fff!important;
+}
+.white_label .benefits_row_two .col-md-3:hover:nth-child(even){
+  background: #000;
+  border: 2px solid #000;
+}
+.white_label .benefits_row_two .col-md-3:hover:nth-child(odd){
+  background: #fac213;
 }

@@ -11,10 +11,10 @@
             Metatrader 4
           </h4>
           <h1 class="mt4_h1">
-            Unleash the power of <br>Metatrader 4 white label
+            Unleash the power of <br> white label
           </h1>
           <p class="mt4_p">
-            MetaTrader 4 is known for its success as Best Auto Trading platform for the decades. It rules the Forex
+            YaPrime is known for its success as Best Auto Trading platform for the decades. It rules the Forex
             <br>market since 2003, MetaTrader 4 with top choice for fore traders and brokers.
           </p>
           <div class="start_broker">
@@ -27,7 +27,7 @@
   <!-- Banner End -->
 
   <!-- Benefits Start -->
-  <section class="benefits_sec">
+  <section class="benefits_sec white_label">
     <div class="container">
       <div class="row">
         <div class="col-md-6 benefits_left">
@@ -35,7 +35,7 @@
             Benefits
           </h3>
           <h2 class="benefits_h2">
-            Discover our MT4 white label solution’s key benefits
+            Discover our white label solution’s key benefits
           </h2>
           <p class="benefits_p">
             Experience in forex industry can build real forex broker, we are named for expertise, compare to know
@@ -52,9 +52,7 @@
             Completely branded and optimized
           </h4>
           <p class="icon_box_para">
-            Develop a strong label by offering a personalized experience to your customers. To get your unique solution,
-            take advantage of multiple customization options in our WL manager. Configure all settings on your own
-            without any trouble.
+            Develop a strong label by offering a personalized experience to your customers.
           </p>
         </div>
         <div class="col-md-3">
@@ -63,9 +61,7 @@
             Completely branded and optimized
           </h4>
           <p class="icon_box_para">
-            Develop a strong label by offering a personalized experience to your customers. To get your unique solution,
-            take advantage of multiple customization options in our WL manager. Configure all settings on your own
-            without any trouble.
+            Develop a strong label by offering a personalized experience to your customers.
           </p>
         </div>
         <div class="col-md-3">
@@ -74,9 +70,7 @@
             Completely branded and optimized
           </h4>
           <p class="icon_box_para">
-            Develop a strong label by offering a personalized experience to your customers. To get your unique solution,
-            take advantage of multiple customization options in our WL manager. Configure all settings on your own
-            without any trouble.
+            Develop a strong label by offering a personalized experience to your customers.
           </p>
         </div>
         <div class="col-md-3">
@@ -85,9 +79,7 @@
             Completely branded and optimized
           </h4>
           <p class="icon_box_para">
-            Develop a strong label by offering a personalized experience to your customers. To get your unique solution,
-            take advantage of multiple customization options in our WL manager. Configure all settings on your own
-            without any trouble.
+            Develop a strong label by offering a personalized experience to your customers.
           </p>
         </div>
       </div>
