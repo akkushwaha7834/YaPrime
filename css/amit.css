@@ -170,10 +170,10 @@ a.dropdown-item.yaprimeheader-size:hover {
   text-align: justify;
 }
 .copyrights a{
-  color: #fac213;
+  color: #000;
 }
 .copyrights a:hover{
-  color: #000;
+  color: #fac213;
 }
 .footer_hr{
   border-top: 1px solid #fac213;
