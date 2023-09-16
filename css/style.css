@@ -4955,3 +4955,29 @@ cursor: pointer;
 .team_row_two{
   margin-top: 40px;
 }
+.why_yaprime{
+  padding: 80px 0;
+}
+.why_img{
+  width: 10%;
+  height: 10%;
+  margin-right: 20px;
+}
+.why_pointers{
+  display: inline-flex;
+  padding: 20px;
+  box-shadow: 0px 1px 10px 0px rgb(250 194 19);
+  transition-duration: .5s;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.why_pointers p{
+  margin-bottom: 0;
+}
+.why_pointers:hover{
+  box-shadow: 15px 10px 20px 0 rgba(0,0,0,.1);
+}
+.why_yaprime .row_two{
+  margin-top: 30px;
+}
