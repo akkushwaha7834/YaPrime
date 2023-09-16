@@ -3,13 +3,17 @@
 <section class="careers_page">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6 careers_sticky_sidebar">
+			<div class="col-md-6 ">
+				<div class="careers_sticky_sidebar">
+
+
 				<h1 class="careers_heading">
 					Join With Us <span>Today</span>
 				</h1>
 				<p class="careers_para">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 				</p>
+				</div>
 			</div>
 			<div class="col-md-6">
 				<div class="row">

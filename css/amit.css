@@ -248,6 +248,14 @@ a.dropdown-item.yaprimeheader-size:hover {
 .careers_category{
   margin: 20px 0;
 }
+.careers_sticky_sidebar{
+
+  padding: 20px;
+
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
 .careers_right_card .cat_one{
   background: #fac213;
   padding: 10px 20px;
@@ -283,4 +291,11 @@ a.dropdown-item.yaprimeheader-size:hover {
 }
 .careers_pos_details{
   margin-bottom: 30px; 
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+  .careers_right_card{
+    padding: 40px 25px;
+  }
 }
