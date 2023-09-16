@@ -205,3 +205,31 @@ a.dropdown-item.yaprimeheader-size:hover {
 .white_label .benefits_row_two .col-md-3:hover:nth-child(odd){
   background: #fac213;
 }
+.card.featured-card.two{
+  border-style: solid;
+  border-width: 5px 0 0;
+  border-color: #fac213;
+  box-shadow: 0 0 40px 0 rgba(0,0,0,.1);
+  transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+/*  margin: -20px 20px 60px;*/
+}
+.card.featured-card.one{
+   border-style: solid;
+  border-width: 0 0 5px;
+  border-color: #fac213;
+  box-shadow: 0 0 40px 0 rgba(0,0,0,.1);
+  transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+/*  margin: -20px 20px 60px;*/
+}
+.card.featured-card.one:hover{
+  border-style: solid;
+  border-width: 5px 0 0;
+  border-color: #000;
+  cursor: pointer;
+}
+.card.featured-card.two:hover{
+  border-style: solid;
+  border-width: 0 0 5px;
+  border-color: #000;
+  cursor: pointer;
+}

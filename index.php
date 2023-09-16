@@ -147,7 +147,7 @@
             <div class="col-md-4 featured-sidebar">
                 <div class="row featured-card-wrapper">
                     <div class="col-md-12">
-                        <div class="card  featured-card">
+                        <div class="card  featured-card one">
                             <div class="card-body ">
                               <div class="feqatured-card-header">
                                   <img src="images/artificial-intelligence 1.jpg"/>
@@ -160,7 +160,7 @@
                           </div>
                     </div>
                     <div class="col-md-12">
-                        <div class="card  featured-card">
+                        <div class="card  featured-card two">
                             <div class="card-body ">
                               <div class="feqatured-card-header">
                                   <img src="images/customer-service 1.jpg"/>
@@ -180,7 +180,7 @@
             <div class="col-md-4 ">
                 <div class="row featured-card-wrapper">
                     <div class="col-md-12">
-                        <div class="card  featured-card">
+                        <div class="card  featured-card one">
                             <div class="card-body ">
                               <div class="feqatured-card-header">
                                   <img src="images/shuttle 1.jpg"/>
@@ -196,7 +196,7 @@
                         <img src="images/uniqui-feature.png" alt="" width="100%">
                     </div>
                     <div class="col-md-12">
-                        <div class="card  featured-card">
+                        <div class="card  featured-card two">
                             <div class="card-body ">
                               <div class="feqatured-card-header">
                                   <img src="images/Frame 1000002854.jpg"/>
@@ -213,7 +213,7 @@
             <div class="col-md-4 featured-sidebar">
                 <div class="row featured-card-wrapper">
                     <div class="col-md-12">
-                        <div class="card  featured-card">
+                        <div class="card  featured-card one">
                             <div class="card-body ">
                               <div class="feqatured-card-header">
                                   <img src="images/customer-service (1) 1.jpg"/>
@@ -227,7 +227,7 @@ An exclusive account for high volume traders looking for competitive pricing and
                           </div>
                     </div>
                     <div class="col-md-12">
-                        <div class="card  featured-card">
+                        <div class="card  featured-card two">
                             <div class="card-body ">
                               <div class="feqatured-card-header">
                                   <img src="images/profits 1.jpg"/>
