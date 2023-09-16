@@ -233,3 +233,54 @@ a.dropdown-item.yaprimeheader-size:hover {
   border-color: #000;
   cursor: pointer;
 }
+.careers_page{
+  padding: 80px 0;
+}
+.careers_heading span{
+  color: #fac213;
+}
+.careers_right_card{
+  background: #FEFCF6;
+  padding: 40px 50px;
+  border-radius: 10px;
+  margin: 10px 0;
+}
+.careers_category{
+  margin: 20px 0;
+}
+.careers_right_card .cat_one{
+  background: #fac213;
+  padding: 10px 20px;
+  margin-right: 20px;
+  color: #000;
+  border-radius: 5px;
+}
+.careers_right_card .cat_one:hover{
+  background: #000;
+  color: #fff;
+}
+.careers_right_card .cat_two{
+  background: #000;
+  padding: 10px 20px;
+  margin-right: 20px;
+  border-radius: 5px;
+  color: #fff;
+}
+.careers_right_card .cat_two:hover{
+  background: #fac213;
+  color: #000;
+}
+.apply_now_btn{
+  background: #0cbbff;
+  padding: 15px 30px;
+  color: #fff;
+  border-radius: 5px;  
+}
+.apply_now_btn:hover{
+  background: #fff;
+  border: 1px solid #fac213;
+  color: #fac213;
+}
+.careers_pos_details{
+  margin-bottom: 30px; 
+}
