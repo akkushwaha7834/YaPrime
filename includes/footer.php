@@ -138,7 +138,7 @@
       <p>YaPrime is the industry leader in the Forex and CFD markets. registered in Vanuata. We provide certain services
         like Forex White Label, Company formation, License service under the company name. Registered office @ Law
         Partners House, Kumul Highway, Port Vila, Vanuatu Postal Address Po Box 212, Port Vila, Vanuatu. For any
-        queries, Please contact us at info@yaprimes.com</p>
+        queries, Please contact us at info@yaprime.com</p>
       <p><b>Disclaimer:</b> All product, logo and company names are trademarks™ or registered® trademarks of their
         respective holders.Use of them is not intended to violate any company norms.</p>
       <p><b>Copyrights:</b> YaPrime is a technology and service provider. YaPrime is neither a broker nor a liquidity

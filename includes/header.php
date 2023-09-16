@@ -12,12 +12,6 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/amit.css" />
     <link rel="stylesheet" href="css/style1.css" />
-    
-    
-    
-  
-
-
     <script src="js/index1.js"></script>
   
     <script type="text/javascript" src="js/bootstrap.bundle.min5.2.0.js"></script>
@@ -403,14 +397,3 @@
         </div>
       </div>
     </nav>
-
-
-<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/css/intlTelInput.css'>
-<script>
-    $("#mobile_code").intlTelInput({
-    initialCountry: "in",
-    separateDialCode: true,
-    
-});
-</script>
-<!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">Open modal for @mdo</button> -->

@@ -2464,16 +2464,26 @@ margin: -4%  0  4%;
   color: rgba(34, 34, 34, 0.64);
   text-align: center;
 }
-
+.unique_feature_sec .col-md-3:nth-child(odd){
+  background: #fac213;
+}
 .unique_feature_sec .col-md-3 {
-  background: #f9fafb;
   margin: 10px;
   width: 23%;
   flex: 23%;
   padding: 25px;
   border-radius: 16px;
+  text-align: center;
 }
-
+.unique_feature_sec .col-md-3:nth-child(even) {
+    background: #000;
+}
+.unique_feature_sec .col-md-3:nth-child(even) .icon_box_para{
+  color: #fff;
+}
+.unique_feature_sec .col-md-3:nth-child(even) .icon_box_heading{
+  color: #fac213!important;
+}
 .unique_feature_sec .col-md-4 {
   background: #f9fafb;
   margin: 10px;
@@ -2481,6 +2491,8 @@ margin: -4%  0  4%;
   flex: 23%;
   padding: 25px;
   border-radius: 16px;
+  border: 1px solid #fac213;
+  text-align: center;
 }
 .unique_banner {
   background: #F9FAFB;
