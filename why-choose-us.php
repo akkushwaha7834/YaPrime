@@ -127,7 +127,7 @@
   <section class="about_us_why">
     <div class="container">
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-4">
           <h4 class="">
             Why Choose Us
           </h4>
@@ -140,8 +140,66 @@
               Elevate your forex game with admin consultation bliss!
             </p>
           </div>
+          <div class="image-box-pointers">
+            <img src="images/dollar.png" class="pointers_image">
+            <p class="image_box_para">
+              Elevate your forex game with admin consultation bliss!
+            </p>
+          </div>
         </div>
-        <div class="col-md-6"></div>
+        <div class="col-md-4 yaPrime_why_image">
+          <img src="images/uniqui-feature.png" width="100%">
+        </div>
+        <div class="col-md-4">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="qoute_wrapper_black">
+                <div class="symbol">
+                  <img src="images/EURUSD.svg">
+                  EURUSD
+                </div>
+                <div class="rate">
+                    1.07424 / 1.07425
+                </div>
+                <div class="spread">
+                    Spread<br><span>0.1</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row poimters_row_two">
+            <div class="col-md-12">
+              <div class="qoute_wrapper_black">
+                <div class="symbol">
+                  <img src="images/EURUSD.svg">
+                  EURUSD
+                </div>
+                <div class="rate">
+                    1.07424 / 1.07425
+                </div>
+                <div class="spread">
+                    Spread<br><span>0.1</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row poimters_row_two">
+            <div class="col-md-12">
+              <div class="qoute_wrapper_black">
+                <div class="symbol">
+                  <img src="images/EURUSD.svg">
+                  EURUSD
+                </div>
+                <div class="rate">
+                    1.07424 / 1.07425
+                </div>
+                <div class="spread">
+                    Spread<br><span>0.1</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
