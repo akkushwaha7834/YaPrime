@@ -32,7 +32,7 @@
 
 <!-- Why YaPrime Start-->
 
-  <section class="why_yaprime">
+  <!-- <section class="why_yaprime">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -71,10 +71,82 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
 <!-- Why YaPrime END -->
 
+<!-- YaPrime Pointers Start-->
+
+  <section class="why_ya_prime_pointer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2 class="pointer_heading">
+            Why YaPrime
+          </h2>
+          <p class="pointers_para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+      </div>
+      <div class="row poimters_row_two">
+        <div class="col-md-6">
+          <div class="image-box-pointers">
+            <img src="images/dollar.png" class="pointers_image">
+            <p class="image_box_para">
+              Elevate your forex game with admin consultation bliss!
+            </p>
+          </div>
+          <div class="image-box-pointers">
+            <img src="images/dollar.png" class="pointers_image">
+            <p class="image_box_para">
+              Elevate your forex game with admin consultation bliss!
+            </p>
+          </div>
+          <div class="image-box-pointers">
+            <img src="images/dollar.png" class="pointers_image">
+            <p class="image_box_para">
+              Elevate your forex game with admin consultation bliss!
+            </p>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <img src="images/FreeService-Hero.png">
+        </div>
+      </div>
+      <div class="row poimters_row_two">
+        <div class="start_broker">
+            <a class="mt4_anchor" href="#">Start Broker</a>
+          </div>
+      </div>
+    </div>
+  </section>
+
+<!-- Yaprime Pointers End -->
+
+<!-- YaPrime Why Choose Start -->
+
+  <section class="about_us_why">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h4 class="">
+            Why Choose Us
+          </h4>
+          <h2 class="">
+            Elevate your forex<br> game with admin <br>consultation bliss!
+          </h2>
+          <div class="image-box-pointers">
+            <img src="images/dollar.png" class="pointers_image">
+            <p class="image_box_para">
+              Elevate your forex game with admin consultation bliss!
+            </p>
+          </div>
+        </div>
+        <div class="col-md-6"></div>
+      </div>
+    </div>
+  </section>
+
+<!-- YaPrime Why Choose Ends -->
 
   <!-- TALK TO US -->
   <?php include 'includes/talk-to-us.php';?>
