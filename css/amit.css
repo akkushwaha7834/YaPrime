@@ -43,3 +43,61 @@
 	display: grid;
 	align-items: center;
 }
+.career_detail_banner{
+	background: url(../images/liquidity.png);
+	padding: 80px 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.details_section{
+	padding: 80px 0;
+}
+.details_section .span_detail{
+	font-weight: 800;
+	line-height: 80px;
+	font-size:45px;
+}
+#countdown {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#countdown div {
+    text-align: center;
+    margin: 0 10px;
+}
+
+#countdown .smalltext {
+    font-size: 12px;
+}
+.seconds_timer,.hours_timer,.minutes_timer,.days_timer {
+    background: #fac213;
+    padding: 20px;
+    border-radius: 16px;
+    cursor: pointer;
+}
+.seconds_timer:hover,.hours_timer:hover,.minutes_timer:hover,.days_timer:hover{
+	background: #000;
+	color: #ffff;
+}
+.jd_para{
+	margin-top: 20px;
+}
+.container_two{
+	margin-top: 50px;
+}
+.ul_list {
+    width: 50%;
+    float: left;
+    margin-bottom: 40px;
+}
+li.who_list {
+    background: url(../images/yellow-tick.webp) no-repeat left 7px;
+    padding: 0 0 0px 30px;
+}
+li.li_list {
+    background: url(../images/yellow-arrow.webp) no-repeat left 7px;
+    padding: 0 0 0px 30px;
+}
