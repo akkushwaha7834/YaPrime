@@ -30,50 +30,7 @@
   </section>
   <!-- Banner End -->
 
-<!-- Why YaPrime Start-->
 
-  <!-- <section class="why_yaprime">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <h2 class="unique_heading">Why YaPrime</h2>
-          <p class="unique_para">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
-        </div>
-      </div>
-      <div class="row row_two">
-        <div class="col-md-6">
-          <div class="why_pointers">
-            <img src="images/dollar.png" class="why_img">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="why_pointers">
-            <img src="images/dollar.png" class="why_img">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          </div>
-        </div>
-      </div>
-      <div class="row row_two">
-        <div class="col-md-6">
-          <div class="why_pointers">
-            <img src="images/dollar.png" class="why_img">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="why_pointers">
-            <img src="images/dollar.png" class="why_img">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section> -->
-
-<!-- Why YaPrime END -->
 
 <!-- YaPrime Pointers Start-->
 
@@ -127,7 +84,7 @@
   <section class="about_us_why">
     <div class="container">
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-4 why_yaprime_left_section">
           <h4 class="">
             Why Choose Us
           </h4>
@@ -146,11 +103,14 @@
               Elevate your forex game with admin consultation bliss!
             </p>
           </div>
+          <div class="button_bottom">
+            <a class="unique_anchor_one" href="#">Request a Demo </a>
+          </div>
         </div>
-        <div class="col-md-4 yaPrime_why_image">
-          <img src="images/uniqui-feature.png" width="100%">
+        <div class="col-md-6 yaPrime_why_image">
+          <img src="images/three-sec.jpeg" width="100%">
         </div>
-        <div class="col-md-4">
+        <div class="col-md-2">
           <div class="row">
             <div class="col-md-12">
               <div class="qoute_wrapper_black">
