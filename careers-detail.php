@@ -26,10 +26,10 @@
 			</div>
 			<div class="col-md-6">
 				<h2 class="details_heading">
-					Are you what we looking for ?
-					<span class="span_detail">Full-stack Developer</span>
+					Are you what we looking for ?<br>
+					<span class="span_detail">Sr. Wordpress Developer</span>
 				</h2>
-				<p>We are looking for a Full-stack Developer to join our team. If you love to code and solve problems, then you are on the right track. You will develop our front-end and back-end applications of our product.</p>
+				<p>We are looking for an experienced Sr. WordPress Developer to join our team. The ideal candidate should have a minimum of 3 to 4 years of experience in developing WordPress websites and should be able to work on-site, not remotely.</p>
 				<div class="counter_details">
 					<div id="countdown">
 				        <div class="days_timer">
@@ -58,38 +58,44 @@
 			<div class="col-md-8">
 				<h2 class="jd_heading">Job Description</h2>
 				<p class="jd_para">
-					Ut posuere semper malesuada. Praesent in mauris tristique, laoreet mi ac, volutpat enim. Curabitur pharetra sed erat nec molestie. Maecenas id luctus ex. Curabitur porta congue dui sit amet pulvinar. Suspendisse sagittis odio sed urna congue hendrerit. In ante quam, tincidunt et eros tempus, pulvinar tristique libero. In fermentum, velit eu efficitur finibus, metus sem lobortis lorem, a commodo lectus enim eu nisl. Duis quis metus neque. Sed hendrerit diam non justo aliquet, et ultrices erat consectetur. Proin pharetra augue at urna blandit, a porttitor urna viverra. Pellentesque cursus elit vitae libero dapibus, id sollicitudin metus bibendum. Integer lobortis aliquet metus, et iaculis nunc tempor non. Sed imperdiet maximus sodales. Nunc placerat eros leo, eu interdum erat rhoncus id.
+					We are looking for an experienced Sr. WordPress Developer to join our team. The ideal candidate should have a minimum of 3 to 4 years of experience in developing WordPress websites and should be able to work on-site, not remotely. As a WordPress Developer, you will be responsible for developing and maintaining WordPress websites and plugins. You will also work closely with our team of designers, project managers, and other developers to ensure that our projects are completed on time and to our clients' satisfaction.
 				</p>
-				<h3 class="jd_heading">Who Are We Looking For?</h3>
+				<!-- <h3 class="jd_heading">Who Are We Looking For?</h3>
 				<p class="jd_para">
 					Ut posuere semper malesuada. Praesent in mauris tristique, laoreet mi ac, volutpat enim. Curabitur pharetra sed erat nec molestie. Maecenas id luctus ex. Curabitur porta congue dui sit amet pulvinar. Suspendisse sagittis odio sed urna congue hendrerit. In ante quam, tincidunt et eros tempus, pulvinar tristique libero. In fermentum, velit eu efficitur finibus, metus sem lobortis lorem, a commodo lectus enim eu nisl. Duis quis metus neque. Sed hendrerit diam non justo aliquet, et ultrices erat consectetur. Proin pharetra augue at urna blandit, a porttitor urna viverra.
-				</p>
+				</p> -->
+				<h3 class="jd_heading">Responsibilities:</h3>
 				<ul class="who_looking">
 					<li class="who_list">
-						Etiam sit amet risus euismod, vehicula diam quis, fringilla nulla. In scelerisque tincidunt eros eget congue. Aliquam quis augue a nibh pretium feugiat sed vel libero
+						Develop custom WordPress themes, plugins, and websites according to client requirements.
 					</li>
 					<li class="who_list">
-						Etiam sit amet risus euismod, vehicula diam quis, fringilla nulla. In scelerisque tincidunt eros eget congue. Aliquam quis augue a nibh pretium feugiat sed vel libero
+						Collaborate with project managers, designers, and other developers to develop and maintain WordPress websites.
 					</li>
 					<li class="who_list">
-						Etiam sit amet risus euismod, vehicula diam quis, fringilla nulla. In scelerisque tincidunt eros eget congue. Aliquam quis augue a nibh pretium feugiat sed vel libero
+						Troubleshoot and debug WordPress websites to ensure functionality and compatibility with different browsers.
 					</li>
 					<li class="who_list">
-						Etiam sit amet risus euismod, vehicula diam quis, fringilla nulla. In scelerisque tincidunt eros eget congue. Aliquam quis augue a nibh pretium feugiat sed vel libero
+						Develop and maintain custom WordPress plugins to improve the functionality of websites.
+					</li>
+					<li class="who_list">
+						Optimize WordPress websites for performance and search engine optimization (SEO).
+					</li>
+					<li class="who_list">
+						Keep up-to-date with the latest WordPress updates, security patches, and trends in the WordPress development community.
 					</li>
 				</ul>
-				<h4 class="jd_heading">Our Criteria For This Position</h4>
+				<h4 class="jd_heading">Requirements</h4>
 				<ul class="ul_list">
-					<li class="li_list">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-					<li class="li_list">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-					<li class="li_list">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-					<li class="li_list">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+					<li class="li_list">Bachelor's degree in any stream.</li>
+					<li class="li_list">At least 3-4 years of experience in WordPress development.</li>
+					<li class="li_list">In-depth knowledge of WordPress CMS, PHP, HTML, CSS, and JavaScript.</li>
+					<li class="li_list">Experience with WordPress plugin development and customization.</li>
 				</ul>
 				<ul class="ul_list">
-					<li class="li_list">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-					<li class="li_list">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-					<li class="li_list">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-					<li class="li_list">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+					<li class="li_list">Knowledge of WordPress best practices for security, performance, and SEO.</li>
+					<li class="li_list">Strong problem-solving skills and attention to detail.</li>
+					<li class="li_list">Ability to work in a team environment and collaborate with designers, project managers, and other developers.</li>
 				</ul>
 				<a class="mt4_anchor" href="#">Apply Now </a>
 			</div>
@@ -100,23 +106,31 @@
 				</h3>
 				<div class="details_image_box">
 					<img src="images/customer-service.jpg">
-					<h5>Department</h5>
-					<p>Financial Planner</p>
+					<div class="detail_box_content">
+						<h5>Pay</h5>
+						<p>₹7,00,000 - ₹8,00,000 a year</p>
+					</div>
 				</div>
 				<div class="details_image_box">
 					<img src="images/customer-service.jpg">
-					<h5>Department</h5>
-					<p>Financial Planner</p>
+					<div class="detail_box_content">
+						<h5>Experience</h5>
+						<p>3 to 4 years</p>
+					</div>
 				</div>
 				<div class="details_image_box">
 					<img src="images/customer-service.jpg">
-					<h5>Department</h5>
-					<p>Financial Planner</p>
+					<div class="detail_box_content">
+						<h5>Qualification</h5>
+						<p>Bachelor's degree</p>
+					</div>
 				</div>
 				<div class="details_image_box">
 					<img src="images/customer-service.jpg">
-					<h5>Department</h5>
-					<p>Financial Planner</p>
+					<div class="detail_box_content">
+						<h5>Job type</h5>
+						<p>Full-time</p>
+					</div>
 				</div>
 				</div>
 			</div>

@@ -55,8 +55,8 @@
 }
 .details_section .span_detail{
 	font-weight: 800;
-	line-height: 80px;
-	font-size:45px;
+	line-height: 60px;
+	font-size:40px;
 }
 #countdown {
 	display: flex;
