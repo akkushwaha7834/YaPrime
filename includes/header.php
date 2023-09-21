@@ -54,41 +54,41 @@
                         <a class="newheaderyaprime" href="about-us.php">
                           <h5 class="new-header-heading">About Us</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+                          Learn More about YaPrime
                         </p>
                         <a class="newheaderyaprime" href="careers.php">
                           <h5 class="new-header-heading">Careers</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+                          Join YaPrime for exciting career opportunities.
                         </p>
                         <a class="newheaderyaprime" href="contact-us.php">
                           <h5 class="new-header-heading">Contact Us</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+                          Reach out to us anytime for inquiries and support.
                         </p>
                       </div>
                       <div class="col-12 col-sm-4 col-md-3 py-4 ">
                         <a class="newheaderyaprime" href="why-choose-us.php">
                           <h5 class="new-header-heading ">Why Choose Us</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+                          Choose YaPrime for reliable Forex liquidity and dedicated support.
                         </p>
                         <a class="newheaderyaprime" href="portfolio.php"
                           ><h5 class="new-header-heading">Portfolio</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+                          Explore our portfolio to see our Forex success stories.
                         </p>
                         <a class="newheaderyaprime" href="our-teams.php">
                           <h5 class="new-header-heading">Meet Our Team</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+                          Meet the experienced professionals behind YaPrime.
                         </p>
                       </div>
                       <div class="col-12 col-sm-4 col-md-3 py-4">
                         <a class="newheaderyaprime" href="blogs.php">
                           <h5 class="new-header-heading">Our Blog</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+                          Stay informed with the latest Forex insights and News.
                         </p>
                       </div>
                       <div class="col-12 col-sm-4 col-md-3 py-4 row_positioning992">
@@ -98,7 +98,7 @@
                               Why YaPrime?
                             </div>
                             <p class="card-text new-header-paragraph-text">
-                              YaMarkets is the industry leader in the Forex and
+                              YaPrime is the industry leader in the Forex and
                               CFD markets. We pledge to create a trustworthy,
                               approachable, and ethical trading platform.
                             </p>
@@ -127,13 +127,13 @@
                           <h5 class="new-header-heading">Prime VIP</h5>
                         </a>
                         <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+                          Explore our exclusive Prime VIP services
                         </p>
                         <h5 class="new-header-main-heading row_positioning992">
                           Get In Touch
                         </h5>
                         <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+                          Contact us to learn more about our institutional trading solutions.
                         </p>
                       </div>
                       <div class="col-12 col-sm-4 col-md-3 py-4">
@@ -141,7 +141,7 @@
                           <h5 class="new-header-heading">Prime VVIP</h5>
                         </a>
                         <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+                          Discover the benefits of our Prime VVIP services
                         </p>
                         <form class="d-flex  ">
                           <div class="input-group row_positioning992">
@@ -153,7 +153,7 @@
                       <div class="col-12 col-sm-4 col-md-3 py-4">
                         <a href="prime-special.php"><h5 class="new-header-heading">Prime Special</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+                          Learn about our specialised Prime Special services
                         </p>
                       </div>
                       <div class="col-12 col-sm-4 col-md-3 py-4 row_positioning992">
@@ -163,7 +163,7 @@
                               Why YaPrime?
                             </div>
                             <p class="card-text new-header-paragraph-text">
-                              YaMarkets is the industry leader in the Forex and
+                              YaPrime is the industry leader in the Forex and
                               CFD markets. We pledge to create a trustworthy,
                               approachable, and ethical trading platform.
                             </p>
@@ -191,7 +191,7 @@
           <h5 class="new-header-heading">White Label</h5>
         </a>
         <p class="new-header-paragraph-text row_positioning992">
-          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+          Explore our White Label solutions for brokerage firms.
         </p>
       </div>
       <div class="col-12 col-sm-4 col-md-4 py-4">
@@ -199,7 +199,7 @@
           <h5 class="new-header-heading">Admin Consultation</h5>
         </a>
         <p class="new-header-paragraph-text row_positioning992">
-          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+          Get expert advice and consultation for administrative aspects of your brokerage.
         </p>
       </div>
       <div class="col-12 col-sm-4 col-md-4 py-4">
@@ -207,7 +207,7 @@
           <h5 class="new-header-heading">CRM & API</h5>
         </a>
         <p class="new-header-paragraph-text row_positioning992">
-          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+            Learn about our CRM and API solutions
         </p>
       </div>
     </div>
@@ -222,13 +222,13 @@
           <h5 class="new-header-heading">UI/UX Design</h5>
         </a>
         <p class="new-header-paragraph-text row_positioning992">
-          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+          Discover our UI/UX design services for an enhanced user experience.
         </p>
         <a href="graphic-design.php">
           <h5 class="new-header-heading">Graphic Design</h5>
         </a>
         <p class="new-header-paragraph-text row_positioning992">
-          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+           Explore our graphic design solutions for effective branding.
         </p>
       </div>
       <div class="col-12 col-sm-4 col-md-4 py-4">
@@ -236,13 +236,13 @@
           <h5 class="new-header-heading">Web Development</h5>
         </a>
         <p class="new-header-paragraph-text row_positioning992">
-          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+         Learn about our web development services to boost your online presence.
         </p>
         <a href="digital-marketing.php">
           <h5 class="new-header-heading">Digital Marketing</h5>
         </a>
         <p class="new-header-paragraph-text row_positioning992">
-          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+          Increase your online visibility with our digital marketing strategies.
         </p>
       </div>
       <div class="col-12 col-sm-4 col-md-4 py-4">
@@ -250,7 +250,7 @@
       <h5 class="new-header-heading">App Development</h5>
     </a>
     <p class="new-header-paragraph-text row_positioning992">
-      Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+       Explore our app development services for mobile trading solutions.
     </p>
   </div>
     </div>
@@ -262,7 +262,7 @@
           Why YaPrime?
         </div>
         <p class="card-text new-header-paragraph-text">
-          YaMarkets is the industry leader in the Forex and
+          YaPrime is the industry leader in the Forex and
           CFD markets. We pledge to create a trustworthy,
           approachable, and ethical trading platform.
         </p>
@@ -288,13 +288,13 @@
                           <h5 class="new-header-heading">Free Services</h5>
                         </a>
                         <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+                          Explore our free research and advisory services for valuable market insights.
                         </p>
                         <h5 class="new-header-main-heading row_positioning992">
                           Get In Touch
                         </h5>
                         <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+                           Contact us to discuss your advisory needs and discover how we can assist you.
                         </p>
                       </div>
                       <div class="col-12 col-sm-4 col-md-3 py-4">
@@ -302,7 +302,7 @@
                           <h5 class="new-header-heading">Personal Advisory</h5>
                         </a>
                         <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+                          Learn about our personalised advisory services.
                         </p>
                         <form class="d-flex  ">
                           <div class="input-group">
@@ -317,7 +317,7 @@
                           <h5 class="new-header-heading">Our Blog</h5>
                         </a>
                         <p class="new-header-paragraph-text row_positioning992">
-                          Lorem ipsum dolo sit achmet muhamed borlan de irtka.
+                            Stay updated with the latest market trends and insights through our blog.
                         </p>
                       </div>
                       <div class="col-12 col-sm-4 col-md-3 py-4 row_positioning992">
@@ -328,7 +328,7 @@
                               Why YaPrime?
                             </div>
                             <p class="card-text new-header-paragraph-text">
-                              YaMarkets is the industry leader in the Forex and
+                              YaPrime is the industry leader in the Forex and
                               CFD markets. We pledge to create a trustworthy,
                               approachable, and ethical trading platform.
                             </p>

@@ -12,10 +12,10 @@
             Liquidity solutions
           </h4>
           <h1 class="liquidity_h1">
-          Complete solution for Prime Liquidity
+          Take Your Forex Journey to New Heights with Our Prime Liquidity Solutions
           </h1>
           <p class="liquidity_p">
-          Get started by choosing your current skill level
+          Ready to Get Started?
           </p>
           <div class="cta_liquidity">
             <a class="unique_anchor_one" href="#">Request a Demo </a>
@@ -35,15 +35,15 @@
         <div class="col-md-6 liquidity_left_content">
           <div class="liquidity_content">
             <h4 class="forex_liquidity_h4">
-              Liquidity
+              Liquidity Solutions
             </h4>
-            <h1 class="forex_liquidity_h1">
-              Forex liquidity
-            </h1>
+            <h2 class="forex_liquidity_h1">
+              Explore Top-Tier Forex Liquidity
+            </h2>
             <p class="forex_liquidity_p">
-            Choose YaPrime for unparalleled liquidity solutions, bespoke services, and a trusted partnership that drives your financial success .We offer a range of integration options, including APIs and FIX connectivity, to make it easy to integrate with existing systems</p>
+            Step onto the ladder of elite FX liquidity with YaPrime. We are one of the leading Forex Liquidity Providers, and with our relentless dedication, we deliver you the highest possible liquidity solution. Select from the broadest selection of integration options available, including APIs and FIX connectivity, to easily integrate your current systems into our liquidity offering.</p>
             <p class="forex_liquidity_p">
-            We offer direct access to Liquidity from Institutional Liquidity pools – through our partnership with a regulated Liquidity Provider, and use our Data Feeds to enjoy the low latency price streams for more than 300 instruments
+            YaPrime gives you DMA (Direct Market Access) on regulated liquidity pools via our LPs; LPs offer low latency pricing in FX, CFDs, options and other financial products. Get into exceptional Forex trading with us as you explore the Best Forex Liquidity solutions that renovate the industry.
             </p>
           </div>
           <div class="liquidity_counter">
@@ -207,12 +207,11 @@
         <div class="col-md-12">
           <div class="text">
             <div class="pricing-plans-parent">
-              <p class="pricing-plans">LIQUIDITY TAILORED TO RUN THIS MARKET</p>
-              <p class="check-our-white">Genuine prime of prime pricing</p>
+              <p class="pricing-plans">PRECISE LIQUIDITY FOR DOMINATING THE MARKET</p>
+              <p class="check-our-white">Prime Liquidity Influx Across Instruments</p>
             </div>
             <div class="experience-in-forex-container">
-              <p class="experience-in-forex">Get competitive STP pricing for Forex pairs as well as other trading
-                instruments and asset classes.</p>
+              <p class="experience-in-forex">YaPrime offers competitive STP pricing for forex pairs and other trading instruments.</p>
             </div>
           </div>
         </div>
@@ -275,7 +274,7 @@
         <div class="heading">Comparison</div>
       </center>
       <div class="package_plans">Compare YaPrime plan packages</div>
-      <div class="package_discription">We have solid experience of working with Tier-1 liquidity providers and our effectiveness has stood the test of time, proven by multi-billion dollar turnovers.</div>
+      <div class="package_discription">Select our perfect plan packages for your perfect forex brokerage.</div>
     </div>
 
     <!-- pricing table -->
@@ -378,10 +377,10 @@
       <div class="row">
         <div class="col-md-12">
           <h4 class="pricing_plan_h4">
-            Pricing plans
+            Liquidity Solutions
           </h4>
-          <h2 class="unique_heading">700 trading products<br>7 asset classes</h2>
-          <p class="unique_para">700+ financial instruments and 7 asset classes including FOREX, indices, shares, precious metals, energy and cryptocurrencies. With a strong reputation, solid financial markets expertise and access to the best solutions, YaPrime is one of the most sought-after liquidity providers in the industry. </p>
+          <h2 class="unique_heading">YaPrime Liquidity Offerings<br>700+ Instruments Across 7 Asset Classes</h2>
+          <p class="unique_para">YaPrime offers liquidity for more than 700 financial instruments across all 7 asset classes. With our in-depth industry experience and connections, YaPrime is your Best Forex Liquidity Provider in India and overseas.</p>
         </div>
       </div>
       <div class="row benefits_row_two">
@@ -391,7 +390,7 @@
             Forex
           </h4>
           <p class="icon_box_para">
-            Lorem ipsum dolor sit amet consectetur. Donec est convallis.
+            Experience the dynamic world of Forex liquidity provision with YaPrime. We specialize in facilitating currency pairs, providing you with endless possibilities for managing liquidity effectively.
           </p>
         </div>
         <div class="col-md-3">
@@ -400,7 +399,7 @@
             Metals
           </h4>
           <p class="icon_box_para">
-            Lorem ipsum dolor sit amet consectetur. Donec est convallis.
+            At YaPrime, we offer liquidity access to precious metals such as gold and silver. Benefit from their unique safe-haven status and investment potential through our liquidity solutions.
           </p>
         </div>
         <div class="col-md-3">
@@ -409,16 +408,16 @@
             Crypto CFDs
           </h4>
           <p class="icon_box_para">
-            Lorem ipsum dolor sit amet consectetur. Donec est convallis.
+            Get into the world of cryptocurrency liquidity through CFDs with YaPrime. We enable you to engage in liquidity management related to digital assets like Bitcoin and Ethereum.
           </p>
         </div>
         <div class="col-md-3">
           <img src="images/icon1.png">
           <h4 class="icon_box_heading">
-            Indices
+            Indices Liquidity
           </h4>
           <p class="icon_box_para">
-            Lorem ipsum dolor sit amet consectetur. Donec est convallis.
+            YaPrime provides liquidity access to indices from major financial centers. Our solutions enable you to manage liquidity related to the performance of leading stocks.
           </p>
         </div>
       </div>
@@ -429,7 +428,7 @@
             Equity CFDs
           </h4>
           <p class="icon_box_para">
-            Lorem ipsum dolor sit amet consectetur. Donec est convallis.
+            Invest in equity CFDs with YaPrime to manage liquidity exposure to global companies. Our services allow you to participate in liquidity management without owning physical shares.
           </p>
         </div>
         <div class="col-md-4">
@@ -438,7 +437,7 @@
             Energy
           </h4>
           <p class="icon_box_para">
-            Lorem ipsum dolor sit amet consectetur. Donec est convallis.
+            Channel the power of energy markets with YaPrime's liquidity solutions, including oil and natural gas. Diversify your liquidity portfolio and seize market opportunities.
           </p>
         </div>
         <div class="col-md-4">
@@ -447,7 +446,7 @@
             ETF CFDs
           </h4>
           <p class="icon_box_para">
-            Lorem ipsum dolor sit amet consectetur. Donec est convallis.
+            YaPrime provides liquidity solutions for Exchange-Traded Fund (ETF) CFDs. Manage liquidity exposure to diversified portfolios of assets with flexibility and effective risk management.
           </p>
         </div>
       </div>

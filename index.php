@@ -91,10 +91,8 @@
               <div class="container">
                 <div class="row">
                   <div class=" col-lg-6 col-md-6 col-sm-12  Skill-text">
-                    <h3>Get started by
-                      choosing your current skill level</h3>
+                    <h3>Start Your Own Forex Brokerage with YaPrime</h3>
                       <br>
-                      <!-- <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores atque, libero excepturi iusto maiores nihil, perspiciatis voluptas quos impedit sint laboriosam. Vel culpa iure nesciunt sequi officiis nostrum libero autem.</p> -->
                       <p>YaPrime believes in setting the industry standard for liquidity and market access solutions. We recognize that our global customer base has varied requirements and priorities, and our solutions are designed around this understanding.</p>
                       <p>We offer direct access to Liquidity from Institutional Liquidity pools – through our partnership with a regulated Liquidity Provider, and use our Data Feeds to enjoy the low latency price streams for more than 300 instruments.</p>
                                         
@@ -107,8 +105,8 @@
                             <img src="images/Frame 1000002727.jpg"/>
                             <i class="fa fa-check-square" aria-hidden="true"></i>
                         </div>
-                        <h5 class="card-title">I’m a beginner</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur.</p>
+                        <h5 class="card-title">Liquidity Solutions</h5>
+                        <p class="card-text">Best in Industry Forex Liquidity Solutions</p>
                       </div>
                     </div>
                     <div class="skill-image">
@@ -120,8 +118,8 @@
                             <img src="images/briefcase.jpg"/>
                             <i class="fa fa-check-square" aria-hidden="true"></i>
                         </div>
-                        <h5 class="card-title">I’m experienced</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur.</p>
+                        <h5 class="card-title">Broker Solutions</h5>
+                        <p class="card-text">All Round Forex Brokerage Solutions</p>
                        
                       </div>
                     </div>

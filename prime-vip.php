@@ -9,14 +9,11 @@
               <div class="inner_text_section">
                 <div class="heading_prime_vip">Prime vip</div>
                 <div class="prime_vip_paragraph">
-                  Elevate your forex game with admin consultation bliss!
+                  Kickstart your Forex Brokerage with Our Prime VIP Account
                 </div>
               </div>
               <div class="content">
-                Unleash the full potential of your forex endeavors with our
-                admin consultation services. Let our experts handle the backend,
-                while you focus on your trading success. Seamlessly optimize
-                your operations and maximize your profits!
+                Take your Forex Brokerage venture to the next level with our Prime VIP Account. This exclusive Forex VIP Account is designed to accelerate your Forex business growth and give access to a multitude of opportunities.
               </div>
             </div>
 
@@ -52,16 +49,14 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 Benefit_first_section">
-            <div class="benefit">Benefits</div>
+            <div class="benefit">YAPRIME VIP ACCOUNT BENEFITS</div>
             <div class="benefit_heading">
-              Benefits of using Prime VIP package
+              Benefits of Using Our Prime VIP Account
             </div>
           </div>
 
           <div class="col-lg-12 benefit_info">
-            Special packages are a unique offer on the Forex market for our new
-            clients. They allow you to get a full set of accounts ready for
-            active trading immediately after you make your first deposit.
+            Our Prime VIP accounts offer exclusive benefits that set it apart from the competition. It provides our clients the opportunity to access an inclusive set of trading accounts for active trading right after the initial deposit.
           </div>
         </div>
         <br />
@@ -70,21 +65,17 @@
               <div class="col-lg-6 feature_first">
               <div class="ready_made">
                 <img src="images/primevipimage1.png" />
-                <div class="ready_heading">Ready-made solution</div>
+                <div class="ready_heading">Range of Instrument Options</div>
                 <div class="ready_para">
-                  Start trading and save time. Complete the registration form,
-                  make one deposit and get three ready-to-use accounts with
-                  bonuses automatically applied on every account.
+                  YaPrime’s VIP Forex Trading Account holders have access to a wide range of trading instruments listed on our website. Moreover, they can request additional instruments suiting their trading portfolio.
                 </div>
               </div>
-      
+      <br>
               <div class="ready_made">
                 <img src="images/primevipimage2.png" />
-                <div class="ready_heading">Trade with reduced spreads.</div>
+                <div class="ready_heading">Tighter Spreads</div>
                 <div class="ready_para">
-                  Get up to 15 standard lots with reduced spreads on the most
-                  popular currency pairs: EUR/USD, GBP/USD, EUR/GBP, and
-                  USD/JPY.
+                  Enjoy trading with tighter spreads, zero commission, and the option for swap-free accounts. These favourable conditions contribute to a cost-efficient and flexible trading experience.
                 </div>
               </div>
             </div>
@@ -93,26 +84,21 @@
               <div class="ready_made">
                 <img src="images/primevipimage3.png" />
                 <div class="ready_heading">
-                  Developed in cooperation with pro traders
+                  Higher Leverage and Execution
                 </div>
                 <div class="ready_para">
-                  YaPrime account packages were developed with the help of
-                  experienced traders and Forex market experts that shared their
-                  vision of starting the trading process.
+                  Get access to higher leverage options for amplified trading power and better execution, enabling VIP Trading Account holders to grab trading opportunities with precision and efficiency.
                 </div>
               </div>
-   
+   <br>
               <div class="ready_made">
                 <img src="images/primevipimage4.png" />
 
                 <div class="ready_heading">
-                  Deposit protection for all of your accounts.
+                  Designed with Expert Insights
                 </div>
                 <div class="ready_para">
-                  Get our extended Deposit Protection offer, which includes an
-                  increased number of days for all three accounts in every
-                  package, instead of just one. Insure your deposit before
-                  opening a deal and claim back its full amount.
+                  YaPrime's account packages were carefully designed in collaboration with experienced traders and Forex industry experts. Benefit from their invaluable insights to kickstart your forex brokerage business.
                 </div>
               </div>
             </div>
@@ -124,15 +110,12 @@
             <div class="card1">
               <div class="mission_section">
                 <div class="inner_mission_section">
-                  <div class="YaPrime">About YaPrime</div>
+                  <div class="YaPrime">YaPrime Accounts</div>
                   <h2 class="YaPrimeMission">
-                    Our mission is to look after the financial best interests
-                    with automation
+                    Prime VIP Account Your Gateway to Elite Forex Brokerage
                   </h2>
                   <div class="para">
-                    Varius nisi aliquet at nisi augue tempus. Eu vitae maecenas
-                    tellus varius quis pretium. Amet nibh venenatis nunc feugiat
-                    lectus.
+                    Access exclusive advantages, superior trading terms, and expert assistance with our Prime VIP account
                   </div>
                 </div>
                 <div class="learn_more_section">Learn More</div>
@@ -148,13 +131,11 @@
         <div class="container">
         <div class="row position_rows">
           <div class="col-lg-6 ready_made_section">
-            <div class="ready_made_heading">Ready-made solution</div>
+            <div class="ready_made_heading">Exclusive Welcome Offer</div>
             <div class="ready_made_text">
-              Start trading and save time. Complete the registration form, make
-              one deposit and get three ready-to-use accounts with bonuses
-              automatically applied on every account.
+              VIP account holders can claim an exclusive 30% welcome bonus on deposits up to $100,000, providing an immediate boost to their trading capital.
             </div>
-            <div class="heading300">300+</div>
+            <div class="heading300">30% Bonus</div>
           </div>
 
           <div class="col-lg-6 yasection">
@@ -162,7 +143,7 @@
               <img src="images/yaprimecircle.png" />
             </div>
             <div class="yaPara">
-              Lorem ipsum dolor sit amet consectetur Nisl.
+              Why wait? Get your Prime VIP account with YaPrime today!
             </div>
           </div>
         </div>
