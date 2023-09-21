@@ -14,8 +14,17 @@
     <link rel="stylesheet" href="css/amit.css" />
     <link rel="stylesheet" href="css/style1.css" />
     <script src="js/index1.js"></script>
-  
     <script type="text/javascript" src="js/bootstrap.bundle.min5.2.0.js"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S2CT2TEW5G"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-S2CT2TEW5G');
+    </script>
+    <meta name="google-site-verification" content="caFkPG5ppzd0wrcG-W9enabUow1o2dqneHhOmAN5yP0" />
   </head>
   <body>
     <nav class="navbar navbar-expand-lg shadow positoning-fluid-container">

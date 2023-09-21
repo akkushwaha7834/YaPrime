@@ -1,5 +1,19 @@
 <?php include 'includes/header.php';?>
 
+<!-- Banner Start -->
+
+<section class="inner_pages">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h1 class="inner_heading">Careers</h1>
+				<p class="inner_para">Lorem ipsum dolor sit amet consectetur. Donec est convallis.</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Banner End -->
 <section class="careers_page">
 	<div class="container">
 		<div class="row">
