@@ -93,7 +93,7 @@
             <a href="graphic-design.php">
               <li>Graphic Design</li>
             </a>
-            <a href="#">
+            <a href="digital-marketing.php">
               <li>Digital Marketing</li>
             </a>
           </ul>
