@@ -1,2 +1,109 @@
+.why_ya_prime_pointer{
+	background: #F9FAFB;
+	padding: 80px 0;
+	border-radius: 10% 10% 0 0;
+}
+.pointer_heading{
+	text-align: center;
+}
+.pointers_para{
+	text-align: center;
+}
+.image-box-pointers {
+    display: inline-flex;
+    align-items: center;
+    border: 2px solid #fac213;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 20px 0;
+    transition-duration: .3s;
+}
+.image-box-pointers:hover{
+	background: #FEFCF6;
+	border-radius: 0px 20px;
+	transition-duration: .3s;
+	cursor: pointer;
+}
+.pointers_image{
+	width: 20%;
+	margin-right: 20px;
+}
+.image-box-pointers:hover p{
+	color: #000;
+}
+.poimters_row_two{
+	margin-top: 30px;
+}
+.about_us_why{
+	padding: 80px 0;
+	background-color: transparent;
+    background-image: linear-gradient(90deg, #F4F6F9 50%, #fac213 50%);
+}
+.yaPrime_why_image{
+	display: grid;
+	align-items: center;
+}
+.career_detail_banner{
+	background: url(../images/liquidity.png);
+	padding: 80px 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.details_section{
+	padding: 80px 0;
+}
+.details_section .span_detail{
+	font-weight: 800;
+	line-height: 60px;
+	font-size:40px;
+}
+#countdown {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 
+#countdown div {
+    text-align: center;
+    margin: 0 10px;
+}
 
+#countdown .smalltext {
+    font-size: 12px;
+}
+.seconds_timer,.hours_timer,.minutes_timer,.days_timer {
+    background: #fac213;
+    padding: 20px;
+    border-radius: 16px;
+    cursor: pointer;
+}
+.seconds_timer:hover,.hours_timer:hover,.minutes_timer:hover,.days_timer:hover{
+	background: #000;
+	color: #ffff;
+}
+.jd_para{
+	margin-top: 20px;
+}
+.container_two{
+	margin-top: 50px;
+}
+.ul_list {
+    width: 50%;
+    float: left;
+    margin-bottom: 40px;
+}
+li.who_list {
+    background: url(../images/yellow-tick.webp) no-repeat left 7px;
+    padding: 0 0 0px 30px;
+}
+li.li_list {
+    background: url(../images/yellow-arrow.webp) no-repeat left 7px;
+    padding: 0 0 0px 30px;
+}
+.why_yaprime_left_section{
+
+}
+.button_bottom {
+    margin-top: 30px;
+}

@@ -30,51 +30,141 @@
   </section>
   <!-- Banner End -->
 
-<!-- Why YaPrime Start-->
 
-  <section class="why_yaprime">
+
+<!-- YaPrime Pointers Start-->
+
+  <section class="why_ya_prime_pointer">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h2 class="unique_heading">Why YaPrime</h2>
-          <p class="unique_para">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
+          <h2 class="pointer_heading">
+            Why YaPrime
+          </h2>
+          <p class="pointers_para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         </div>
       </div>
-      <div class="row row_two">
+      <div class="row poimters_row_two">
         <div class="col-md-6">
-          <div class="why_pointers">
-            <img src="images/dollar.png" class="why_img">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          <div class="image-box-pointers">
+            <img src="images/dollar.png" class="pointers_image">
+            <p class="image_box_para">
+              Elevate your forex game with admin consultation bliss!
+            </p>
+          </div>
+          <div class="image-box-pointers">
+            <img src="images/dollar.png" class="pointers_image">
+            <p class="image_box_para">
+              Elevate your forex game with admin consultation bliss!
+            </p>
+          </div>
+          <div class="image-box-pointers">
+            <img src="images/dollar.png" class="pointers_image">
+            <p class="image_box_para">
+              Elevate your forex game with admin consultation bliss!
+            </p>
           </div>
         </div>
         <div class="col-md-6">
-          <div class="why_pointers">
-            <img src="images/dollar.png" class="why_img">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          </div>
+          <img src="images/FreeService-Hero.png">
         </div>
       </div>
-      <div class="row row_two">
-        <div class="col-md-6">
-          <div class="why_pointers">
-            <img src="images/dollar.png" class="why_img">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <div class="row poimters_row_two">
+        <div class="start_broker">
+            <a class="mt4_anchor" href="#">Start Broker</a>
+          </div>
+      </div>
+    </div>
+  </section>
+
+<!-- Yaprime Pointers End -->
+
+<!-- YaPrime Why Choose Start -->
+
+  <section class="about_us_why">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 why_yaprime_left_section">
+          <h4 class="">
+            Why Choose Us
+          </h4>
+          <h2 class="">
+            Elevate your forex<br> game with admin <br>consultation bliss!
+          </h2>
+          <div class="image-box-pointers">
+            <img src="images/dollar.png" class="pointers_image">
+            <p class="image_box_para">
+              Elevate your forex game with admin consultation bliss!
+            </p>
+          </div>
+          <div class="image-box-pointers">
+            <img src="images/dollar.png" class="pointers_image">
+            <p class="image_box_para">
+              Elevate your forex game with admin consultation bliss!
+            </p>
+          </div>
+          <div class="button_bottom">
+            <a class="unique_anchor_one" href="#">Request a Demo </a>
           </div>
         </div>
-        <div class="col-md-6">
-          <div class="why_pointers">
-            <img src="images/dollar.png" class="why_img">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <div class="col-md-6 yaPrime_why_image">
+          <img src="images/three-sec.jpeg" width="100%">
+        </div>
+        <div class="col-md-2">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="qoute_wrapper_black">
+                <div class="symbol">
+                  <img src="images/EURUSD.svg">
+                  EURUSD
+                </div>
+                <div class="rate">
+                    1.07424 / 1.07425
+                </div>
+                <div class="spread">
+                    Spread<br><span>0.1</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row poimters_row_two">
+            <div class="col-md-12">
+              <div class="qoute_wrapper_black">
+                <div class="symbol">
+                  <img src="images/EURUSD.svg">
+                  EURUSD
+                </div>
+                <div class="rate">
+                    1.07424 / 1.07425
+                </div>
+                <div class="spread">
+                    Spread<br><span>0.1</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row poimters_row_two">
+            <div class="col-md-12">
+              <div class="qoute_wrapper_black">
+                <div class="symbol">
+                  <img src="images/EURUSD.svg">
+                  EURUSD
+                </div>
+                <div class="rate">
+                    1.07424 / 1.07425
+                </div>
+                <div class="spread">
+                    Spread<br><span>0.1</span>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-<!-- Why YaPrime END -->
-
+<!-- YaPrime Why Choose Ends -->
 
   <!-- TALK TO US -->
   <?php include 'includes/talk-to-us.php';?>

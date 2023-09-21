@@ -89,29 +89,32 @@ line-height: 24px;
 }
 .skill-card{
   color: #222;
-
 font-size: 16px;
 font-style: normal;
 font-weight: 700;
 line-height: 24px;
+cursor: pointer;
 margin-left: -40% !important;
 margin-bottom: 6% !important;
 border-radius: 16px !important;
-border: 1px solid #EBEBEB !important;
+border: 2px solid #EBEBEB !important;
 background: #FFF !important;
+transition-duration: .3s;
 box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01), 0px 4px 4px 0px rgba(0, 0, 0, 0.02) !important;
 }
 .skill-card1{
   color: #222;
 /* position: absolute; */
 font-size: 16px;
+transition-duration: .3s;
+cursor: pointer;
 font-style: normal;
 font-weight: 700;
 line-height: 24px;
 margin-right: -60% !important;
 margin-top: 6% !important;
 border-radius: 16px !important;
-border: 1px solid #EBEBEB !important;
+border: 2px solid #EBEBEB !important;
 background: #FFF !important;
 box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01), 0px 4px 4px 0px rgba(0, 0, 0, 0.02) !important;
 }
@@ -1528,6 +1531,7 @@ textarea:focus {
 .col-width a:hover {
   text-decoration: none;
   color: #FAC211;
+/*  transition-duration: .3s;*/
 }
 
 .copyrights {
@@ -1959,6 +1963,7 @@ h4 {
 .col-width a:hover {
   text-decoration: none;
   color: #FAC211;
+/*  transition-duration: .3s;*/
 }
 
 .copyrights {
@@ -5014,10 +5019,7 @@ a.dropdown-item.yaprimeheader-size:hover {
   margin: 20px 0;
 }
 .careers_sticky_sidebar{
-
   padding: 20px;
-
-  position: -webkit-sticky;
   position: sticky;
   top: 0;
 }
@@ -5319,4 +5321,18 @@ cursor: pointer;
 }
 .why_yaprime .row_two{
   margin-top: 30px;
+}
+.careers_details_sticky_sidebar{
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  box-shadow: 0px 0px 60px -12px #fac21340;
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.details_image_box{
+  display: flex;
+    align-items: center;
+}
+.detail_box_content {
+    margin-left: 20px;
 }
