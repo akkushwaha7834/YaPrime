@@ -43,19 +43,19 @@
               <li>About us</li>
             </a>
 
-            <a href="#">
+            <a href="why-choose-us.php">
               <li>Why choose us</li>
             </a>
             <a href="blogs.php">
               <li>Our Blog</li>
             </a>
-            <a href="#">
+            <a href="careers.php">
               <li>Careers</li>
             </a>
             <a href="#">
               <li>Portfolio</li>
             </a>
-            <a href="#">
+            <a href="our-teams.php">
               <li>Meet our Team</li>
             </a>
           </ul>

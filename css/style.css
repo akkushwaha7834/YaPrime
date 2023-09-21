@@ -1531,6 +1531,7 @@ textarea:focus {
 .col-width a:hover {
   text-decoration: none;
   color: #FAC211;
+/*  transition-duration: .3s;*/
 }
 
 .copyrights {
@@ -1962,6 +1963,7 @@ h4 {
 .col-width a:hover {
   text-decoration: none;
   color: #FAC211;
+/*  transition-duration: .3s;*/
 }
 
 .copyrights {

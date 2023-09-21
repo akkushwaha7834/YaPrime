@@ -47,7 +47,7 @@
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
-                        <a class="newheaderyaprime" href="#">
+                        <a class="newheaderyaprime" href="careers.php">
                           <h5 class="new-header-heading">Careers</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
@@ -59,7 +59,7 @@
                         </p>
                       </div>
                       <div class="col-12 col-sm-4 col-md-3 py-4 ">
-                        <a class="newheaderyaprime" href="#">
+                        <a class="newheaderyaprime" href="why-choose-us.php">
                           <h5 class="new-header-heading ">Why Choose Us</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
@@ -69,7 +69,7 @@
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
-                        <a class="newheaderyaprime" href="#">
+                        <a class="newheaderyaprime" href="our-teams.php">
                           <h5 class="new-header-heading">Meet Our Team</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
