@@ -73,7 +73,7 @@
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.
                         </p>
-                        <a class="newheaderyaprime" href="#"
+                        <a class="newheaderyaprime" href="portfolio.php"
                           ><h5 class="new-header-heading">Portfolio</h5></a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Lorem ipsum dolo sit achmet muhamed borlan de irtka.

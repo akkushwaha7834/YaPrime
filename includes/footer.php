@@ -52,7 +52,7 @@
             <a href="careers.php">
               <li>Careers</li>
             </a>
-            <a href="#">
+            <a href="portfolio.php">
               <li>Portfolio</li>
             </a>
             <a href="our-teams.php">
