@@ -181,95 +181,95 @@
                 <div class="mega-content px-4">
                   <div class="container-fluid">
                    <div class="row">
-  <div class="col-md-12">
-    <h5 class="new-header-main-heading row_positioning992">Broker Solution</h5>
-  </div>
-  <div class="col-md-8">
-    <div class="row">
-      <div class="col-12 col-sm-4 col-md-4 py-4">
-        <a href="white-label.php">
-          <h5 class="new-header-heading">White Label</h5>
-        </a>
-        <p class="new-header-paragraph-text row_positioning992">
-          Explore our White Label solutions for brokerage firms.
-        </p>
-      </div>
-      <div class="col-12 col-sm-4 col-md-4 py-4">
-        <a href="admin-consultation.php">
-          <h5 class="new-header-heading">Admin Consultation</h5>
-        </a>
-        <p class="new-header-paragraph-text row_positioning992">
-          Get expert advice and consultation for administrative aspects of your brokerage.
-        </p>
-      </div>
-      <div class="col-12 col-sm-4 col-md-4 py-4">
-        <a href="crm-api.php">
-          <h5 class="new-header-heading">CRM & API</h5>
-        </a>
-        <p class="new-header-paragraph-text row_positioning992">
-            Learn about our CRM and API solutions
-        </p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12">
-        <h5 class="new-header-main-heading">
-          WEBSITE & MARKETING
-        </h5>
-      </div>
-      <div class="col-12 col-sm-4 col-md-4 py-4">
-        <a href="ui-ux.php">
-          <h5 class="new-header-heading">UI/UX Design</h5>
-        </a>
-        <p class="new-header-paragraph-text row_positioning992">
-          Discover our UI/UX design services for an enhanced user experience.
-        </p>
-        <a href="graphic-design.php">
-          <h5 class="new-header-heading">Graphic Design</h5>
-        </a>
-        <p class="new-header-paragraph-text row_positioning992">
-           Explore our graphic design solutions for effective branding.
-        </p>
-      </div>
-      <div class="col-12 col-sm-4 col-md-4 py-4">
-        <a href="web-development.php">
-          <h5 class="new-header-heading">Web Development</h5>
-        </a>
-        <p class="new-header-paragraph-text row_positioning992">
-         Learn about our web development services to boost your online presence.
-        </p>
-        <a href="digital-marketing.php">
-          <h5 class="new-header-heading">Digital Marketing</h5>
-        </a>
-        <p class="new-header-paragraph-text row_positioning992">
-          Increase your online visibility with our digital marketing strategies.
-        </p>
-      </div>
-      <div class="col-12 col-sm-4 col-md-4 py-4">
-    <a href="app-development.php">
-      <h5 class="new-header-heading">App Development</h5>
-    </a>
-    <p class="new-header-paragraph-text row_positioning992">
-       Explore our app development services for mobile trading solutions.
-    </p>
-  </div>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="card yaprime_card-body">
-      <div class="card-body">
-        <div class="yaprime_newheader_heading">
-          Why YaPrime?
-        </div>
-        <p class="card-text new-header-paragraph-text">
-          YaPrime is the industry leader in the Forex and
-          CFD markets. We pledge to create a trustworthy,
-          approachable, and ethical trading platform.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
+                      <div class="col-md-12">
+                        <h5 class="new-header-main-heading row_positioning992">Broker Solution</h5>
+                      </div>
+                      <div class="col-md-8">
+                        <div class="row">
+                          <div class="col-12 col-sm-4 col-md-4 py-4">
+                            <a href="white-label.php">
+                              <h5 class="new-header-heading">White Label</h5>
+                            </a>
+                            <p class="new-header-paragraph-text row_positioning992">
+                              Explore our White Label solutions for brokerage firms.
+                            </p>
+                          </div>
+                          <div class="col-12 col-sm-4 col-md-4 py-4">
+                            <a href="admin-consultation.php">
+                              <h5 class="new-header-heading">Admin Consultation</h5>
+                            </a>
+                            <p class="new-header-paragraph-text row_positioning992">
+                              Get expert advice and consultation for administrative aspects of your brokerage.
+                            </p>
+                          </div>
+                          <div class="col-12 col-sm-4 col-md-4 py-4">
+                            <a href="crm-api.php">
+                              <h5 class="new-header-heading">CRM & API</h5>
+                            </a>
+                            <p class="new-header-paragraph-text row_positioning992">
+                                Learn about our CRM and API solutions
+                            </p>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-md-12">
+                            <h5 class="new-header-main-heading">
+                              WEBSITE & MARKETING
+                            </h5>
+                          </div>
+                          <div class="col-12 col-sm-4 col-md-4 py-4">
+                            <a href="ui-ux.php">
+                              <h5 class="new-header-heading">UI/UX Design</h5>
+                            </a>
+                            <p class="new-header-paragraph-text row_positioning992">
+                              Discover our UI/UX design services for an enhanced user experience.
+                            </p>
+                            <a href="graphic-design.php">
+                              <h5 class="new-header-heading">Graphic Design</h5>
+                            </a>
+                            <p class="new-header-paragraph-text row_positioning992">
+                               Explore our graphic design solutions for effective branding.
+                            </p>
+                          </div>
+                          <div class="col-12 col-sm-4 col-md-4 py-4">
+                            <a href="web-development.php">
+                              <h5 class="new-header-heading">Web Development</h5>
+                            </a>
+                            <p class="new-header-paragraph-text row_positioning992">
+                             Learn about our web development services to boost your online presence.
+                            </p>
+                            <a href="digital-marketing.php">
+                              <h5 class="new-header-heading">Digital Marketing</h5>
+                            </a>
+                            <p class="new-header-paragraph-text row_positioning992">
+                              Increase your online visibility with our digital marketing strategies.
+                            </p>
+                          </div>
+                          <div class="col-12 col-sm-4 col-md-4 py-4">
+                        <a href="app-development.php">
+                          <h5 class="new-header-heading">App Development</h5>
+                        </a>
+                        <p class="new-header-paragraph-text row_positioning992">
+                           Explore our app development services for mobile trading solutions.
+                        </p>
+                      </div>
+                        </div>
+                      </div>
+                      <div class="col-md-4">
+                        <div class="card yaprime_card-body">
+                          <div class="card-body">
+                            <div class="yaprime_newheader_heading">
+                              Why YaPrime?
+                            </div>
+                            <p class="card-text new-header-paragraph-text">
+                              YaPrime is the industry leader in the Forex and
+                              CFD markets. We pledge to create a trustworthy,
+                              approachable, and ethical trading platform.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -354,54 +354,108 @@
           
           <div class="d-flex">
             <div class="input-group">
-              <button href="contact-us.php" 
-                class="btn btn-primary btnn-yellow-colour border-0 yaprimeheader-size"
-                type="button"
-                data-toggle="modal" data-target="#exampleModal"
-              >
+              <!-- Button trigger modal -->
+              <button type="button" class="btn btn-primary btnn-yellow-colour border-0 yaprimeheader-size" data-toggle="modal" data-target="#exampleModal">
                 Free Quote
               </button>
-              <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">New message</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <form>
-          <div class="form-group">
-            <label for="recipient-name" class="col-form-label">Full Name</label>
-            <input type="text" placeholder='Name' class="form-control" id="recipient-name" >
-            <label for="recipient-name" class="col-form-label">Email Address</label>
-            <input type="text" placeholder='Email Address' class="form-control" id="recipient-name">
-            <label for="recipient-name" class="col-form-label">Phone Number</label>
-            <input type="text" id="mobile_code" class="form-control" placeholder="Phone Number" name="name">
-            <label for="recipient-name" class="col-form-label">Recipient:</label>
-            <input type="text" class="form-control" id="recipient-name">
-            <label for="recipient-name" class="col-form-label">Recipient:</label>
-            <input type="text" class="form-control" id="recipient-name">
-            <label for="recipient-name" class="col-form-label">Recipient:</label>
-            <input type="text" class="form-control" id="recipient-name">
-            <label for="recipient-name" class="col-form-label">Recipient:</label>
-            <input type="text" class="form-control" id="recipient-name">
 
-          </div>
-          <div class="form-group">
-            <label for="message-text" class="col-form-label">Message:</label>
-            <textarea class="form-control" id="message-text"></textarea>
-          </div>
-        </form>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Send message</button>
-      </div>
-    </div>
-  </div>
-</div>
+              <!-- Modal -->
+              <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="exampleModalLabel">Create Your Prime Account </h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      <div class="container">
+                        <div class="row">
+                          <div class="col-md-6">
+                            <img src="images/illustrations.png" width="100%">
+                          </div>
+                          <div class="col-md-6 pop_up_form_class">
+                            <form>
+                              <div class="form-row form-group">
+                                <div class="col-md-6">
+                                    <label for="formGroupExampleInput">Full Name</label>
+                                    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Name" required="" name="name" data-gtm-form-interact-field-id="1">
+                                </div>
+                                <div class="col-md-6">
+                                    <label for="formGroupExampleInput2">Email Address</label>
+                                    <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Email Address" required="" name="email" data-gtm-form-interact-field-id="2">
+                                </div>
+                              </div>
+                              <div class="form-row form-group">
+                                <div class="col-md-6">
+                                  <label for="inputState">Enter Contact Number</label>
+                                  <input type="text" placeholder="Enter Contact Number" name="contact_number" class="form-control">
+                                </div>
+                                <div class="col-md-6">
+                                  <label for="inputState">Your Country</label>
+                                  <input type="text" placeholder="Your Country" name="country" class="form-control">
+                                </div>
+                              </div>
+                              <div class="form-row form-group">
+                                <div class="col-md-12">
+                                    <label for="inputState">Are You A ?</label>
+                                    <select class="form-control" id="areyoua" name="areyoua" required="">
+                                        <option value="">Select</option>
+                                        <option value="Start Up">Start Up</option>
+                                        <option value="Introducing Broker">Introducing Broker</option>
+                                        <option value="Existing Broker">Existing Broker</option>
+                                        <option value="Others">Others</option>
+                                    </select>
+                                </div>
+                              </div>
+                              <div class="form-row form-group">
+                                <div class="col-md-12">
+                                  <label for="inputState">What are the product or services you looking for?</label>
+                                    <select class="form-control" id="products" name="products" required="">
+                                        <option disabled="" value="" selected="">Select Products</option>
+                                        <option value="Traders Room">Traders Room</option>
+                                        <option value="Forex Brokerage">Forex Brokerage</option>
+                                        <option value="MT5 White Label">MT5 White Label</option>
+                                        <option value="MT5 ">MT5 </option>
+                                        <option value="Forex Websites Broker">Forex Websites Broker</option>
+                                        <option value="Forex CRM">Forex CRM</option>
+                                        <option value="Forex Liquidity">Forex Liquidity</option>
+                                        <option value="MAM">MAM</option>
+                                        <option value="MAM/PAMM Support">MAM/PAMM Support</option>
+                                        <option value="PAMM">PAMM</option>
+                                        <option value="Merchant Services">Merchant Services</option>
+                                        <option value="Deposits And Withdrawals With Bitcoin-ETH-USDT">Deposits And Withdrawals
+                                            With
+                                            Bitcoin-ETH-USDT</option>
+                                        <option value="IB &amp; Affiliate Area">IB &amp; Affiliate Area</option>
+                                        <option value="All The Above">All The Above</option>
+                                    </select>
+                                </div>
+                              </div>
+                              <div class="form-row form-group">
+                                <div class="col-md-12">
+                                  <label for="inputState">Do you need a quote ?</label>
+                                    <select class="form-control" id="qoute" name="qoute" required="">
+                                        <option value="">Select</option>
+                                        <option value="Yes">Yes</option>
+                                        <option value="No">No</option>
+                                    </select>
+                                </div>
+                              </div>
+                                <div class="form-group">
+                                    <label for="exampleFormControlTextarea1">Give me a brief about your requirement</label>
+                                    <textarea class="form-control" id="exampleFormControlTextarea1"rows="1" cols="50" placeholder="Message" name="message"></textarea>
+                                </div>
+                                <button type="submit" class="unique_anchor_one btn btn-primary">Submit</button>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>

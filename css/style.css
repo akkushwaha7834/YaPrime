@@ -1980,14 +1980,13 @@ h4 {
 
 /* statistics Section */
 .statistic2 {
-  display: flex;
 margin: -4%  0  4%;
   padding: 64px 120px;
   background-image: url(../images/BG.png);
+/*  background: #F9FAFB;*/
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  gap: 64px;
 
 
 }
@@ -3860,10 +3859,10 @@ color: rgba(255, 255, 255, 0.52);
 }
 
 .prev ,.next{
-  /* z-index: 1000 !important;   */
+   z-index: 99!important;   
 }
-.carousel_index{
-  z-index: -1 !important;
+#carouselExampleCaptions{
+  z-index: 0 !important;
 }
 .logogrid__item {
   display: flex;
@@ -3896,7 +3895,7 @@ color: rgba(255, 255, 255, 0.52);
   text-align: left !important;
 }
 
-.carousel-text-div h1{
+.index_banner{
   font-size: 50px;
   line-height: 65px !important;
   font-weight: 700;
@@ -3904,10 +3903,10 @@ color: rgba(255, 255, 255, 0.52);
   text-transform: uppercase;
   margin-bottom: 20px;
 }
-.carousel-text-div p{
+.index_banner_para{
   font-size: 16px;
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 
 }
 .tab-border {
@@ -5335,4 +5334,7 @@ cursor: pointer;
 }
 .detail_box_content {
     margin-left: 20px;
+}
+.carousel-caption{
+  bottom: 30%;
 }

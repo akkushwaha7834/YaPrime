@@ -3,52 +3,59 @@
 
         <!-- End of  header Section -->
         <!-- Home Page Hero Section -->
-       <div id="carouselExampleIndicators " class="carousel slide carousel_index" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <!-- <li data-target="#carouselExampleIndicators" data-slide-to="2"></li> -->
-  </ol>
-  <div class="carousel-inner">
-    <div id="overlay" class="carousel-item active">
-      <img src="images/yaprime-banner.png" class="d-block w-100 index_banner_hieght" alt="...">
-      <!-- <div class="overlay"></div> -->
-     
-      <div class="carousel-caption d-none d-md-block carousel-text-div">
-        <h1>Start your own
-          <br>
-          profitable forex broker
-        </h1>
+       <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+            <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="images/yaprime-banner.png" class="d-block w-100 index_banner_hieght" alt="...">
+              <div class="carousel-caption d-none d-md-block">
+                <h2 class="index_banner">Start your own
+                  <br>
+                  profitable forex broker
+                </h2>
 
-        <p>Are you ready to venture into the dynamic and potentially lucrative world of Forex brokerage?</p>
-        <a class="unique_anchor_one" href="#">Request a Demo </a>
+                <p class="index_banner_para">Are you ready to venture into the dynamic and potentially lucrative world of Forex brokerage?</p>
+                <a class="unique_anchor_one" href="#">Request a Demo </a>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <img src="images/yaprime-banner.png" class="d-block w-100 index_banner_hieght" alt="...">
+              <div class="carousel-caption d-none d-md-block">
+                <h2 class="index_banner">Start your own
+                  <br>
+                  profitable forex broker
+                </h2>
 
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="images/yaprime-banner.png" class="d-block w-100 index_banner_hieght" alt="...">
-      <!-- <div class="overlay"></div> -->
-      <div class="carousel-caption d-none d-md-block carousel-text-div">
-            <h1>Start your own
-              <br>
-              profitable forex broker
-            </h1>
+                <p class="index_banner_para">Are you ready to venture into the dynamic and potentially lucrative world of Forex brokerage?</p>
+                <a class="unique_anchor_one" href="#">Request a Demo </a>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <img src="images/yaprime-banner.png" class="d-block w-100 index_banner_hieght" alt="...">
+              <div class="carousel-caption d-none d-md-block">
+                <h2 class="index_banner">Start your own
+                  <br>
+                  profitable forex broker
+                </h2>
 
-            <p>Are you ready to venture into the dynamic and potentially lucrative world of Forex brokerage?</p>
-            <a class="unique_anchor_one" href="#">Request a Demo </a>
-
-      </div>
-    </div>
-    <button class="carousel-control-prev prev" type="button" data-target="#carouselExampleIndicators" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </button>
-  <button class="carousel-control-next next" type="button" data-target="#carouselExampleIndicators" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </button>
-  </div>
-</div>
+                <p class="index_banner_para">Are you ready to venture into the dynamic and potentially lucrative world of Forex brokerage?</p>
+                <a class="unique_anchor_one" href="#">Request a Demo </a>
+              </div>
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-target="#carouselExampleCaptions" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-target="#carouselExampleCaptions" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </button>
+        </div>
 
        
            <!-- Statistic Section -->
@@ -535,10 +542,5 @@ An exclusive account for high volume traders looking for competitive pricing and
 
 <?php include 'includes/footer.php';?>
 
-
-        <!-- end of footer section -->
-        <!-- <script src="/js/bootstrap.min.js"></script> -->
-        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
 </body>
 </html>

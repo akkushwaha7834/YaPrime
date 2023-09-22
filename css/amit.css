@@ -282,3 +282,25 @@ text-transform: uppercase;
 .content:hover .content-overlay{
   opacity: 1;
 }
+.modal-dialog{
+	max-width: 80%;
+}
+.modal-body .container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.input-group .btn:focus, .btn:focus-visible{
+	box-shadow: none;
+}
+button.unique_anchor_one.btn.btn-primary:hover {
+    background: #000;
+    color: #fff;
+    border: 1px solid #000;
+}
+.modal-header{
+	border-bottom: 1px solid #fac213;
+}
+.pop_up_form_class .form-control{
+	border: 1px solid #fac213;
+}
