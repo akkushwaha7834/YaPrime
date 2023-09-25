@@ -12,6 +12,7 @@
     <link rel="stylesheet" type="text/css" href="css/font-poppins.css">
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/amit.css" />
+    <link rel="stylesheet" href="css/responsive.css" />
     <link rel="stylesheet" href="css/style1.css" />
     <script src="js/index1.js"></script>
     <script type="text/javascript" src="js/bootstrap.bundle.min5.2.0.js"></script>

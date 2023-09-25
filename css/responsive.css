@@ -38,6 +38,7 @@
 	}
 	.contact_talk_to{
 		background: none!important;
+		padding: 80px 0;
 	}
 	.pricing_sec{
 		background-image: -webkit-linear-gradient(100deg, #000 98%, #ffffff 50%);
@@ -48,5 +49,70 @@
 	}
 	.mt_4_banner{
 		padding: 50px 0;
+	}
+	.partners-section{
+		padding: 10px;
+	}
+	.tab-border{
+		padding: 10px;
+	}
+	.qoute_wrapper_yellow, .qoute_wrapper_black{
+		margin-top: 20px;
+	}
+	.trading_cards_row_two{
+		margin-top: 0;
+		flex-direction: column-reverse;
+	}
+	.unique-section{
+	  padding: 80px 20px 0;
+	}
+	.statistic2{
+		padding: 80px 10px;
+		border-radius: 0;
+		margin: 0;
+	}
+	.index_banner{
+		font-size: 35px;
+		line-height: 40px!important;
+	}
+	.carousel-caption{
+		bottom: 20%;
+	}
+	.about_row_two{
+		margin-top: 0;
+	}
+	.career-details-row{
+		flex-direction: column-reverse;
+	}
+	.career_row-two-detail{
+		margin: 40px 0;
+	}
+	.contact_above_footer.con {
+	    width: 100%!important;
+	    max-width: 100%!important;
+	}
+	.contact-us-row{
+		padding: 0 10px;
+	}
+	.about_us_why{
+		background-image: linear-gradient(180deg, #F4F6F9 50%, #fac213 50%);
+	}
+	.yaPrime_why_image {
+	    margin-top: 50px;
+	}
+	.poimters_row_two .qoute_wrapper_black {
+	    margin: 0;
+	}
+	.poimters_row_two{
+		margin-top: 10px;
+	}
+	.teams_card.two {
+	    margin-top: 20px;
+	}
+	.team_row_two{
+		margin-top: 0px;
+	}
+	.blog-grid-row{
+		margin:0;
 	}
 }

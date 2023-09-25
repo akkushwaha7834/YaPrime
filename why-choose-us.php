@@ -66,7 +66,7 @@
           </div>
         </div>
         <div class="col-md-6">
-          <img src="images/FreeService-Hero.png">
+          <img src="images/FreeService-Hero.png" width="100%">
         </div>
       </div>
       <div class="row poimters_row_two">

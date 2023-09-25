@@ -1980,10 +1980,11 @@ h4 {
 
 /* statistics Section */
 .statistic2 {
-margin: -4%  0  4%;
+margin: 80px 0;
   padding: 64px 120px;
-  background-image: url(../images/BG.png);
-/*  background: #F9FAFB;*/
+/*  background-image: url(../images/BG.png);*/
+  background: #F9FAFB;
+  border-radius: 50%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5119,12 +5120,9 @@ a.dropdown-item.yaprimeheader-size:hover {
 .skill-cards{
   margin-top: 6%;
 }
-.unique-section{
-  padding: 80px 20px ;
-}
 .reputed-section{
-  background-image: -webkit-linear-gradient(121deg, #000 90%, #F9FAFB 50%);
-  padding: 250px 20px 100px;
+  padding: 80px 20px;
+  background: #000;
 }
 .whitelabel-mt4 button{
   padding: 8px 14px;
@@ -5149,13 +5147,13 @@ a.dropdown-item.yaprimeheader-size:hover {
   margin-bottom: 10%;
 }
 .our_blog_section{
-  padding: 0px;
+  padding: 80px 10px;
 }
 .ContactFormContainer{
   padding: 44px !important;
 }
 .col-width{
-  max-width: 100% !important;
+  max-width: 50% !important;
 }
 .footer-section{
   padding: 20px;
@@ -5167,7 +5165,7 @@ a.dropdown-item.yaprimeheader-size:hover {
   line-height: 24px;
 }
 .our_blog_grid{
-  padding: 20px;
+  padding: 20px 0;
 }
 .Details-hero-section {
   padding: 30px 20px;

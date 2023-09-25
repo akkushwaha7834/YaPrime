@@ -12,7 +12,7 @@
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img src="images/yaprime-banner.png" class="d-block w-100 index_banner_hieght" alt="...">
-              <div class="carousel-caption d-none d-md-block">
+              <div class="carousel-caption d-md-block">
                 <h2 class="index_banner">Start your own
                   <br>
                   profitable forex broker
@@ -24,7 +24,7 @@
             </div>
             <div class="carousel-item">
               <img src="images/yaprime-banner.png" class="d-block w-100 index_banner_hieght" alt="...">
-              <div class="carousel-caption d-none d-md-block">
+              <div class="carousel-caption d-md-block">
                 <h2 class="index_banner">Start your own
                   <br>
                   profitable forex broker
@@ -36,7 +36,7 @@
             </div>
             <div class="carousel-item">
               <img src="images/yaprime-banner.png" class="d-block w-100 index_banner_hieght" alt="...">
-              <div class="carousel-caption d-none d-md-block">
+              <div class="carousel-caption d-md-block">
                 <h2 class="index_banner">Start your own
                   <br>
                   profitable forex broker

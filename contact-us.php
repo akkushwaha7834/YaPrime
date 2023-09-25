@@ -59,7 +59,7 @@
   <!-- Call Icon Boxes Start -->
 
   <div class="container contact_us">
-    <div class="row">
+    <div class="row contact-us-row">
       <div class="col-md-6">
         <div class="row">
           <div class="col-md-12">

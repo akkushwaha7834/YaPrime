@@ -54,7 +54,7 @@
 		</div>
 	</div>
 	<div class="container container_two">
-		<div class="row">
+		<div class="row career-details-row">
 			<div class="col-md-8">
 				<h2 class="jd_heading">Job Description</h2>
 				<p class="jd_para">
@@ -99,7 +99,7 @@
 				</ul>
 				<a class="mt4_anchor" href="#">Apply Now </a>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-4 career_row-two-detail">
 				<div class="careers_details_sticky_sidebar">
 				<h3 class="careers_heading">
 					<span>Job Summary</span>
