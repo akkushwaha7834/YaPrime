@@ -115,4 +115,7 @@
 	.blog-grid-row{
 		margin:0;
 	}
+	.white_label .benefits_row_two .col-md-3 {
+	    width: 50%;
+	}
 }
