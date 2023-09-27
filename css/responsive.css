@@ -3,6 +3,9 @@
 		width: 100%!important;
 		flex:100%!important;
 	}
+	.br_db{
+		display: none;
+	}
 	.about_banner{
 		padding: 50px 0;
 	}
@@ -117,5 +120,11 @@
 	}
 	.white_label .benefits_row_two .col-md-3 {
 	    width: 50%;
+	}
+	.unique_h1{
+		font-size: 35px;
+	}
+	.crm_api_image_banner{
+		width: 100%;
 	}
 }

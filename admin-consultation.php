@@ -10,7 +10,7 @@
             Admin consultation
           </h4>
           <h1 class="unique_h1">
-            Elevate your forex<br> game with admin <br>consultation bliss!
+            Elevate your forex<br class="br_db"> game with admin <br class="br_db">consultation bliss!
           </h1>
           <p class="unique_p">
             Unleash the full potential of your forex endeavors with our admin consultation services. Let our experts handle the backend, while you focus on your trading success. Seamlessly optimize your operations and maximize your profits!

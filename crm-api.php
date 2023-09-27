@@ -26,7 +26,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 crm_banner_image">
-          <img src="images/laptop.png" width="60%">
+          <img src="images/laptop.png" class="crm_api_image_banner">
         </div>
       </div>
     </div>
@@ -85,9 +85,9 @@
           <h4 class="crm_h4">
             Benefits
           </h4>
-          <h1 class="crm_h1">
+          <h2 class="crm_h1">
             Discover our MT4 white label<br> solution’s key benefits
-          </h1>
+          </h2>
           <p class="crm_p">
             Experience in forex industry can build real forex broker, we are named for expertise, compare to know
           </p>
