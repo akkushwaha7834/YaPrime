@@ -8,16 +8,13 @@
           <div class="col-lg-6 prime_vip_section">
             <div class="text_section">
               <div class="inner_text_section">
-                <div class="heading_prime_vip">Prime vip</div>
+                <div class="heading_prime_vip">Prime Special</div>
                 <div class="prime_vip_paragraph_special">
-                  Elevate your forex game with admin consultation bliss!
+                  Prime Special: The Complete Solution for Your Brokerage
                 </div>
               </div>
               <div class="content_special">
-                Unleash the full potential of your forex endeavors with our
-                admin consultation services. Let our experts handle the backend,
-                while you focus on your trading success. Seamlessly optimize
-                your operations and maximize your profits!
+                Prime Special offers an exceptional suite of tools and services, providing your forex brokerage with a comprehensive package designed for top-tier performance and success in the industry.
               </div>
             </div>
 
@@ -52,14 +49,12 @@
             <div class="col-lg-12 Benefit_first_section">
               <div class="benefit">Benefits</div>
               <div class="benefit_heading">
-                Benefits of using Prime VIP package
+                Benefits of Using Prime Special Package
               </div>
             </div>
 
             <div class="col-lg-12 benefit_info">
-              Special packages are a unique offer on the Forex market for our
-              new clients. They allow you to get a full set of accounts ready
-              for active trading immediately after you make your first deposit.
+              The Prime Special package is all you need to build your complete forex brokerage. Explore some of the unique benefits that you will receive with our special package for special forex businesses.
             </div>
           </div>
         </div>
@@ -69,13 +64,11 @@
               <div class="takecontrol_section">
                 <img src="images/vvipimage1.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Complete Forex Solution</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                Prime Special offers a comprehensive package combining the features of Prime VIP and Prime VVIP packages, providing your brokerage with all essential tools for success.
               </div>
             </div>
           </div>
@@ -84,13 +77,11 @@
               <div class="takecontrol_section">
                 <img src="images/vvipimage2.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Advanced Technology Access </span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                Access top-tier technology, including a WordPress website, MAM plugin, mobile manager, and Fix API manager, ensuring your brokerage stays at the forefront of the industry.
               </div>
             </div>
           </div>
@@ -99,13 +90,11 @@
               <div class="takecontrol_section">
                 <img src="images/vvipimage3.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Efficient Asset Management</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                With the MAM plugin, asset managers can efficiently manage multiple sub-accounts from a master account, simplifying margin management and trading activities.
               </div>
             </div>
           </div>
@@ -116,13 +105,11 @@
               <div class="takecontrol_section">
                 <img src="images/vvipimage4.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Mobile Trading Flexibility</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                Stay connected and manage your forex business on the go with the mobile manager, ensuring you remain agile and responsive in the dynamic forex market.
               </div>
             </div>
           </div>
@@ -131,13 +118,11 @@
               <div class="takecontrol_section">
                 <img src="images/vvipimage5.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Professional WordPress Website</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                A professionally designed WordPress website enhances your online credibility, attracting traders and investors to your brokerage.
               </div>
             </div>
           </div>
@@ -146,13 +131,11 @@
               <div class="takecontrol_section">
                 <img src="images/vvipimage6.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Diversified Trading Opportunities</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                The Fix API manager broadens your trading horizons by providing connectivity to various liquidity providers, offering your clients a wide range of trading instruments and assets.
               </div>
             </div>
           </div>
@@ -167,15 +150,14 @@
           <div class="col-lg-5 brokerage_section">
             <div class="further_section">
               <div class="further_heading">
-                <div class="yellow_heading">Admin consultation</div>
+                <div class="yellow_heading">GET PRIME SPECIAL</div>
                 <div class="black_heading">
-                  Take further control of your brokerage
+                  Get Our Prime Special Package and Supercharge your Brokerage
                 </div>
               </div>
 
               <div class="further_text">
-                Unlike MT4, the MetaTrader 5 platform gives White Label managers
-                full control over their brokerage.
+                Prime Special is not just another package, it's the ultimate solution for those who want to make a bold entrance in the forex industry. Grow your forex business with Prime Special today!
               </div>
             </div>
             <div class="get_started_button">Get Started</div>
@@ -195,16 +177,14 @@
       <div class="container">
         <div class="row rowcoloring_vvip">
           <div class="col-lg-6 positiongvvip">
-            <div class="prime_vvip_heading2">Prime vvip</div>
+            <div class="prime_vvip_heading2">SPECIAL FEATURES</div>
             <br />
             <div class="prime_vvip_subheading2">
-              Elevate your forex game with admin consultation bliss!
+              Dedicated WordPress Website
             </div>
             <br />
             <div class="prime_vvip_info2">
-              Building high quality custom apps that hit the mark in every
-              aspect, keeping your users engaged and turning users into paying
-              customers
+              A professional website is a cornerstone of your online presence. We provide you with a fully functional WordPress website designed to attract and engage potential clients.
             </div>
             <br />
             <div class="get_started_vvip_button">Get Started</div>
@@ -229,16 +209,14 @@
           </div>
 
           <div class="col-lg-6 positiongvvip">
-            <div class="prime_vvip_heading2">Prime vvip</div>
+            <div class="prime_vvip_heading2">SPECIAL FEATURES</div>
             <br />
             <div class="prime_vvip_subheading2">
-              Elevate your forex game with admin consultation bliss!
+              Access to Fix API Manager
             </div>
             <br />
             <div class="prime_vvip_info2">
-              Building high quality custom apps that hit the mark in every
-              aspect, keeping your users engaged and turning users into paying
-              customers
+              Gain access to the Fix API manager, enabling seamless integration with external systems and liquidity providers. This feature enhances the flexibility and efficiency of your brokerage.
             </div>
             <br />
             <div class="get_started_vvip_button">Get Started</div>
@@ -256,13 +234,11 @@
               <div class="takecontrol_section">
                 <img src="images/vvipimg7.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Lightening Fast Brokerage Setup</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                Prime Special offers a complete and well-rounded setup for your brokerage. It equips you with all the necessary tools, accounts, and systems, ensuring you're ready to dive into the Forex market instantly.
               </div>
             </div>
             <hr />
@@ -270,13 +246,11 @@
               <div class="takecontrol_section">
                 <img src="images/vvipimg8.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Effortless Sub-Account Management</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                With the integrated MAM plugin, clients can effortlessly manage multiple sub-accounts from a master account. This simplifies trading operations, efficiently handling clients' accounts and optimising trading strategies.
               </div>
             </div>
           </div>
@@ -301,13 +275,11 @@
               <div class="takecontrol_section">
                 <img src="images/vvipimg9.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Mobile Accessibility</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                Prime Special provides the advantage of mobile management. Clients can stay connected and monitor their brokerage activities on the go, ensuring they never miss an important update or trading opportunity.
               </div>
             </div>
             <hr />
@@ -315,13 +287,11 @@
               <div class="takecontrol_section">
                 <img src="images/vvipimg8.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Seamless Integration</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                The inclusion of the Fix API manager allows for seamless integration with external systems and liquidity providers. This enhances the flexibility and connectivity of clients' brokerages, streamlining their operations for success.
               </div>
             </div>
           </div>
@@ -350,22 +320,13 @@
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingOne">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              What are the benefits of Solodev CMS?
+              What makes the Prime Special Package unique compared to other packages?
             </button>
           </h2>
           <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p>
-                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives the highest levels of site performance, speed and engagement - and contributes more to your bottom line. Our users fell in love with.
-              </p>
-              <p>
-                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
-              </p>
-              <p>
-                Scalability – pay for what you need today and add-on options as you grow.
-              </p>
-              <p>
-                All of the bells and whistles of other enterprise CMS options but without the design limitations - this CMS simply lets you realize your creative visions.
+                Our Prime Special Package offers all the features included in the Prime VIP and Prime VVIP packages, making it the ultimate choice for those who want to start big with their forex brokerage. Additionally, we provide you with essential tools like a WordPress website, MAM plugin, Mobile Manager, and Fix API Manager to ensure your brokerage's success.
               </p>
             </div>
           </div>
@@ -373,22 +334,13 @@
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-              How easy is it to build a website with Solodev CMS?
+              Is there any flexibility in customising the Prime Special Package to suit my specific needs?
             </button>
           </h2>
           <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p>
-                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives the highest levels of site performance, speed and engagement - and contributes more to your bottom line. Our users fell in love with.
-              </p>
-              <p>
-                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
-              </p>
-              <p>
-                Scalability – pay for what you need today and add-on options as you grow.
-              </p>
-              <p>
-                All of the bells and whistles of other enterprise CMS options but without the design limitations - this CMS simply lets you realize your creative visions.
+                Absolutely! While the Prime Special Package comes with comprehensive features, we understand that each brokerage may have unique requirements. Our team is ready to work closely with you to tailor the package to your specific needs and goals.
               </p>
             </div>
           </div>
@@ -396,22 +348,13 @@
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              What is the uptime for Solodev CMS?
+              What type of support and assistance can I expect when I opt for the Prime Special Package?
             </button>
           </h2>
           <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p>
-                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives the highest levels of site performance, speed and engagement - and contributes more to your bottom line. Our users fell in love with.
-              </p>
-              <p>
-                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
-              </p>
-              <p>
-                Scalability – pay for what you need today and add-on options as you grow.
-              </p>
-              <p>
-                All of the bells and whistles of other enterprise CMS options but without the design limitations - this CMS simply lets you realize your creative visions.
+                When you choose the Prime Special Package, you gain access to our dedicated support team, ready to assist you immediately. Whether you have questions, need technical assistance, or require guidance on maximising the benefits of this package, we're here to provide the expert support you need to thrive in the forex industry.
               </p>
             </div>
           </div>
