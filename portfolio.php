@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<h1 class="inner_heading">Portfolio</h1>
-				<p class="inner_para">Lorem ipsum dolor sit amet consectetur. Donec est convallis.</p>
+				<p class="inner_para">Explore our portfolio that showcases our dedication and expertise in the forex industry.</p>
 			</div>
 		</div>
 	</div>
@@ -39,10 +39,10 @@
 						01
 					</h2>
 					<h4 class="port_name">
-						App Feature
+						Industry Expertise
 					</h4>
 					<p class="port_details">
-						Curabitur dictum lorem dui, a dictum lorem tincidunt sit amet. Nulla venenatis, ligula sed scelerisque auctor, sapien ante commodo diam, eu viverra purus tortor sit amet velit. Maecenas ut massa faucibus, aliquet risus quis, volutpat lorem. Duis molestie vel ligula a consequat.
+						YaPrime has years of experience within the forex industry. This experience has provided valuable insights into market dynamics, allowing us to solve complexities effectively. We stay informed about the latest trends, regulations, and shifts in the forex market, ensuring our solutions remain relevant and compliant. Our proven track record of success reflects our ability to deliver results and drive growth for our clients.
 					</p>
 					<div class="port_link">
 						<a href="#" class="port_link">Visit Website</a>
@@ -54,13 +54,13 @@
 			<div class="col-md-4">
 				<div class="port_content">
 					<h2 class="port_number">
-						01
+						02
 					</h2>
 					<h4 class="port_name">
-						App Feature
+						Advanced Technology
 					</h4>
 					<p class="port_details">
-						Curabitur dictum lorem dui, a dictum lorem tincidunt sit amet. Nulla venenatis, ligula sed scelerisque auctor, sapien ante commodo diam, eu viverra purus tortor sit amet velit. Maecenas ut massa faucibus, aliquet risus quis, volutpat lorem. Duis molestie vel ligula a consequat.
+						We're committed to employing modern technology to provide our clients with powerful and efficient solutions. This commitment ensures that our services are at the forefront of industry standards. Innovation is at the core of what we do. We continuously explore new technologies and approaches to maintain our competitive edge. Our solutions seamlessly integrate with leading platforms, enhancing their functionality and efficiency.
 					</p>
 					<div class="port_link">
 						<a href="#" class="port_link">Visit Website</a>
@@ -80,13 +80,13 @@
 			<div class="col-md-4">
 				<div class="port_content">
 					<h2 class="port_number">
-						01
+						02
 					</h2>
 					<h4 class="port_name">
-						App Feature
+						Trust and Reliability
 					</h4>
 					<p class="port_details">
-						Curabitur dictum lorem dui, a dictum lorem tincidunt sit amet. Nulla venenatis, ligula sed scelerisque auctor, sapien ante commodo diam, eu viverra purus tortor sit amet velit. Maecenas ut massa faucibus, aliquet risus quis, volutpat lorem. Duis molestie vel ligula a consequat.
+						Trust is paramount in the forex industry. We establish trust by maintaining transparent and ethical practices in all our dealings. Clients can rely on YaPrime as a dependable partner for their forex brokerages. We consistently deliver high-quality services and support. Our commitment to trust and reliability ensures that our clients can operate with confidence and peace of mind.
 					</p>
 					<div class="port_link">
 						<a href="#" class="port_link">Visit Website</a>
