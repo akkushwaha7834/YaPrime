@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<h1 class="inner_heading">Careers</h1>
-				<p class="inner_para">Lorem ipsum dolor sit amet consectetur. Donec est convallis.</p>
+				<p class="inner_para">Browse our exciting job openings at YaPrime.</p>
 			</div>
 		</div>
 	</div>
@@ -22,10 +22,10 @@
 
 
 				<h1 class="careers_heading">
-					Join With Us <span>Today</span>
+					Join Us <span>Today</span>
 				</h1>
 				<p class="careers_para">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+					At YaPrime, we're all about learning, growing, and innovating together as a team. As a company, we're committed to progress – for our customers and employees. We welcome those with creativity, drive, agility, and a passion for thinking differently.
 				</p>
 				</div>
 			</div>
