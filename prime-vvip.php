@@ -6,14 +6,12 @@
       <div class="container">
         <div class="row admin_consultation_section">
           <div class="col-lg-8">
-            <div class="prime_vvip_heading">Prime vvip</div>
+            <div class="prime_vvip_heading">Prime VVIP</div>
             <div class="prime_vvip_subheading">
-              Elevate your forex game with admin consultation bliss!
+              Take Your Brokerage to Next Level With Our Prime VVIP Package
             </div>
             <div class="prime_vvip_info">
-              Building high quality custom apps that hit the mark in every
-              aspect, keeping your users engaged and turning users into paying
-              customers
+              Manage your forex brokerage with our Prime VVIP package, in which you get everything in our VIP package plus more exclusive benefits to take your business to the next phase.
             </div>
             <div class="optionbotton_section">
               <div class="request_a_demo_botton">Request a Demo</div>
@@ -31,13 +29,11 @@
             <div class="prime_vvip_heading2">Prime vvip</div>
             <br />
             <div class="prime_vvip_subheading2">
-              Elevate your forex game with admin consultation bliss!
+              Access a Wide Range of Forex Instruments
             </div>
             <br />
             <div class="prime_vvip_info2">
-              Building high quality custom apps that hit the mark in every
-              aspect, keeping your users engaged and turning users into paying
-              customers
+             With Prime VVIP, you can access a vast array of Forex instruments, including Groups, Manager, and Symbols, totalling 4+2+600.
             </div>
             <br />
             <div class="get_started_vvip_button">Get Started</div>
@@ -65,13 +61,11 @@
             <div class="prime_vvip_heading2">Prime vvip</div>
             <br />
             <div class="prime_vvip_subheading2">
-              Elevate your forex game with admin consultation bliss!
+              Advanced Trading Tools & Resources
             </div>
             <br />
             <div class="prime_vvip_info2">
-              Building high quality custom apps that hit the mark in every
-              aspect, keeping your users engaged and turning users into paying
-              customers
+              Prime VVIP includes various advanced tools like Web API, Forex CRM, Bonus plugin, Extended dealer features, Multi-level IB platform, and Liquidity manager.
             </div>
             <br />
             <div class="get_started_vvip_button">Get Started</div>
@@ -88,39 +82,32 @@
             <div class="benefit_vvip_package_section11">
               <div class="benefit_yellow_heading">Benefits</div>
               <div class="benefit_preheading">
-                Benefits of using Prime VVIP package
+                Benefits of Using Prime VVIP Package
               </div>
               <div class="benefit_vvip_discription69">
-                Special packages are a unique offer on the Forex market for our
-                new clients. They allow you to get a full set of accounts ready
-                for active trading immediately after you make your first
-                deposit.
+                Our Prime packages are designed to support forex brokers at every level. Enjoy our Prime VVIP package, specially put together to take your brokerage to the next level.
               </div>
             </div>
             <div class="card card_modification">
               <div class="takecontrol_section">
                 <img src="./images/service1.png" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Advanced Tools</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                Utilise Web API, Forex CRM, Bonus plugin, Extended dealer capabilities, Multi-level IB platform, and Liquidity manager to enhance your Forex operations.
               </div>
             </div>
             <div class="card card_modification">
               <div class="takecontrol_section">
                 <img src="./images/vvipimage1.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Dedicated Assistance</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                Receive personalised support tailored to meet your specific requirements, ensuring your brokerage's success.
               </div>
             </div>
           </div>
@@ -129,52 +116,44 @@
               <div class="takecontrol_section">
                 <img src="./images/vvipimage2.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Transparent Pricing</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                Enjoy a straightforward, one-time setup fee of $6000, covering all costs without hidden charges.
               </div>
             </div>
             <div class="card card_modification">
               <div class="takecontrol_section">
                 <img src="./images/vvipimage4.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Profit Maximization</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                Boost your brokerage's profitability with the exclusive features and tools included in the Prime VVIP Package.
               </div>
             </div>
             <div class="card card_modification">
               <div class="takecontrol_section">
                 <img src="./images/vvipimage5.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Competitive Advantage</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                Stay ahead in the forex market with cutting-edge tools and technology at your fingertips.
               </div>
             </div>
             <div class="card card_modification">
               <div class="takecontrol_section">
                 <img src="./images/vvipimage6.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Complete Forex Solution</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                The Prime VVIP Package offers a complete suite of resources, allowing you to manage your brokerage effectively and efficiently.
               </div>
             </div>
           </div>
@@ -203,13 +182,11 @@
               <div class="takecontrol_section">
                 <img src="./images/vvipimg7.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Step into Elite Territory</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                Promote your forex brokerage to elite status and access top-tier features exclusively available to the most discerning traders and brokers.
               </div>
             </div>
           </div>
@@ -218,13 +195,11 @@
               <div class="takecontrol_section">
                 <img src="./images/vvipimg8.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Lead the Way</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                With the Prime VVIP Package, you are not merely a participant; you emerge as a frontrunner in the forex market, fully equipped to reach your success.
               </div>
             </div>
           </div>
@@ -233,13 +208,11 @@
               <div class="takecontrol_section">
                 <img src="./images/vvipimg9.svg" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Take full control and client ownership</span
+                  >Your Success, Our Priority</span
                 >
               </div>
               <div class="take_control_discription">
-                Create new clients, execute deposits and withdrawals, observe
-                live trading activity of your clients and view overall portfolio
-                performance.
+                Our commitment revolves around ensuring your triumph. By joining Prime VVIP, you allow us to fortify your brokerage for succeeding in the forex industry.
               </div>
             </div>
           </div>
@@ -269,22 +242,13 @@
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingOne">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              What are the benefits of Solodev CMS?
+              What is the one-time setup fee for the Prime VVIP Package?
             </button>
           </h2>
           <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p>
-                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives the highest levels of site performance, speed and engagement - and contributes more to your bottom line. Our users fell in love with.
-              </p>
-              <p>
-                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
-              </p>
-              <p>
-                Scalability – pay for what you need today and add-on options as you grow.
-              </p>
-              <p>
-                All of the bells and whistles of other enterprise CMS options but without the design limitations - this CMS simply lets you realize your creative visions.
+                The one-time setup fee for our Prime VVIP Package is $6000.
               </p>
             </div>
           </div>
@@ -292,22 +256,13 @@
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-              How easy is it to build a website with Solodev CMS?
+              What distinguishes the Prime VVIP Package from the VIP Package?
             </button>
           </h2>
           <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p>
-                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives the highest levels of site performance, speed and engagement - and contributes more to your bottom line. Our users fell in love with.
-              </p>
-              <p>
-                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
-              </p>
-              <p>
-                Scalability – pay for what you need today and add-on options as you grow.
-              </p>
-              <p>
-                All of the bells and whistles of other enterprise CMS options but without the design limitations - this CMS simply lets you realize your creative visions.
+                The Prime VVIP Package not only includes all the features of the VIP Package but also provides additional benefits such as Web API, Forex CRM, Bonus plugin, Extended dealer, Multi-level IB, and Liquidity manager.
               </p>
             </div>
           </div>
@@ -315,22 +270,13 @@
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              What is the uptime for Solodev CMS?
+              How can I upgrade to the Prime VVIP Package?
             </button>
           </h2>
           <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p>
-                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives the highest levels of site performance, speed and engagement - and contributes more to your bottom line. Our users fell in love with.
-              </p>
-              <p>
-                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
-              </p>
-              <p>
-                Scalability – pay for what you need today and add-on options as you grow.
-              </p>
-              <p>
-                All of the bells and whistles of other enterprise CMS options but without the design limitations - this CMS simply lets you realize your creative visions.
+                To upgrade to the Prime VVIP Package, please get in touch with our dedicated support team. They will guide you through the process and help you make the most of this exclusive offering.
               </p>
             </div>
           </div>
