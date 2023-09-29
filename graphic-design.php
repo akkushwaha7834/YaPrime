@@ -11,12 +11,11 @@
             <div class="inner_text_section">
               <div class="heading_prime_vip">Graphic design</div>
               <div class="prime_vip_paragraph_special">
-                Designs that leave a lasting impact of your business
+                Stunning Graphic Design Services that Builds Trust and Authority
               </div>
             </div>
             <div class="content_special">
-              It's social media visuals that people stop-by and that's one of
-              the ways to sell your product or service
+              Your Partner in Creating Visually Stunning and Trustworthy Graphic Design Solutions for Forex Brokerages
             </div>
           </div>
 
@@ -73,13 +72,11 @@
         <div class="col-lg-4">
           <div class="card card_modification2">
             <div class="takecontrol_section">
-              <img src="images/graphicimgg1.svg" alt="service1 image" width="100%" />
-              <span class="take_control_heading">UI/UX designing</span>
+              <img src="images/graphicimgg1.svg" alt="service1 image" />
+              <span class="take_control_heading">Logo Design</span>
             </div>
             <div class="take_control_discription">
-              A web application is application software that is accessed using
-              a web browser. Web applications are delivered on the World Wide
-              Web to users with an active network connection.
+              Our experienced graphic designers can craft a distinctive logo that symbolises your forex brokerage's identity and values. A well-designed logo is the cornerstone of your brand.
             </div>
           </div>
         </div>
@@ -87,12 +84,10 @@
           <div class="card card_modification2">
             <div class="takecontrol_section">
               <img src="images/graphicimgg2.svg" alt="service1 image" />
-              <span class="take_control_heading">Structure designing</span>
+              <span class="take_control_heading">Marketing Collateral</span>
             </div>
             <div class="take_control_discription">
-              A web application is application software that is accessed using
-              a web browser. Web applications are delivered on the World Wide
-              Web to users with an active network connection.
+              From brochures and flyers to posters and banners, we create compelling marketing materials that effectively communicate your brokerage's unique selling points and offerings.
             </div>
           </div>
         </div>
@@ -100,12 +95,10 @@
           <div class="card card_modification2">
             <div class="takecontrol_section">
               <img src="images/graphicimgg3.svg" alt="service1 image" />
-              <span class="take_control_heading">Static website</span>
+              <span class="take_control_heading">Social Media Graphics</span>
             </div>
             <div class="take_control_discription">
-              A web application is application software that is accessed using
-              a web browser. Web applications are delivered on the World Wide
-              Web to users with an active network connection.
+              Engage your audience on various social media platforms with visually appealing graphics. We design eye-catching visuals that increase your social media presence and enhance user engagement.
             </div>
           </div>
         </div>
@@ -116,12 +109,10 @@
           <div class="card card_modification2">
             <div class="takecontrol_section">
               <img src="images/graphicimgg4.svg" alt="service1 image" />
-              <span class="take_control_heading">Content management system</span>
+              <span class="take_control_heading">Infographics</span>
             </div>
             <div class="take_control_discription">
-              A web application is application software that is accessed using
-              a web browser. Web applications are delivered on the World Wide
-              Web to users with an active network connection.
+              Complex information becomes easily digestible with our custom-designed infographics. They help convey important data and statistics in a visually appealing and comprehensible format.
             </div>
           </div>
         </div>
@@ -129,12 +120,10 @@
           <div class="card card_modification2">
             <div class="takecontrol_section">
               <img src="images/graphicimgg5.svg" alt="service1 image" />
-              <span class="take_control_heading">Dynamic website</span>
+              <span class="take_control_heading">Website Graphics</span>
             </div>
             <div class="take_control_discription">
-              A web application is application software that is accessed using
-              a web browser. Web applications are delivered on the World Wide
-              Web to users with an active network connection.
+              Our team ensures that your website stands out with appealing graphics. Whether it's website banners, icons, or illustrations, we enhance user experience and capture visitors' attention.
             </div>
           </div>
         </div>
@@ -142,12 +131,10 @@
           <div class="card card_modification2">
             <div class="takecontrol_section">
               <img src="images/graphicimgg6.svg" alt="service1 image" />
-              <span class="take_control_heading">Animates website</span>
+              <span class="take_control_heading">Email Campaign Design</span>
             </div>
             <div class="take_control_discription">
-              A web application is application software that is accessed using
-              a web browser. Web applications are delivered on the World Wide
-              Web to users with an active network connection.
+              Create impactful email marketing campaigns with our well-designed templates. We design emails that look great and improve click-through rates and conversion.
             </div>
           </div>
         </div>
@@ -222,63 +209,50 @@
     </div>
   </section>
 
-  <!-- video section  -->
-
-  <section class="Hero_banner_vvip_section_webdev">
-    <div class="container">
-      <div class="row admin_consultation_section">
-        <div class="col-lg-8">
-          <div class="prime_vvip_heading">Latest videos</div>
-          <div class="prime_vvip_subheading">Explore our latest videos</div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div class="row admin_consultation_section graphic_design">
-        <iframe width="100%" height="491" src="https://www.youtube.com/embed/ZnCbTp2tDlI"
-          title="YaMarkets Unveils New Dubai Office - Taking Financial Success to the Next Level" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>
-      </div>
-    </div>
-  </section>
 
   <!--  ui ux what to do section-->
   <section class="uiux_whatToSection">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <div class="what_todoSection">Our timeline</div>
-          <div class="todo__Discription">How do we do it?</div>
+          <div class="what_todoSection">Latest videos</div>
+          <div class="todo__Discription">Explore our latest videos</div>
         </div>
       </div>
-      <br />
-      <br />
-      <div class="row ui_ux_position">
-        <div class="col-lg-1 text_uiux_heading">Strategy</div>
-        <div class="col-lg-10">
-          <div class="col-lg-2 voilet_heading">Discovery</div>
-          <div class="col-lg-2 voilet_heading">Definition</div>
-          <div class="col-lg-2 voilet_heading">UX Research</div>
+      <div class="row video_row_two">
+        <div class="col-md-8">
+          <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ZnCbTp2tDlI"
+          title="YaMarkets Unveils New Dubai Office - Taking Financial Success to the Next Level" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>
+        </div>
+        <div class="col-md-4">
+          <div class="row">
+            <div class="col-md-12">
+              <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ZnCbTp2tDlI"title="YaMarkets Unveils New Dubai Office - Taking Financial Success to the Next Level" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>
+            </div>
+          </div>
+          <div class="row video_row_two">
+            <div class="col-md-12">
+              <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ZnCbTp2tDlI"title="YaMarkets Unveils New Dubai Office - Taking Financial Success to the Next Level" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>
+            </div>
+          </div>
         </div>
       </div>
-      <br />
-
-      <div class="row ui_ux_position">
-        <div class="col-lg-1 text_uiux_heading">Design</div>
-        <div class="col-lg-10">
-          <div class="col-lg-2 orange_uiux_heading">Wireframes</div>
-          <div class="col-lg-2 black_uiux_heading">User Testing</div>
-          <div class="col-lg-2 orange_uiux_heading">Look & Feel</div>
-          <div class="col-lg-2 orange_uiux_heading">Final Design</div>
-          <div class="col-lg-3 orange_uiux_heading">Design Systems</div>
+      <div class="row video_row_two">
+        <div class="col-md-4">
+          <div class="row">
+            <div class="col-md-12">
+              <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ZnCbTp2tDlI"title="YaMarkets Unveils New Dubai Office - Taking Financial Success to the Next Level" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>
+            </div>
+          </div>
+          <div class="row video_row_two">
+            <div class="col-md-12">
+              <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ZnCbTp2tDlI"title="YaMarkets Unveils New Dubai Office - Taking Financial Success to the Next Level" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>
+            </div>
+          </div>
         </div>
-      </div>
-      <br />
-      <div class="row ui_ux_position">
-        <div class="col-lg-2 text_uiux_heading">Development</div>
-        <div class="col-lg-10">
-          <div class="col-lg-2 blue_uiux_heading">Development</div>
-          <div class="col-lg-2 blue_uiux_heading">Launch</div>
-          <div class="col-lg-2 blue_uiux_heading">Testing</div>
+        <div class="col-md-8">
+          <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ZnCbTp2tDlI"
+          title="YaMarkets Unveils New Dubai Office - Taking Financial Success to the Next Level" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>
         </div>
       </div>
     </div>
@@ -302,26 +276,14 @@
           <h2 class="accordion-header" id="headingOne">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
               aria-expanded="true" aria-controls="collapseOne">
-              What are the benefits of Solodev CMS?
+              What types of graphic design projects can YaPrime handle?
             </button>
           </h2>
           <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
             data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p>
-                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives
-                the highest levels of site performance, speed and engagement - and contributes more to your bottom line.
-                Our users fell in love with.
-              </p>
-              <p>
-                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
-              </p>
-              <p>
-                Scalability – pay for what you need today and add-on options as you grow.
-              </p>
-              <p>
-                All of the bells and whistles of other enterprise CMS options but without the design limitations - this
-                CMS simply lets you realize your creative visions.
+                YaPrime specialises in a wide range of graphic design projects, including logo design, branding, marketing materials (such as brochures and flyers), web graphics, social media visuals, and more. Our experienced team can cater to diverse design needs.
               </p>
             </div>
           </div>
@@ -330,26 +292,14 @@
           <h2 class="accordion-header" id="headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-              How easy is it to build a website with Solodev CMS?
+              How long does it take to complete a graphic design project with YaPrime?
             </button>
           </h2>
           <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
             data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p>
-                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives
-                the highest levels of site performance, speed and engagement - and contributes more to your bottom line.
-                Our users fell in love with.
-              </p>
-              <p>
-                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
-              </p>
-              <p>
-                Scalability – pay for what you need today and add-on options as you grow.
-              </p>
-              <p>
-                All of the bells and whistles of other enterprise CMS options but without the design limitations - this
-                CMS simply lets you realize your creative visions.
+                The project timeline depends on the complexity and scope of your design needs. We work closely with clients to establish project timelines and ensure timely delivery. Smaller projects might take days, while more comprehensive branding projects could take several weeks.
               </p>
             </div>
           </div>
@@ -358,26 +308,14 @@
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              What is the uptime for Solodev CMS?
+              Can I provide input and feedback during the graphic design process?
             </button>
           </h2>
           <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
             data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p>
-                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives
-                the highest levels of site performance, speed and engagement - and contributes more to your bottom line.
-                Our users fell in love with.
-              </p>
-              <p>
-                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
-              </p>
-              <p>
-                Scalability – pay for what you need today and add-on options as you grow.
-              </p>
-              <p>
-                All of the bells and whistles of other enterprise CMS options but without the design limitations - this
-                CMS simply lets you realize your creative visions.
+                Absolutely! We value your input and collaboration. YaPrime maintains open communication channels throughout the design process. We encourage clients to provide feedback and suggestions to ensure the final design aligns perfectly with your vision and goals. Your satisfaction is our priority.
               </p>
             </div>
           </div>
