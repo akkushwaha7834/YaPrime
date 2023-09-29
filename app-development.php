@@ -7,20 +7,20 @@
           <div class="col-lg-8">
             <div class="prime_vvip_heading">APP development</div>
             <div class="prime_vvip_subheading">
-              Custom built apps that look stunning & function smoothly
+              Build Premium Forex Apps with Our App Development Services
             </div>
             <div class="prime_vvip_info">
-              Building high quality custom apps that hit the mark in every
-              aspect, keeping your users engaged and turning users into paying
-              customers
+              At YaPrime, we specialise in developing top-notch Forex trading apps designed to take your brokerage to new heights. 
             </div>
             <div class="optionbotton_section">
-              <div class="request_a_demo_botton">
+              <a href="contact-us.php">
+                <div class="request_a_demo_botton">
                 Get In Touch
                 <div class="right_arrow">
                   <i class="fa fa-arrow-right" aria-hidden="true"></i>
                 </div>
               </div>
+              </a>
             </div>
           </div>
         </div>
@@ -47,18 +47,18 @@
     <!-- ui ux feature section -->
     <section class="uiuxFeatureSection">
       <div class="container">
-        <div class="uiuxHeading">Our unique values</div>
+        <div class="uiuxHeading">Our Unique Values</div>
         <div class="row">
           <div class="col-lg-4">
             <div class="card card_modification2">
               <div class="takecontrol_section">
                 <img src="./images/service1.png" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Value 1</span
+                  >Client-Centric Approach</span
                 >
               </div>
               <div class="take_control_discription">
-                Lorem ipsum dolor sit amet consectetur. Et laoreet tristique faucibus sit quis sit commodo senectus laoreet.
+                We put your vision first, aligning our app solutions with your brokerage's unique goals and your client's specific requirements.
               </div>
             </div>
           </div>
@@ -67,11 +67,11 @@
               <div class="takecontrol_section">
                 <img src="./images/service1.png" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Value 2</span
+                  >Expertise in Forex</span
                 >
               </div>
               <div class="take_control_discription">
-                Lorem ipsum dolor sit amet consectetur. Et laoreet tristique faucibus sit quis sit commodo senectus laoreet.
+                Our team's deep knowledge of the Forex industry ensures that our apps are both technically robust and tailored to your market's needs.
               </div>
             </div>
           </div>
@@ -80,27 +80,26 @@
               <div class="takecontrol_section">
                 <img src="./images/service1.png" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Value 3</span
+                  >Innovation-Driven</span
                 >
               </div>
               <div class="take_control_discription">
-                Lorem ipsum dolor sit amet consectetur. Et laoreet tristique faucibus sit quis sit commodo senectus laoreet.
+                We deploy updated technology, continuously exploring new ways to improve user experiences and create innovative features
               </div>
             </div>
           </div>
         </div>
         <br />
-        <div class="uiuxHeading">App development</div>
+        <div class="uiuxHeading">The Apps We Build</div>
         <div class="row">
-         
           <div class="col-lg-6">
             <div class="card card_modification2">
               <div class="takecontrol_section">
                 <img src="./images/service1.png" alt="service1 image" />
-                <span class="take_control_heading">IOS app</span>
+                <span class="take_control_heading">Trading Apps</span>
               </div>
               <div class="take_control_discription">
-                CRM is an acronym that stands for customer relationship management. Customer relationship management is any tool, strategy, or process that helps businesses better organize and access customer data.
+                We create trading platforms and mobile apps that offer real-time trading, analysis, and portfolio management tools for traders on the go.
               </div>
             </div>
           </div>
@@ -108,10 +107,10 @@
             <div class="card card_modification2">
               <div class="takecontrol_section">
                 <img src="./images/service1.png" alt="service1 image" />
-                <span class="take_control_heading">Hybrid app</span>
+                <span class="take_control_heading">Client Portal Apps</span>
               </div>
               <div class="take_control_discription">
-                A web portal is a specially designed website that brings information from diverse sources, like emails, online forums and search engines, together in a uniform way.
+                Our client portal apps allow brokerage clients to easily access their accounts, perform transactions, and view account information.
               </div>
             </div>
           </div>
@@ -123,11 +122,11 @@
               <div class="takecontrol_section">
                 <img src="./images/service1.png" alt="service1 image" />
                 <span class="take_control_heading"
-                  >Native app (Android & IOS)</span
+                  >Risk Management Apps</span
                 >
               </div>
               <div class="take_control_discription">
-                Enterprise resource planning (ERP) is a software system that helps you run your entire business, supporting automation and processes in finance, human resources, manufacturing, supply chain, services, and more.
+                We provide apps designed to help brokerages manage risk, monitor exposure, and make informed decisions to protect their assets.
               </div>
             </div>
           </div>
@@ -135,10 +134,10 @@
             <div class="card card_modification2">
               <div class="takecontrol_section">
                 <img src="./images/service1.png" alt="service1 image" />
-                <span class="take_control_heading">Android app</span>
+                <span class="take_control_heading">Analytics Apps</span>
               </div>
               <div class="take_control_discription">
-                A web application is application software that is accessed using a web browser. Web applications are delivered on the World Wide Web to users with an active network connection.
+                These apps offer in-depth market analysis, data visualisation, and reporting tools to assist brokerages in making data-driven decisions.
               </div>
             </div>
           </div>
@@ -273,22 +272,13 @@
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingOne">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              What are the benefits of Solodev CMS?
+              What platforms do you develop apps for?
             </button>
           </h2>
           <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p>
-                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives the highest levels of site performance, speed and engagement - and contributes more to your bottom line. Our users fell in love with.
-              </p>
-              <p>
-                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
-              </p>
-              <p>
-                Scalability – pay for what you need today and add-on options as you grow.
-              </p>
-              <p>
-                All of the bells and whistles of other enterprise CMS options but without the design limitations - this CMS simply lets you realize your creative visions.
+                We specialise in developing apps for both iOS and Android platforms. Whether you need a mobile app for one or both operating systems, we have the expertise to create solutions that cater to your specific audience.
               </p>
             </div>
           </div>
@@ -296,22 +286,13 @@
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-              How easy is it to build a website with Solodev CMS?
+              How long does the app development process take?
             </button>
           </h2>
           <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p>
-                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives the highest levels of site performance, speed and engagement - and contributes more to your bottom line. Our users fell in love with.
-              </p>
-              <p>
-                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
-              </p>
-              <p>
-                Scalability – pay for what you need today and add-on options as you grow.
-              </p>
-              <p>
-                All of the bells and whistles of other enterprise CMS options but without the design limitations - this CMS simply lets you realize your creative visions.
+                The timeline for app development can vary depending on the complexity of your project. Generally, it includes planning, design, development, testing, and deployment. We work closely with our clients to set realistic timelines and ensure timely project completion.
               </p>
             </div>
           </div>
@@ -319,22 +300,13 @@
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              What is the uptime for Solodev CMS?
+              Do you provide ongoing support and updates for the apps you develop?
             </button>
           </h2>
           <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p>
-                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives the highest levels of site performance, speed and engagement - and contributes more to your bottom line. Our users fell in love with.
-              </p>
-              <p>
-                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
-              </p>
-              <p>
-                Scalability – pay for what you need today and add-on options as you grow.
-              </p>
-              <p>
-                All of the bells and whistles of other enterprise CMS options but without the design limitations - this CMS simply lets you realize your creative visions.
+                Yes, We offer ongoing support and maintenance services to keep your apps running smoothly. This includes updates to accommodate changes in operating systems, security patches, and enhancements to keep your app competitive and secure. Our team is here to assist you every step of the way.
               </p>
             </div>
           </div>
