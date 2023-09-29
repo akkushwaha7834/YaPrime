@@ -278,7 +278,7 @@
   <section class="accordion-section prime_accordion_buttons clearfix mt-5" aria-label="Question Accordions">
     <div class="container">
       <center>
-        <div class="yellow_text">Frequently Asked Questions</div>
+        <div class="yellow_text">FAQS</div>
       </center>
       <center>
         <h2 class="h2__heading">Frequently Asked Questions</h2>
