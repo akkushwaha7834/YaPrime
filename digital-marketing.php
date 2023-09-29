@@ -19,10 +19,11 @@
             Digital Marketing
           </h4>
           <h1 class="dm_h1">
-            Dominate all of your competition by<br>sitting at the top of google?
+            Out Rank the Competition<br>With Our Digital Marketing Services
           </h1>
           <p class="dm_p">
-            YaPrime has a flexible CRM system developed exclusively for Forex Brokerages and White labels who are <br>dedicated to offering a Higher level of Customer and Partner Experience.
+            Improve online visibility, engage your audience, and turn leads into loyal customers<br>with YaPrime's premium digital marketing solutions
+
           </p>
           <div class="cta_unique">
             <a class="dm_anchor unique_anchor" href="#">Get in Touch </a>
@@ -52,8 +53,8 @@
         <div class="dm_image_box">
           <img src="images/bitcoin.png" class="dm_box_image">
           <div class="dm_box_content">
-            <h4>Watch & analyze charts in real-time</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+            <h4>Expand Your Reach</h4>
+            <p>Digital marketing allows you to connect with a global audience, breaking geographical barriers and reaching potential customers wherever they are.</p>
           </div>
         </div>
       </div>
@@ -61,8 +62,8 @@
         <div class="dm_image_box_one">
           <img src="images/bitcoin.png" class="dm_box_image">
           <div class="dm_box_content">
-            <h4>Watch & analyze charts in real-time</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+            <h4>Data-Driven Insights</h4>
+            <p>Gain valuable insights into consumer behaviour through data analytics, enabling you to refine your strategies and target your audience more effectively.</p>
           </div>
         </div>
       </div>
@@ -70,8 +71,8 @@
         <div class="dm_image_box">
           <img src="images/bitcoin.png" class="dm_box_image">
           <div class="dm_box_content">
-            <h4>Watch & analyze charts in real-time</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+            <h4>Cost-Effective Marketing</h4>
+            <p>Digital marketing often provides a more cost-effective alternative to traditional advertising, ensuring you get the most out of your marketing budget.</p>
           </div>
         </div>
       </div>
@@ -98,7 +99,7 @@
           <img src="images/facebook.png" class="image_box_dm_images">
           <div class="image_box_dm_content">
             <h4>Facebook</h4>
-            <p>Lorem ipsum dolor sit amet consectetur. Et laoreet tristique.</p>
+            <p>We create strategic content and foster meaningful interactions with your audience. We leverage Facebook's large user base for brand visibility and engagement.</p>
           </div>
         </div>
       </div>
@@ -106,8 +107,8 @@
         <div class="image_box_dm">
           <img src="images/facebook.png" class="image_box_dm_images">
           <div class="image_box_dm_content">
-            <h4>Facebook</h4>
-            <p>Lorem ipsum dolor sit amet consectetur. Et laoreet tristique.</p>
+            <h4>Instagram</h4>
+            <p>We create visually appealing content that resonates with your target audience. We improve your brand's image and reach by using Instagram's visual storytelling capabilities.</p>
           </div>
         </div>
       </div>
@@ -115,8 +116,8 @@
         <div class="image_box_dm">
           <img src="images/facebook.png" class="image_box_dm_images">
           <div class="image_box_dm_content">
-            <h4>Facebook</h4>
-            <p>Lorem ipsum dolor sit amet consectetur. Et laoreet tristique.</p>
+            <h4>Twitter</h4>
+            <p>YaPrime engages in real-time conversations and leverages trending topics to boost your brand's presence on Twitter. We ensure that your messages reach a wider audience.</p>
           </div>
         </div>
       </div>
@@ -124,8 +125,8 @@
         <div class="image_box_dm">
           <img src="images/facebook.png" class="image_box_dm_images">
           <div class="image_box_dm_content">
-            <h4>Facebook</h4>
-            <p>Lorem ipsum dolor sit amet consectetur. Et laoreet tristique.</p>
+            <h4>LinkedIn</h4>
+            <p>We create professional content to establish your brand as an industry authority. Our focus on LinkedIn helps you connect with B2B clients and expand your network.</p>
           </div>
         </div>
       </div>
@@ -139,21 +140,21 @@
       </div>
     </div>
     <div class="row dm_row_three">
-      <div class="col-md-8">
+      <div class="col-md-6">
         <div class="seo_image_box">
           <img src="images/asterisk-1.png" class="seo_image_sec">
           <div class="seo_content">
-            <h4>Get real-time stats on your SEO campaign</h4>
-            <p>We’ve opened up our system to give you full access to the facts and figures. Log in and see how your campaign is tracking in real-time, with just a few clicks.</p>
+            <h4>Strategic Keyword Research</h4>
+            <p>We identify high-impact keywords to boost your Forex brokerage's search engine rankings.</p>
           </div>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-6">
         <div class="seo_image_box">
           <img src="images/asterisk-1.png" class="seo_image_sec">
           <div class="seo_content">
-            <h4>Website ranking</h4>
-            <p>View exactly how your campaign is tracking</p>
+            <h4>100% On-Page Optimization</h4>
+            <p>Our team optimises meta tags, headings, and content to align with identified keywords, enhancing your website's visibility.</p>
           </div>
         </div>
       </div>
@@ -163,8 +164,8 @@
         <div class="seo_image_box">
           <img src="images/asterisk-1.png" class="seo_image_sec">
           <div class="seo_content">
-            <h4>Website ranking</h4>
-            <p>View exactly how your campaign is tracking</p>
+            <h4>Engaging Content Strategy</h4>
+            <p>We develop a content strategy that focuses on creating high-quality, informative, and engaging content to satisfy both search engine algorithms and your target audience.</p>
           </div>
         </div>
       </div>
@@ -172,8 +173,8 @@
         <div class="seo_image_box">
           <img src="images/asterisk-1.png" class="seo_image_sec">
           <div class="seo_content">
-            <h4>Website ranking</h4>
-            <p>View exactly how your campaign is tracking</p>
+            <h4>Ethical Link Building</h4>
+            <p>YaPrime employs ethical link-building strategies, acquiring high-quality backlinks from reputable sources to enhance your website's authority and credibility.</p>
           </div>
         </div>
       </div>
@@ -181,8 +182,8 @@
         <div class="seo_image_box">
           <img src="images/asterisk-1.png" class="seo_image_sec">
           <div class="seo_content">
-            <h4>Website ranking</h4>
-            <p>View exactly how your campaign is tracking</p>
+            <h4>Continuous Performance Monitoring</h4>
+            <p>We monitor your website's performance using advanced analytics tools. This allows us to make data-driven decisions and refine our SEO strategy.</p>
           </div>
         </div>
       </div>
@@ -249,22 +250,13 @@
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingOne">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              What are the benefits of Solodev CMS?
+              What Is SEO, and Why Is It Essential for Forex Brokerages?
             </button>
           </h2>
           <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p>
-                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives the highest levels of site performance, speed and engagement - and contributes more to your bottom line. Our users fell in love with.
-              </p>
-              <p>
-                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
-              </p>
-              <p>
-                Scalability – pay for what you need today and add-on options as you grow.
-              </p>
-              <p>
-                All of the bells and whistles of other enterprise CMS options but without the design limitations - this CMS simply lets you realize your creative visions.
+                SEO stands for Search Engine Optimization, a set of techniques used to improve a website's visibility in search engine results. For forex brokerages, SEO is crucial as it helps attract organic traffic, increase brand visibility, and ultimately generate more leads and clients.
               </p>
             </div>
           </div>
@@ -272,22 +264,13 @@
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-              How easy is it to build a website with Solodev CMS?
+              How Long Does It Take to See SEO Results for My Forex Brokerage?
             </button>
           </h2>
           <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p>
-                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives the highest levels of site performance, speed and engagement - and contributes more to your bottom line. Our users fell in love with.
-              </p>
-              <p>
-                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
-              </p>
-              <p>
-                Scalability – pay for what you need today and add-on options as you grow.
-              </p>
-              <p>
-                All of the bells and whistles of other enterprise CMS options but without the design limitations - this CMS simply lets you realize your creative visions.
+                SEO is a long-term strategy, and the time it takes to see significant results can vary. Generally, you may start noticing your website's ranking and traffic improvements within 3-6 months. However, achieving top positions for highly competitive keywords may take longer.
               </p>
             </div>
           </div>
@@ -295,22 +278,13 @@
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              What is the uptime for Solodev CMS?
+              What Makes YaPrime's SEO Services Unique for Forex Brokerages?
             </button>
           </h2>
           <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p>
-                With Solodev CMS, you and your visitors will benefit from a finely-tuned technology stack that drives the highest levels of site performance, speed and engagement - and contributes more to your bottom line. Our users fell in love with.
-              </p>
-              <p>
-                Light speed deployment on the most secure and stable cloud infrastructure available on the market.
-              </p>
-              <p>
-                Scalability – pay for what you need today and add-on options as you grow.
-              </p>
-              <p>
-                All of the bells and whistles of other enterprise CMS options but without the design limitations - this CMS simply lets you realize your creative visions.
+                YaPrime specialises in providing SEO services tailored to the unique needs of forex brokerages. We combine industry expertise, ethical practices, and data-driven strategies to deliver measurable results. Our team's deep understanding of the forex market ensures that our SEO efforts align with your business objectives and target audience.
               </p>
             </div>
           </div>
