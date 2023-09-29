@@ -11,10 +11,10 @@
             CRM & API
           </h4>
           <h1 class="crm_h1">
-            Empower your business with<br>CRM and API synergy!
+            CRM & API Integration Solutions
           </h1>
           <p class="crm_p">
-            YaPrime has a flexible CRM system developed exclusively for Forex Brokerages and White labels who are <br>dedicated to offering a Higher level of Customer and Partner Experience.
+            Contact us to explore how our CRM and API integration can empower your business and provide your clients and partners with a unique trading experience.
           </p>
           <div class="cta_unique">
             <a class="unique_anchor_one" href="#">Request a Demo </a>
@@ -39,28 +39,28 @@
       <div class="row">
         <div class="col-md-6">
           <h4 class="crm_h4">
-            What
+            About CRM
           </h4>
           <h1 class="crm_h1">
             What is a CRM?
           </h1>
           <p class="crm_p">
-            Experience in forex industry can build real forex broker, we are <br>named for expertise, compare to know
+            CRM stands for Customer Relationship Management. It's a sophisticated system designed to help businesses like yours build and nurture strong client relationships while effectively managing partner networks. What are the benefits of using CRM, you ask?
           </p>
           <div class="image_box_crm">
             <img src="images/imgg2.png" class="crm_image_box_one">
-            <h4 class="crm_image_box_two">Availability of A – Book and B-book executions</h4>
-            <p>Decide how to execute your own orders. Take the best, completely automated and productive results. Link up and integrate with FX-EDGE liquidity free of charge.</p>
+            <h4 class="crm_image_box_two">Helps to Streamline Client Data</h4>
+            <p>CRM enables you to collect, organise, and access crucial client data in one centralised platform. This ensures that no essential information slips through the cracks.</p>
           </div>
           <div class="image_box_crm">
             <img src="images/imgg1.png" class="crm_image_box_one">
-            <h4 class="crm_image_box_two">A wide range of available tools</h4>
-            <p>Using a comprehensive management program, keep the profits under track and provide several deposit options and monitor withdrawals with our Client Office.</p>
+            <h4 class="crm_image_box_two">Optimises Communication</h4>
+            <p>Stay in constant contact with your clients. CRM tools facilitate efficient communication through emails, notifications, and other channels.</p>
           </div>
           <div class="image_box_crm">
             <img src="images/imgg3.png" class="crm_image_box_one">
-            <h4 class="crm_image_box_two">Low cost, price transparency</h4>
-            <p>We charge just a simple flat fee – depending on turnover or quantity there are no costs. By using our all in one approach that is Technology – Hosting – Management, reduce or reduce IT costs significantly.</p>
+            <h4 class="crm_image_box_two">Improves Client Experience</h4>
+            <p>By understanding your clients' trading behaviours, you can design your services to meet their specific needs. Personalisation leads to higher client satisfaction.</p>
           </div>
           <div class="row liquidity_row_two">
               <div class="col-md-6">
@@ -86,10 +86,10 @@
             Benefits
           </h4>
           <h2 class="crm_h1">
-            Discover our MT4 white label<br> solution’s key benefits
+            Explore Our Powerful<br>CRM and API Solutions
           </h2>
           <p class="crm_p">
-            Experience in forex industry can build real forex broker, we are named for expertise, compare to know
+            Our CRM and API solutions offer a set of unique features designed specifically for forex brokerages.
           </p>
         </div>
       </div>
@@ -102,10 +102,10 @@
             Benefits
           </h4>
           <h1 class="crm_h1">
-            Discover our MT4 white<br>label solution’s key<br> benefits
+            Real-time Data Access
           </h1>
           <p class="crm_p">
-            Experience in forex industry can build real forex broker, we are named for expertise, compare to know
+            Access up-to-the-minute data on client activity, trading trends, and partner performance. Stay informed and make data-driven decisions to optimise your brokerage's operations and profitability.
           </p>
         </div>
       </div>
@@ -113,13 +113,13 @@
       <div class="row crm_row_three">
         <div class="col-md-6">
           <img src="images/image1.png" width="100%">
-          <h4 class="crm_image_text">Completely branded and optimized</h4>
-          <p class="crm_image_para">Develop a strong label by offering a personalized experience to your customers. To get your unique solution, take advantage of multiple customization options in our WL manager. Configure all settings on your own without any trouble.</p>
+          <h4 class="crm_image_text">Efficient Partner Collaboration</h4>
+          <p class="crm_image_para">Manage your introducers, affiliates, and IBs seamlessly. Our solutions facilitate efficient partner onboarding, tracking, and commission calculations. This ensures transparency and trust within your partner network.</p>
         </div>
         <div class="col-md-6">
           <img src="images/image1.png" width="100%">
-          <h4 class="crm_image_text">Low cost, price transparency</h4>
-          <p class="crm_image_para">We charge just a simple flat fee – depending on turnover or quantity there are no costs. By using our all in one approach that is Technology – Hosting – Management, reduce or reduce IT costs significantly.</p>
+          <h4 class="crm_image_text">Integrated Trading with API</h4>
+          <p class="crm_image_para">Our API solutions provide secure access to trading platforms, enabling real-time order execution and portfolio management. Enjoy seamless integration with major trading platforms for a smoother trading experience.</p>
         </div>
       </div>
     </div>
