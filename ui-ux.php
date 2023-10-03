@@ -242,32 +242,38 @@
         <br />
         <br />
         <div class="row ui_ux_position">
-          <div class="col-lg-1 text_uiux_heading">Strategy</div>
+          <div class="col-lg-2 text_uiux_heading">Strategy</div>
           <div class="col-lg-10">
-            <div class="col-lg-2 voilet_heading">Discovery</div>
+            <div class="row">
+              <div class="col-lg-2 voilet_heading">Discovery</div>
             <div class="col-lg-2 voilet_heading">Definition</div>
             <div class="col-lg-2 voilet_heading">UX Research</div>
+            </div>
           </div>
         </div>
         <br />
 
         <div class="row ui_ux_position">
-          <div class="col-lg-1 text_uiux_heading">Design</div>
+          <div class="col-lg-2 text_uiux_heading">Design</div>
           <div class="col-lg-10">
-            <div class="col-lg-2 orange_uiux_heading">Wireframes</div>
+            <div class="row">
+              <div class="col-lg-2 orange_uiux_heading">Wireframes</div>
             <div class="col-lg-2 black_uiux_heading">User Testing</div>
             <div class="col-lg-2 orange_uiux_heading">Look & Feel</div>
             <div class="col-lg-2 orange_uiux_heading">Final Design</div>
-            <div class="col-lg-2 orange_uiux_heading">Design Systems</div>
+            <div class="col-lg-3 orange_uiux_heading">Design Systems</div>
+            </div>
           </div>
         </div>
         <br />
         <div class="row ui_ux_position">
           <div class="col-lg-2 text_uiux_heading">Development</div>
           <div class="col-lg-10">
-            <div class="col-lg-2 blue_uiux_heading">Development</div>
+            <div class="row">
+              <div class="col-lg-2 blue_uiux_heading">Development</div>
             <div class="col-lg-2 blue_uiux_heading">Launch</div>
             <div class="col-lg-2 blue_uiux_heading">Testing</div>
+            </div>
           </div>
         </div>
       </div>

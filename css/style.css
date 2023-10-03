@@ -4416,7 +4416,7 @@ text-align: center;
 /* ui-ux design page design */
 .Hero_banner_vvip_section_uiux {
   display: flex;
-  padding: 128px 120px;
+  padding: 80px 120px;
   flex-direction: column;
   align-items: center;
   gap: 64px;
@@ -5179,7 +5179,7 @@ padding: 0px 20px;
 }
 .Hero_banner_vvip_section_uiux {
   
-  padding: 128px 20px;
+  padding: 80px 0px;
 }
 .free-service-hero{
   padding: 120px 20px;
