@@ -4549,27 +4549,16 @@ text-align: center;
   line-height: 30px; /* 187.5% */
 }
 .voilet_heading {
-  display: inline-flex;
-  height: 44px;
-  padding: 10px 32px 10px 16px;
-  align-items: center;
-  gap: 10px;
-  flex-shrink: 0;
+  padding: 10px 16px;
   border-radius: 8px;
   border: 1px solid #fff;
-  background: linear-gradient(
-      0deg,
-      rgba(169, 96, 238, 0.04) 0%,
-      rgba(169, 96, 238, 0.04) 100%
-    ),
-    #fff;
-  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
-    0px 4px 4px 0px rgba(0, 0, 0, 0.02);
+  background: linear-gradient(0deg,rgba(169, 96, 238, 0.04) 0%,rgba(169, 96, 238, 0.04) 100%),#fff;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),0px 4px 4px 0px rgba(0, 0, 0, 0.02);
   color: #a960ee;
   text-align: center;
   font-size: 16px;
   font-weight: 600;
-  line-height: 30px; /* 187.5% */
+  margin-right: 20px;
 }
 .ui_ux_position {
   justify-content: space-between;
@@ -4577,77 +4566,51 @@ text-align: center;
 }
 
 .orange_uiux_heading {
-  display: inline-flex;
-  height: 44px;
-  padding: 10px 32px 10px 16px;
-  align-items: center;
-  gap: 10px;
-  flex-shrink: 0;
+  padding: 10px 16px;
   border-radius: 8px;
   border: 1px solid #fff;
-  background: linear-gradient(
-      0deg,
-      rgba(255, 115, 48, 0.04) 0%,
-      rgba(255, 115, 48, 0.04) 100%
-    ),
-    #fff;
-  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
-    0px 4px 4px 0px rgba(0, 0, 0, 0.02);
+  background: linear-gradient(0deg,rgba(255, 115, 48, 0.04) 0%,rgba(255, 115, 48, 0.04) 100%),#fff;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),0px 4px 4px 0px rgba(0, 0, 0, 0.02);
   color: #ff7330;
   text-align: center;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
   line-height: 30px; /* 187.5% */
+  margin-right: 10px;
 }
 .black_uiux_heading {
-  display: inline-flex;
-  height: 44px;
-  padding: 10px 32px 10px 16px;
-  align-items: center;
-  gap: 10px;
-  flex-shrink: 0;
+  padding: 10px 16px;
   border-radius: 8px;
   border: 1px solid #ebebeb;
   background: #fff;
-  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
-    0px 4px 4px 0px rgba(0, 0, 0, 0.02);
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),0px 4px 4px 0px rgba(0, 0, 0, 0.02);
   color: rgba(34, 34, 34, 0.8);
   text-align: center;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
   line-height: 30px; /* 187.5% */
+  margin-right: 10px;
 }
 .blue_uiux_heading {
-  display: inline-flex;
-  height: 44px;
-  padding: 10px 20px;
-  align-items: center;
-  gap: 10px;
-  flex-shrink: 0;
+  padding: 10px 16px;
   border-radius: 8px;
   border: 1px solid #fff;
-  background: linear-gradient(
-      0deg,
-      rgba(21, 112, 239, 0.04) 0%,
-      rgba(21, 112, 239, 0.04) 100%
-    ),
-    #fff;
-  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),
-    0px 4px 4px 0px rgba(0, 0, 0, 0.02);
+  background: linear-gradient(0deg,rgba(21, 112, 239, 0.04) 0%,rgba(21, 112, 239, 0.04) 100%),#fff;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.01),0px 4px 4px 0px rgba(0, 0, 0, 0.02);
   color: #1570ef;
   text-align: center;
-
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
   line-height: 30px; /* 187.5% */
+  margin-right: 20px;
 }
 /* web development */
 .Hero_banner_vvip_section_webdev {
   display: flex;
-  padding: 128px 120px;
+  padding: 80px 120px;
   flex-direction: column;
   align-items: center;
   gap: 64px;
@@ -5199,7 +5162,7 @@ padding: 0px 20px;
   margin-bottom: 6%;
 }
 .uiuxFeatureSection {
-  padding: 128px 20px;
+  padding: 80px 20px;
 }
 .card_modification2{
   margin-bottom: 4%;
@@ -5209,7 +5172,7 @@ padding: 0px 20px;
 }
 .Hero_banner_vvip_section_webdev {
  
-  padding: 128px 20px;
+  padding: 80px 20px 0;
 }
 .uiux_whatToSection {
   padding: 128px 20px;
