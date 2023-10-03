@@ -8,7 +8,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<h1 class="inner_heading">Careers Detail </h1>
-					<p class="inner_para">Lorem ipsum dolor sit amet consectetur. Donec est convallis.</p>
+					<p class="inner_para">Do you have what it takes to be the best?</p>
 				</div>
 			</div>
 		</div>
