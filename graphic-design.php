@@ -3,7 +3,7 @@
 
   <!-- graphic design curosal section -->
 
-  <section>
+  <section class="graphic_design_banner_section">
     <div class="container">
       <div class="row postioning_graphicdesign_carousal">
         <div class="col-lg-6 prime_vip_section_carousal">
@@ -21,7 +21,7 @@
 
           <div class="demo_contact">
             <div class="request_demo">
-              <a class="nav-link coloring_header" href="contact-us.html"> Get In Touch</a>
+              <a class="nav-link coloring_header" href="contact-us.php"> Get In Touch</a>
             </div>
           </div>
         </div>
@@ -57,10 +57,6 @@
         </div>
       </div>
     </div>
-    <br />
-    <br />
-    <br />
-    <br />
 
   </section>
 
@@ -103,8 +99,7 @@
           </div>
         </div>
       </div>
-      <br />
-      <div class="row">
+      <div class="row video_row_two">
         <div class="col-lg-4">
           <div class="card card_modification2">
             <div class="takecontrol_section">

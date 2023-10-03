@@ -131,4 +131,10 @@
 		text-align: center;
 		margin-bottom: 20px;
 	}
+	.graphic_design_banner_section{
+  		padding: 80px 0 0;
+	}	
+	.footer-logo{
+		width: 50%;
+	}
 }
