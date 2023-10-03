@@ -22,10 +22,6 @@
         <div class="row uiuxmain_banner">
           <img src="images/webdevelopmentHeroBanner.png" alt=""  width="100%"/>
         </div>
-        <br />
-        <br />
-        <br />
-        <br />
         <div class="row uiuxmain_banner_technology">
           <div class="col-lg-12">
             <center>
