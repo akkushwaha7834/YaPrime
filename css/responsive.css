@@ -137,4 +137,39 @@
 	.footer-logo{
 		width: 50%;
 	}
+	.dm_tilt_sec{
+		background-image: -webkit-linear-gradient(115deg, #000 96%, #fff 50%);
+	}
+	.dm_tilt_sec .dm_row_two .col-md-3{
+		margin-top: 20px;
+	}
+	.dm_tilt_sec .dm_row_three .col-md-6{
+		margin-top: 20px;
+	}
+	.dm_tilt_sec .dm_row_two .col-md-4{
+		margin-top: 20px;
+	}
+	.dm_tilt_sec .dm_row_two{
+		margin-top: 0;
+	}
+	.featured-card{
+		margin-bottom: 10%;
+	}
+	.benfits_free_img2 {
+	    margin-top: 20px;
+	}
+	.benefits_free_cards{
+		margin-top: 20px;
+	}
+	.prime_ad_banner{
+		padding: 80px 0px;
+	}
+	.mt4_h1, .mt4_p{
+		padding: 0 20px;
+	}
+}
+@media (min-width:768px) and (max-width: 1024px){
+	.dm_tilt_sec{
+		background-image: -webkit-linear-gradient(97deg, #000 94%, #fff 50%);
+	}
 }
