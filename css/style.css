@@ -2274,19 +2274,7 @@ margin: 80px 0;
   line-height: normal;
 }
 
-.image_section {
-  display: flex;
 
-  justify-content: center;
-  align-items: center;
-  flex-shrink: 0;
-}
-
-.inner_image_section {
-  width: 535.359px;
-  height: 400px;
-  flex-shrink: 0;
-}
 
 .image_1 {
   width: 375.53px;
@@ -3349,20 +3337,9 @@ color: rgba(255, 255, 255, 0.52);
 }
 
 .image_section {
-  display: flex;
-  width: 596px;
-  height: 440px;
-  padding: 20px 30.321px 20px 30.32px;
-  justify-content: center;
-  align-items: center;
-  flex-shrink: 0;
-}
 
-.inner_image_section {
-  width: 535.359px;
-  height: 400px;
-  flex-shrink: 0;
-}
+  padding: 20px 30px;}
+
 
 .postioning {
   position: relative;
@@ -3536,23 +3513,9 @@ color: rgba(255, 255, 255, 0.52);
 }
 
 .card1 {
-  display: flex;
-  border-radius: 16px;
-  background-color: #fac211 !important;
-  padding: 32px 48px;
-  align-items: center;
-  gap: 24px;
-  display: flex;
-  border: none !important;
+  padding: 40px 10px;
 }
 
-.mission_section {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 32px;
-  flex-shrink: 0;
-}
 .hero_banner_section{
 
   background-color: #101010;
@@ -3560,45 +3523,24 @@ color: rgba(255, 255, 255, 0.52);
   padding: 80px 0;
 
 } 
-.inner_mission_section {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 16px;
-  align-self: stretch;
-}
+
 .learn_more_section {
-  display: flex;
-  height: 48px;
   padding: 8px 24px;
-  align-items: center;
-  gap: 8px;
   border-radius: 8px;
   background: #fff;
   color: #222;
-  leading-trim: both;
-  text-edge: cap;
-
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
 }
-
-.inner_mission_section {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 16px;
-  align-self: stretch;
-  width: 48%;
+.para {
+    margin-bottom: 20px;
 }
 
 .YaPrime {
-  display: flex;
   padding: 6px 12px;
-  align-items: center;
-  border-radius: 9999px;
+  border-radius: 50px;
   border: 1px solid rgba(255, 255, 255, 0.32);
   background: rgba(255, 255, 255, 0.48);
 }
@@ -3606,7 +3548,7 @@ color: rgba(255, 255, 255, 0.52);
 .YaPrimeMission {
   align-self: stretch;
   color: #222;
-
+  margin-top: 20px;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -3614,8 +3556,7 @@ color: rgba(255, 255, 255, 0.52);
 }
 .sizing-section {
   background: #fac211;
-  border-top-left-radius: 16px;
-  border-bottom-left-radius: 16px;
+  border-radius: 16px;
 }
 .sizing-section_new {
   background: #fac211;
@@ -3947,20 +3888,11 @@ text-align: center;
 
 /* hero banner prime vvip section */
 .Hero_banner_vvip_section {
-  display: flex;
-  padding: 128px 120px;
-  flex-direction: column;
-  align-items: center;
-  gap: 64px;
-  background-image: url("../images/Hero.png");
+  padding: 80px 0;
+  background: #F9FAFB;
   background-repeat: no-repeat;
 }
-.admin_consultation_section {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 32px;
-}
+
 .prime_vvip_heading {
   color: #fac211;
 
@@ -4035,7 +3967,7 @@ text-align: center;
 }
 .hero_banner_vvip_section2 {
   display: flex;
-  padding: 128px 120px;
+  padding: 80px 0;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
@@ -4108,7 +4040,7 @@ text-align: center;
 
 .Benefit_vvip_section {
   display: flex;
-  padding: 200px 120px 128px 120px;
+  padding: 80px 20px;
   align-items: flex-start;
   gap: 64px;
   background: #f9fafb;
@@ -4252,7 +4184,7 @@ text-align: center;
 
 .prime_special_section {
   display: flex;
-  padding: 100px 120px 128px 120px;
+  padding: 80px 20px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -4269,7 +4201,7 @@ text-align: center;
 /* prime special feature section  */
 .prime_special_feature_section {
   display: flex;
-  padding: 256px 120px 0px 120px;
+  padding: 80px 0;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -4646,7 +4578,7 @@ a.nav-link.coloring_header {
   width: auto;
 }
 .table-responsive{
-  width: 100% !important;
+  display: table;
 }
 .table_width{
   width: 100% !important;
@@ -5197,7 +5129,7 @@ padding: 0px 20px;
 }
 }
 .prime_special-section{
-  padding: 80px 0;
+  padding: 80px 0 0;
 }
 .prime_accordion_buttons .accordion-button:not(.collapsed){
   background-color:#fac211;

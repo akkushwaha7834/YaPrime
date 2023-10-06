@@ -32,9 +32,7 @@
 
           <div class="col-lg-5 image_section">
             <div class="inner_image_section">
-              <div>
-                <img src="images/primespecialposter.png" alt="frame11" />
-              </div>
+                <img src="images/primespecialposter.png" alt="frame11" width="100%" />
             </div>
           </div>
         </div>
@@ -163,10 +161,7 @@
             <div class="get_started_button">Get Started</div>
           </div>
           <div class="col-lg-5">
-            <img
-              src="images/herobanner_primespecialimg.png"
-              alt="herobanner image"
-            />
+            <img class="prime_special_image" src="images/herobanner_primespecialimg.png" alt="herobanner image" width="100%" />
           </div>
         </div>
       </div>
@@ -377,7 +372,7 @@
       </div>
       <!-- pricing table -->
       <div class="container">
-        <table class="table table-striped">
+        <table class="table table-striped table-responsive">
           <thead>
             <tr>
               <th class="th_css" scope="col">Features</th>

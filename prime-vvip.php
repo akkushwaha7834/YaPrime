@@ -5,7 +5,7 @@
     <section class="Hero_banner_vvip_section">
       <div class="container">
         <div class="row admin_consultation_section">
-          <div class="col-lg-8">
+          <div class="col-lg-12">
             <div class="prime_vvip_heading">Prime VVIP</div>
             <div class="prime_vvip_subheading">
               Take Your Brokerage to Next Level With Our Prime VVIP Package

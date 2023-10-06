@@ -31,14 +31,9 @@
             </div>
           </div>
 
-          <!-- <div class="col-lg-1 group_eclipse">
-            <img src="/images/elcipse.png" alt="circular_image" />
-          </div> -->
           <div class="col-lg-6 image_section">
             <div class="inner_image_section">
-              <div>
-                <img src="images/creditcard.png" alt="frame11" width="90%" />
-              </div>
+                <img src="images/creditcard.png" alt="frame11" width="100%" />
             </div>
           </div>
         </div>
@@ -110,7 +105,7 @@
             <div class="card1">
               <div class="mission_section">
                 <div class="inner_mission_section">
-                  <div class="YaPrime">YaPrime Accounts</div>
+                  <span class="YaPrime">YaPrime Accounts</span>
                   <h2 class="YaPrimeMission">
                     Prime VIP Account Your Gateway to Elite Forex Brokerage
                   </h2>
@@ -118,7 +113,7 @@
                     Access exclusive advantages, superior trading terms, and expert assistance with our Prime VIP account
                   </div>
                 </div>
-                <div class="learn_more_section">Learn More</div>
+                <span class="learn_more_section">Learn More</span>
               </div>
             </div>
           </div>
@@ -256,7 +251,7 @@
           </div>
           <!-- pricing table -->
           <div class="container">
-            <table class="table table-striped">
+            <table class="table table-striped table-responsive">
               <thead>
                 <tr>
                   <th class="th_css" scope="col">Features</th>
