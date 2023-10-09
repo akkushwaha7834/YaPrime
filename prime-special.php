@@ -19,14 +19,10 @@
             </div>
 
             <div class="demo_contact">
-              <div class="request_demo">
+              <a href="request-demo.php" class="request_demo">
                 Request a Demo
-
-                <div class="right_arrow">
-                  <i class="fa fa-arrow-right" aria-hidden="true"></i>
-                </div>
-              </div>
-              <div class="contact_sales_special">Contact Sales</div>
+              </a>
+              <a href="contact-us.php" class="contact_sales_special">Contact Sales</a>
             </div>
           </div>
 
@@ -158,7 +154,7 @@
                 Prime Special is not just another package, it's the ultimate solution for those who want to make a bold entrance in the forex industry. Grow your forex business with Prime Special today!
               </div>
             </div>
-            <div class="get_started_button">Get Started</div>
+            <a href="request-demo.php" class="get_started_button">Get Started</a>
           </div>
           <div class="col-lg-5">
             <img class="prime_special_image" src="images/herobanner_primespecialimg.png" alt="herobanner image" width="100%" />
@@ -182,7 +178,7 @@
               A professional website is a cornerstone of your online presence. We provide you with a fully functional WordPress website designed to attract and engage potential clients.
             </div>
             <br />
-            <div class="get_started_vvip_button">Get Started</div>
+            <a href="request-demo.php" class="get_started_vvip_button">Get Started</a>
           </div>
 
           <div class="col-lg-6">
@@ -214,7 +210,7 @@
               Gain access to the Fix API manager, enabling seamless integration with external systems and liquidity providers. This feature enhances the flexibility and efficiency of your brokerage.
             </div>
             <br />
-            <div class="get_started_vvip_button">Get Started</div>
+            <a href="request-demo.php" class="get_started_vvip_button">Get Started</a>
           </div>
         </div>
       </div>

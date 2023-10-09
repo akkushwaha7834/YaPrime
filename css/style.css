@@ -2237,23 +2237,7 @@ margin: 80px 0;
   gap: 12px;
 }
 
-.request_demo {
-  display: flex;
-  height: 48px;
-  padding: 8px 24px;
-  align-items: center;
-  gap: 8px;
-  border-radius: 8px;
-  background: #fac211;
-  color: #222;
-  leading-trim: both;
-  text-edge: cap;
-  
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 600;
-  line-height: normal;
-}
+
 .request_demo a, .contact_sales a{
   color: #000;
 }
@@ -2395,24 +2379,6 @@ margin: 80px 0;
   font-weight: 400;
   line-height: 24px;
   /* 150% */
-}
-
-.get_started_button {
-  display: flex;
-  height: 48px;
-  padding: 8px 24px;
-  align-items: center;
-  gap: 8px;
-  border-radius: 8px;
-  background: #fac211;
-  color: #222;
-  leading-trim: both;
-  text-edge: cap;
-  
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 600;
-  line-height: normal;
 }
 
 .yellow_heading {
@@ -3303,22 +3269,14 @@ color: rgba(255, 255, 255, 0.52);
   gap: 12px;
 }
 .request_demo {
-  display: flex;
-  height: 48px;
-  padding: 8px 24px;
-  align-items: center;
-  gap: 8px;
+  padding: 10px 20px;
   border-radius: 8px;
   background: #fac211;
   color: #222;
-  leading-trim: both;
-  text-edge: cap;
-
   font-size: 16px;
-  font-style: normal;
   font-weight: 600;
-  line-height: normal;
 }
+.request_demo:hover{color: #000}
 .contact_sales {
   display: flex;
   height: 48px;
@@ -3390,22 +3348,14 @@ color: rgba(255, 255, 255, 0.52);
   line-height: 24px; /* 150% */
 }
 .get_started_button {
-  display: flex;
-  height: 48px;
-  padding: 8px 24px;
-  align-items: center;
-  gap: 8px;
+  padding: 10px 20px;
   border-radius: 8px;
   background: #fac211;
   color: #222;
-  leading-trim: both;
-  text-edge: cap;
-
   font-size: 16px;
-  font-style: normal;
   font-weight: 600;
-  line-height: normal;
 }
+.get_started_button:hover{color: #000}
 .yellow_heading {
   color: #fac211;
 
@@ -4157,22 +4107,14 @@ text-align: center;
   line-height: 24px; /* 150% */
 }
 .contact_sales_special {
-  display: flex;
-  height: 48px;
-  padding: 8px 24px;
-  align-items: center;
-  gap: 8px;
+  padding: 10px 20px;
   border-radius: 8px;
   background: #ebebeb;
   color: #222;
-  leading-trim: both;
-  text-edge: cap;
-
   font-size: 16px;
-  font-style: normal;
   font-weight: 600;
-  line-height: normal;
 }
+.contact_sales_special:hover{color: #000}
 
 .prime_special_section {
   display: flex;
