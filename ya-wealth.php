@@ -23,14 +23,10 @@
             </div>
 
             <div class="demo_contact">
-              <div class="request_demo">
+              <a href="request-demo.php" class="request_demo">
                 Request a Demo
-
-                <div class="right_arrow">
-                  <i class="fa fa-arrow-right" aria-hidden="true"></i>
-                </div>
-              </div>
-              <div class="contact_sales_special">Contact Sales</div>
+              </a>
+              <a href="contact-us.php" class="contact_sales_special">Contact Sales</a>
             </div>
           </div>
 
@@ -185,7 +181,7 @@
             <div class="card1">
               <div class="mission_section">
                 <div class="inner_mission_section">
-                  <div class="YaPrime">About YaPrime</div>
+                  <span class="YaPrime">About YaPrime</span>
                   <div class="YaPrimeMission">
                     Our mission is to look after the financial best interests
                     with automation
@@ -196,7 +192,7 @@
                     lectus.
                   </div>
                 </div>
-                <div class="learn_more_section">Learn More</div>
+                <a href="contact-us.php" class="learn_more_section">Learn More</a>
               </div>
             </div>
           </div>
@@ -265,13 +261,9 @@
             </div>
 
             <div class="demo_contact">
-              <div class="request_demo">
+              <a href="contact-us.php" class="request_demo">
                 Get In Touch
-
-                <div class="right_arrow">
-                  <i class="fa fa-arrow-right" aria-hidden="true"></i>
-                </div>
-              </div>
+              </a>
             </div>
           </div>
 
@@ -306,17 +298,13 @@
                   deposit.
                 </div>
                 <div class="demo_contact_yawealth">
-                    <div class="request_demo">
-                      Get In Touch
-      
-                      <div class="right_arrow">
-                        <i class="fa fa-arrow-right" aria-hidden="true"></i>
-                      </div>
+                    <a href="contact-us.php" class="request_demo">
+                      Get In Touch      
+                      </a>
                     </div>
                   </div>
               </div>
              
-            </div>
             <div class="col-lg-6 card_section_vvip1_package2">
               <div class="card card_modification">
                 <div class="takecontrol_section">

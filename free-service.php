@@ -10,7 +10,7 @@
                     <h1>Designs that leave a lasting
                         impact of your business</h1>
                         <p>It's social media visuals that people stop-by and that's one of the ways to sell your product or service</p>
-                        <a href="#" class="get-started">
+                        <a href="contact-us.php" class="get-started">
                             <div class="button1 btton">
                               Get started
                              
