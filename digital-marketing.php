@@ -26,7 +26,7 @@
 
           </p>
           <div class="cta_unique">
-            <a class="dm_anchor unique_anchor" href="#">Get in Touch </a>
+            <a class="dm_anchor unique_anchor" href="contact-us.php">Get in Touch </a>
           </div>
         </div>
       </div>
@@ -105,7 +105,7 @@
       </div>
       <div class="col-md-3">
         <div class="image_box_dm">
-          <img src="images/facebook.png" class="image_box_dm_images">
+          <img src="images/instagram.png" class="image_box_dm_images">
           <div class="image_box_dm_content">
             <h4>Instagram</h4>
             <p>We create visually appealing content that resonates with your target audience. We improve your brand's image and reach by using Instagram's visual storytelling capabilities.</p>
@@ -114,7 +114,7 @@
       </div>
       <div class="col-md-3">
         <div class="image_box_dm">
-          <img src="images/facebook.png" class="image_box_dm_images">
+          <img src="images/tweet.png" class="image_box_dm_images">
           <div class="image_box_dm_content">
             <h4>Twitter</h4>
             <p>YaPrime engages in real-time conversations and leverages trending topics to boost your brand's presence on Twitter. We ensure that your messages reach a wider audience.</p>
@@ -123,7 +123,7 @@
       </div>
       <div class="col-md-3">
         <div class="image_box_dm">
-          <img src="images/facebook.png" class="image_box_dm_images">
+          <img src="images/linkedin.png" class="image_box_dm_images">
           <div class="image_box_dm_content">
             <h4>LinkedIn</h4>
             <p>We create professional content to establish your brand as an industry authority. Our focus on LinkedIn helps you connect with B2B clients and expand your network.</p>
@@ -196,37 +196,40 @@
     </div>
     <div class="row row-cols-1 row-cols-md-3 g-3 dm_blog_cards">
       <div class="col">
-        <div class="card blog-card ">
+        <a href="blog-details.php">
+          <div class="card blog-card ">
           <img src="images/bestLiquity.png" class="card-img-top" alt="...">
           <div class="card-body blog-content">
             <h3 class="card-title">Who is a liquidity provider? Importance of?</h3>
-            <!-- <p class="card-text blog-des">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
             <br>
-            <a href="#" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
+            <a href="blog-details.php" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
           </div>
         </div>
+        </a>
       </div>
       <div class="col">
-        <div class="card blog-card ">
+        <a href="blog-details.php">
+          <div class="card blog-card ">
           <img src="images/liqity.png" class="card-img-top" alt="...">
           <div class="card-body blog-content">
             <h3 class="card-title">How smart brokers choose their best liquidity providers? </h3>
-            <!-- <p class="card-text blog-des">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
             <br>
-            <a href="#" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
+            <a href="blog-details.php" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
           </div>
         </div>
+        </a>
       </div>
       <div class="col">
-        <div class="card blog-card ">
+        <a href="blog-details.php">
+          <div class="card blog-card ">
           <img src="images/profittable.png" class="card-img-top" alt="...">
           <div class="card-body blog-content">
             <h3 class="card-title">Was the forex brokerage is a profitable business?</h3>
-            <!-- <p class="card-text blog-des">This is a longer card with supporting text below as a natural lead-in to additional content.</p> -->
             <br>
-            <a href="#" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
+            <a href="blog-details.php" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
           </div>
         </div>
+        </a>
       </div>
     </div>
   </div>

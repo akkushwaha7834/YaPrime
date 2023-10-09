@@ -5173,3 +5173,7 @@ cursor: pointer;
 .request_a_demo_botton:hover, .contact_sales_botton:hover{
   color: #000;
 }
+.image_box_dm{min-height: 360px}
+.col-md-4 .seo_image_box {
+    min-height: 320px;
+}
