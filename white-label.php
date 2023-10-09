@@ -18,7 +18,7 @@
             <br>market since 2003, MetaTrader 4 with top choice for fore traders and brokers.
           </p>
           <div class="start_broker">
-            <a class="mt4_anchor" href="#">Start Broker </a>
+            <a class="mt4_anchor" href="request-demo.php">Start Broker </a>
           </div>
         </div>
       </div>
