@@ -4,7 +4,7 @@
     <section class="Hero_banner_vvip_section_webdev">
       <div class="container">
         <div class="row admin_consultation_section">
-          <div class="col-lg-8">
+          <div class="col-lg-12">
             <div class="prime_vvip_heading">APP development</div>
             <div class="prime_vvip_subheading">
               Build Premium Forex Apps with Our App Development Services
