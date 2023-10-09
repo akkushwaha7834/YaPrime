@@ -30,7 +30,7 @@
                       <div class="get-started-price">$1,899</div>
                       <div class="month">/month</div>
                     </div>
-                    <a href="#" class="get-started">
+                    <a href="request-demo.php" class="get-started">
                       <div class="button btton">
                         Get started
                         <img class="arrow-icon" alt="" src="images/arrow.svg">
@@ -141,7 +141,7 @@
                       <div class="get-started-price">$3,999</div>
                       <div class="month">/month</div>
                     </div>
-                    <a href="#" class="get-started">
+                    <a href="request-demo.php" class="get-started">
                       <div class="button1 btton">
                         Get started
                         <img class="arrow-icon" alt="" src="images/arrow-black.svg">
@@ -255,7 +255,7 @@
                       <div class="get-started-price">Custom</div>
                       <div class="month">/month</div>
                     </div>
-                    <a href="#" class="get-started">
+                    <a href="request-demo.php" class="get-started">
                       <div class="button2 btton">
                         Get started
                         <img class="arrow-icon" alt="" src="images/arrow.svg">
