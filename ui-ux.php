@@ -5,7 +5,7 @@
     <section class="Hero_banner_vvip_section_uiux">
       <div class="container">
         <div class="row admin_consultation_section">
-          <div class="col-lg-8">
+          <div class="col-lg-12">
             <div class="prime_vvip_heading">UI/UX Design</div>
             <div class="prime_vvip_subheading">
               We Drive Growth By Centering UI/UX Design Innovations Around User Needs.
@@ -14,7 +14,7 @@
               We specialise in creating the best UI/UX designs that captivate users, ensuring engagement and conversion into loyal clients.
             </div>
             <div class="optionbotton_section">
-              <div class="request_a_demo_botton">Get In Touch</div>
+              <a href="contact-us.php" class="request_a_demo_botton">Get In Touch</a>
             </div>
           </div>
         </div>
