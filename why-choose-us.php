@@ -71,7 +71,7 @@
       </div>
       <div class="row poimters_row_two">
         <div class="start_broker">
-            <a class="mt4_anchor" href="#">Start Broker</a>
+            <a class="mt4_anchor" href="request-demo.php">Start Broker</a>
           </div>
       </div>
     </div>
@@ -104,7 +104,7 @@
             </p>
           </div>
           <div class="button_bottom">
-            <a class="unique_anchor_one" href="#">Request a Demo </a>
+            <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a>
           </div>
         </div>
         <div class="col-md-6 yaPrime_why_image">
