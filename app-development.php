@@ -16,9 +16,6 @@
               <a href="contact-us.php">
                 <div class="request_a_demo_botton">
                 Get In Touch
-                <div class="right_arrow">
-                  <i class="fa fa-arrow-right" aria-hidden="true"></i>
-                </div>
               </div>
               </a>
             </div>
