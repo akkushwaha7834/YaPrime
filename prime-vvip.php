@@ -14,8 +14,12 @@
               Manage your forex brokerage with our Prime VVIP package, in which you get everything in our VIP package plus more exclusive benefits to take your business to the next phase.
             </div>
             <div class="optionbotton_section">
-              <div class="request_a_demo_botton">Request a Demo</div>
-              <div class="contact_sales_botton">Contact Sales</div>
+              <a href="request-demo.php" class="request_a_demo_botton">
+                  Request a Demo
+              </a>
+              <a href="contact-us.php" class="contact_sales_botton">
+                  Contact Sales
+              </a>
             </div>
           </div>
         </div>
@@ -36,25 +40,15 @@
              With Prime VVIP, you can access a vast array of Forex instruments, including Groups, Manager, and Symbols, totalling 4+2+600.
             </div>
             <br />
-            <div class="get_started_vvip_button">Get Started</div>
+            <a href="request-demo.php" class="get_started_vvip_button">Get Started</a>
           </div>
 
           <div class="col-lg-6">
-            <img
-              class="vvipsecimgage_section"
-              src="./images/vvipsec.png"
-              alt="image"
-              \
-            />
+            <img class="vvipsecimgage_section" src="./images/vvipsec.png" alt="image" \ />
           </div>
 
           <div class="col-lg-6">
-            <img
-              class="vvipsecimgage_section"
-              src="./images/vvipsec.png"
-              alt="image"
-              \
-            />
+            <img class="vvipsecimgage_section" src="./images/vvipsec.png" alt="image" \ />
           </div>
 
           <div class="col-lg-6 positiongvvip">
@@ -68,7 +62,7 @@
               Prime VVIP includes various advanced tools like Web API, Forex CRM, Bonus plugin, Extended dealer features, Multi-level IB platform, and Liquidity manager.
             </div>
             <br />
-            <div class="get_started_vvip_button">Get Started</div>
+            <a href="request-demo.php" class="get_started_vvip_button">Get Started</a>
           </div>
         </div>
       </div>

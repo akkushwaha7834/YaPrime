@@ -4015,23 +4015,14 @@ text-align: center;
 }
 .get_started_vvip_button {
   margin-top: 10px;
-  display: flex;
-  height: 48px;
-  padding: 8px 20px;
-  align-items: center;
-  gap: 8px;
+  padding: 10px 20px;
   border-radius: 8px;
   background: #fac211;
   color: #222;
-  leading-trim: both;
-  text-edge: cap;
-
   font-size: 16px;
-  font-style: normal;
   font-weight: 600;
-  line-height: normal;
-  width: 130px;
 }
+.get_started_vvip_button:hover{color: #222}
 .vvipsecimgage_section {
   object-fit: contain;
   height: 100%;
@@ -5236,4 +5227,7 @@ cursor: pointer;
 }
 .request_demo_content{
   padding: 80px 0;
+}
+.request_a_demo_botton:hover, .contact_sales_botton:hover{
+  color: #000;
 }

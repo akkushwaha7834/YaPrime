@@ -19,7 +19,7 @@
 
             <div class="demo_contact">
               <div class="request_demo">
-                <a href="contact-us.php">Request a Demo</a>
+                <a href="request-demo.php">Request a Demo</a>
 
                 <div class="right_arrow">
                   <i class="fa fa-arrow-right" aria-hidden="true"></i>
