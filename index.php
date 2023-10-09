@@ -19,7 +19,7 @@
                 </h2>
 
                 <p class="index_banner_para">Are you ready to venture into the dynamic and potentially lucrative world of Forex brokerage?</p>
-                <a class="unique_anchor_one" href="#">Request a Demo </a>
+                <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a>
               </div>
             </div>
             <div class="carousel-item">
@@ -31,7 +31,7 @@
                 </h2>
 
                 <p class="index_banner_para">Are you ready to venture into the dynamic and potentially lucrative world of Forex brokerage?</p>
-                <a class="unique_anchor_one" href="#">Request a Demo </a>
+                <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a>
               </div>
             </div>
             <div class="carousel-item">
@@ -43,7 +43,7 @@
                 </h2>
 
                 <p class="index_banner_para">Are you ready to venture into the dynamic and potentially lucrative world of Forex brokerage?</p>
-                <a class="unique_anchor_one" href="#">Request a Demo </a>
+                <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a>
               </div>
             </div>
           </div>
@@ -277,7 +277,7 @@ An exclusive account for high volume traders looking for competitive pricing and
                         <span>MetaTrader 4</span>
                         <p>Metatrader 4 bears exquisite functions that will showcase your Forex business with its own Trading Software.</p>
                  
-                        <button class="btn btn-primary submit-btn" style="width: 40%;"  type="submit">Buy Now</button>
+                        <a href="contact-us.php" class="btn btn-primary submit-btn" style="width: 40%;"  type="submit">Buy Now</a>
                   
                     </div>
                     <div class="col-md-4 col-sm-12 whitelabel-mt4">
@@ -285,7 +285,7 @@ An exclusive account for high volume traders looking for competitive pricing and
                         <br>
                         <span>MetaTrader 5</span>
                         <p>The unique needs of every start-up. The package is designed to fulfill all the trading needs. Efficient package for all.</p>
-                        <button class="btn btn-primary submit-btn"  style="width: 40%;"  type="submit">Buy Now</button>
+                        <a href="contact-us.php" class="btn btn-primary submit-btn"  style="width: 40%;"  type="submit">Buy Now</a>
                     </div>
                 </div>
                  
@@ -301,13 +301,13 @@ An exclusive account for high volume traders looking for competitive pricing and
                             <span>MetaTrader 4</span>
                             <p>Metatrader 4 bears exquisite functions that will showcase your Forex business with its own Trading Software.</p>
                      
-                            <button class="btn btn-primary submit-btn" style="width: 40%;" type="submit">Buy Now</button>
+                            <a href="contact-us.php" class="btn btn-primary submit-btn" style="width: 40%;" type="submit">Buy Now</a>
                       
                         </div>
                         <div class="col-md-4 quotes-price">
                             <h5>Are you interested in a quoted price?</h5>
                             <p>If your project doesn’t fit in the above plans, or if you’d like to discuss before making.</p>
-                            <button class="btn btn-primary submit-btn" type="submit">Call Us Today!</button>
+                            <a href="tel:+35722030234" class="submit-bttn" type="submit">Call Us Today!</a>
                         </div>
                     </div>
               

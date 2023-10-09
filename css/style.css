@@ -1489,11 +1489,7 @@ textarea:focus {
 }
 
 .submit-btn {
-  display: flex;
-  height: 48px;
   padding: 8px 24px;
-  align-items: center;
-  gap: 8px;
   border-radius: 8px;
   border: none !important;
   background: #FAC211 !important;
@@ -5167,4 +5163,15 @@ cursor: pointer;
 .image_box_dm{min-height: 360px}
 .col-md-4 .seo_image_box {
     min-height: 320px;
+}
+.submit-bttn {
+  padding: 8px 24px;
+  border-radius: 8px;
+  border: none !important;
+  background: #000;
+  color: #fff;
+}
+.submit-bttn:hover{
+  background: #fff;
+  color: #000;
 }
