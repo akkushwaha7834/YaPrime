@@ -11,35 +11,29 @@
             <form class="row g-2 needs-validation form-style" novalidate>
               <div class="col-md-6 input-style">
                 <label for="validationCustom01" class="form-label">First name</label>
-             
-                <input type="text" class="form-control" id="validationCustom01">
-  
+                <input type="text" placeholder="First Name" class="form-control" id="validationCustom01">
               </div>
               <div class="col-md-6 input-style">
                 <label for="validationCustom02" class="form-label">E-mail</label>
-            
-                <input type="email" class="form-control" id="validationCustom02" required>
-  
+                <input type="email" placeholder="E-mail" class="form-control" id="validationCustom02" required>
               </div>
-  
               <div class="col-md-6 input-style">
                 <label for="validationCustom03" class="form-label">Phone No.</label>
-              
-                <input type="text" class="form-control" id="validationCustom03" required>
+                <input type="text" class="form-control" placeholder="Phone No." id="validationCustom03" required>
                 <div class="invalid-feedback">
                   Please provide a valid Phone no.
                 </div>
               </div>
               <div class="col-md-6 input-style">
                 <label for="validationCustom03" class="form-label">Location</label>
-                <input type="text" class="form-control" id="validationCustom03" required>
+                <input type="text" class="form-control" placeholder="Location" id="validationCustom03" required>
                 <div class="invalid-feedback">
                   Please provide a valid Location.
                 </div>
               </div>
               <div class="col-md-12 input-style ">
                 <label for="exampleFormControlTextarea1" class="form-label">Message</label>
-                <textarea class="form-control" id="exampleFormControlTextarea1" rows="6"></textarea>
+                <textarea placeholder="Message" class="form-control" id="exampleFormControlTextarea1" rows="6"></textarea>
               </div>
   
               <div class="col-12">
