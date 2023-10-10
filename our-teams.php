@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>YaPrime</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.png">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap5.3.0.min.css">
+    <link rel="stylesheet" type="text/css" href="css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="css/font-poppins.css">
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/responsive.css" />
+    <script src="js/index1.js"></script>
+    <script type="text/javascript" src="js/bootstrap.bundle.min5.2.0.js"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S2CT2TEW5G"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-S2CT2TEW5G');
+    </script>
+    <meta name="google-site-verification" content="caFkPG5ppzd0wrcG-W9enabUow1o2dqneHhOmAN5yP0" />
+  </head>
+  <body>
 <?php include 'includes/header.php';?>
 <!-- teams banner -->
 <section class="teams_banner">
