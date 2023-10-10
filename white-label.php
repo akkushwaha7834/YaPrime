@@ -8,14 +8,14 @@
       <div class="row">
         <div class="col-md-12">
           <h4 class="mt4_h4">
-            Metatrader 4
+            White Label Solutions
           </h4>
           <h1 class="mt4_h1">
-            Unleash the power of <br> white label
+            Accelerate Your Forex Brokerage Success with<br>YaPrime White Label Solutions
+
           </h1>
           <p class="mt4_p">
-            YaPrime is known for its success as Best Auto Trading platform for the decades. It rules the Forex
-            <br>market since 2003, MetaTrader 4 with top choice for fore traders and brokers.
+            Experience the power of trading and grow your business success <br>with our premium White Label Solutions. 
           </p>
           <div class="start_broker">
             <a class="mt4_anchor" href="request-demo.php">Start Broker </a>
@@ -35,10 +35,10 @@
             Benefits
           </h3>
           <h2 class="benefits_h2">
-            Discover our white label solution’s key benefits
+            Key Benefits of Our White Label Solutions
           </h2>
           <p class="benefits_p">
-            Experience in forex industry can build real forex broker, we are named for expertise, compare to know
+            Discover the advantages of using YaPrime’s White Label Solutions.
           </p>
         </div>
         <div class="col-md-6">
@@ -49,37 +49,37 @@
         <div class="col-md-3">
           <img src="images/icon1.png">
           <h4 class="icon_box_heading">
-            Completely branded and optimized
+            Seamless Integration
           </h4>
           <p class="icon_box_para">
-            Develop a strong label by offering a personalized experience to your customers.
+            Our white-label forex trading platform solutions seamlessly integrate with your existing systems, ensuring a smooth transition and minimal disruption to your operations.
           </p>
         </div>
         <div class="col-md-3">
           <img src="images/icon1.png">
           <h4 class="icon_box_heading">
-            Completely branded and optimized
+            Customisation
           </h4>
           <p class="icon_box_para">
-            Develop a strong label by offering a personalized experience to your customers.
+            Customise the platform to meet your needs and branding requirements, providing your clients with a unique and personalised trading experience.
           </p>
         </div>
         <div class="col-md-3">
           <img src="images/icon1.png">
           <h4 class="icon_box_heading">
-            Completely branded and optimized
+            Advanced Technology
           </h4>
           <p class="icon_box_para">
-            Develop a strong label by offering a personalized experience to your customers.
+            Benefit from our platform's advanced technology and robust infrastructure, known for its reliability and performance in the forex industry.
           </p>
         </div>
         <div class="col-md-3">
           <img src="images/icon1.png">
           <h4 class="icon_box_heading">
-            Completely branded and optimized
+            Cost-Efficiency
           </h4>
           <p class="icon_box_para">
-            Develop a strong label by offering a personalized experience to your customers.
+            Reduce development and maintenance costs by leveraging our white-label brokerage platform Solutions, allowing you to focus on growing your brokerage without the burden of extensive technical overhead.
           </p>
         </div>
       </div>
