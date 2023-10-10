@@ -74,7 +74,7 @@
   border:none
 }
 ul.navbar-nav.mr-auto.mb-2.mb-lg-0 {
-    margin-right: 20px!important;
+    margin: 0 20px!important;
 }
 
 .navbar-toggler {
@@ -213,14 +213,14 @@ ul.navbar-nav.mr-auto.mb-2.mb-lg-0 {
 }
 .yaprimeheader-size {
   color: #222;
-  font-size: 14px;
+  font-size: 13px;
   font-style: normal;
   font-weight: 500;
 }
 @media (min-width: 992px){
 .navbar-expand-lg .navbar-collapse 
 {
-justify-content: center;
+justify-content: right;
 }
 }
 
