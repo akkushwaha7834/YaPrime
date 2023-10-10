@@ -106,7 +106,7 @@
               <div class="qoute_wrapper_yellow">
                 <div class="symbol">
                   <img src="images/EURUSD.svg">
-                  EURUSD
+                  EUR/USD
                 </div>
                 <div class="rate">
                   1.07424 / 1.07425
@@ -120,7 +120,7 @@
               <div class="qoute_wrapper_black">
                 <div class="symbol">
                   <img src="images/EURUSD.svg">
-                  EURUSD
+                  USD/JPY
                 </div>
                 <div class="rate">
                   1.07424 / 1.07425
@@ -136,7 +136,7 @@
               <div class="qoute_wrapper_black">
                 <div class="symbol">
                   <img src="images/EURUSD.svg">
-                  EURUSD
+                  GBP/USD
                 </div>
                 <div class="rate">
                   1.07424 / 1.07425
@@ -151,7 +151,7 @@
               <div class="qoute_wrapper_yellow">
                 <div class="symbol">
                   <img src="images/EURUSD.svg">
-                  EURUSD
+                  USD/CHF
                 </div>
                 <div class="rate">
                   1.07424 / 1.07425
@@ -167,7 +167,7 @@
               <div class="qoute_wrapper_yellow">
                 <div class="symbol">
                   <img src="images/EURUSD.svg">
-                  EURUSD
+                  AUD/USD
                 </div>
                 <div class="rate">
                   1.07424 / 1.07425
@@ -181,7 +181,7 @@
               <div class="qoute_wrapper_black">
                 <div class="symbol">
                   <img src="images/EURUSD.svg">
-                  EURUSD
+                  USD/CAD
                 </div>
                 <div class="rate">
                   1.07424 / 1.07425
@@ -191,6 +191,22 @@
                 </div>
               </div>
             </div>
+          </div>
+          <div class="row trading_cards_row_two">
+            <div class="col-md-6">
+            <div class="qoute_wrapper_black">
+              <div class="symbol">
+                  <img src="images/EURUSD.svg">
+                  NZD/USD
+              </div>
+              <div class="rate">
+                  1.07424 / 1.07425
+              </div>
+              <div class="spread">
+                  Spread<br><span>0.1</span>
+              </div>
+          </div>
+          </div>
           </div>
         </div>
       </div>
