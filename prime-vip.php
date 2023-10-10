@@ -48,10 +48,6 @@
             <div class="demo_contact">
               <div class="request_demo">
                 <a href="request-demo.php">Request a Demo</a>
-
-                <div class="right_arrow">
-                  <i class="fa fa-arrow-right" aria-hidden="true"></i>
-                </div>
               </div>
               <div class="contact_sales">
                 <a href="contact-us.php">Contact Sales</a>
