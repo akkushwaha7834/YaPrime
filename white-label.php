@@ -3,9 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>YaPrime</title>
-    <meta name="description" content=""/>
-    <meta name="keywords" content="" />
+    <title>YaMarket provides white label forex trading platform.</title>
+    <meta name="description" content="Yaprime's White Label Forex Trading Platform offers a customizable, branded solution for brokers to provide a seamless and feature-rich trading experience to their clients"/>
+    <meta name="keywords" content="broker white label, white label forex trading platform,white label brokerage platform" />
     <link rel="icon" type="image/x-icon" href="images/favicon.png">
     <link rel="stylesheet" type="text/css" href="css/bootstrap5.3.0.min.css">
     <link rel="stylesheet" type="text/css" href="css/material-design-iconic-font.min.css">
