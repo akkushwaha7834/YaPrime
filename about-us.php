@@ -3,9 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>YaPrime</title>
-    <meta name="description" content=""/>
-    <meta name="keywords" content="" />
+    <title>YaPrime: Your Gateway to Top Tier Liquidity Providers</title>
+    <meta name="description" content="YaPrime excels as one of the industry's foremost Top Tier Liquidity Providers. Our expertise ensures seamless access to premium liquidity solutions, enhancing your trading experience. Trust Yaprime for liquidity excellence."/>
+    <meta name="keywords" content="top tier liquidity providers, best liquidity providers in forex,top forex liquidity providers" />
     <link rel="icon" type="image/x-icon" href="images/favicon.png">
     <link rel="stylesheet" type="text/css" href="css/bootstrap5.3.0.min.css">
     <link rel="stylesheet" type="text/css" href="css/material-design-iconic-font.min.css">

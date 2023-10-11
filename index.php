@@ -3,9 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>YaPrime</title>
-    <meta name="description" content=""/>
-    <meta name="keywords" content="" />
+    <title>Start Your Own Forex Brokerage | Forex Broker Services</title>
+    <meta name="description" content="Embark on your journey in the world of Forex with YaPrime. Start your own Forex brokerage and access top-notch Forex broker services. Let us empower your success in the financial markets."/>
+    <meta name="keywords" content="start your own forex brokerage, forex broker services, how to become a broker in forex trading, best forex trading platform mt4" />
     <link rel="icon" type="image/x-icon" href="images/favicon.png">
     <link rel="stylesheet" type="text/css" href="css/bootstrap5.3.0.min.css">
     <link rel="stylesheet" type="text/css" href="css/material-design-iconic-font.min.css">
