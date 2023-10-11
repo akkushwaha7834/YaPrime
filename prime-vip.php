@@ -3,9 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>YaPrime</title>
-    <meta name="description" content=""/>
-    <meta name="keywords" content="" />
+    <title>YaPrime's Exclusive VIP Forex Trading Account</title>
+    <meta name="description" content="Improve your trading experience with Yaprime's VIP Forex Trading Account. Gain exclusive benefits, superior support, and enhanced opportunities for success."/>
+    <meta name="keywords" content="vip forex trading account, vip trading account, forex vip accounts" />
     <link rel="icon" type="image/x-icon" href="images/favicon.png">
     <link rel="stylesheet" type="text/css" href="css/bootstrap5.3.0.min.css">
     <link rel="stylesheet" type="text/css" href="css/material-design-iconic-font.min.css">

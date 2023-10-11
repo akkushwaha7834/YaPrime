@@ -3,9 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>YaPrime</title>
-    <meta name="description" content=""/>
-    <meta name="keywords" content="" />
+    <title>Best Forex Liquidity Provider in India</title>
+    <meta name="description" content="YaPrime stands out as the top Forex Liquidity Provider in India, offering unparalleled liquidity solutions for traders and brokers, ensuring seamless and efficient trading experiences."/>
+    <meta name="keywords" content="forex liquidity providers, best forex liquidity, india liquidity provider, best forex liquidity provider" />
     <link rel="icon" type="image/x-icon" href="images/favicon.png">
     <link rel="stylesheet" type="text/css" href="css/bootstrap5.3.0.min.css">
     <link rel="stylesheet" type="text/css" href="css/material-design-iconic-font.min.css">

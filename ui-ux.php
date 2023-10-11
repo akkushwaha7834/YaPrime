@@ -3,9 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>YaPrime</title>
-    <meta name="description" content=""/>
-    <meta name="keywords" content="" />
+    <title>YaPrime: UX/UI Services for Brokers</title>
+    <meta name="description" content=" YaPrime provides top-tier UX/UI services designed specifically for brokers, improving user experiences and fostering growth in the financial industry."/>
+    <meta name="keywords" content="best ux ui" />
     <link rel="icon" type="image/x-icon" href="images/favicon.png">
     <link rel="stylesheet" type="text/css" href="css/bootstrap5.3.0.min.css">
     <link rel="stylesheet" type="text/css" href="css/material-design-iconic-font.min.css">
@@ -53,10 +53,7 @@
           <div class="col-lg-8 ui_uxHeroBanner_section2">
             <div class="optionbotton_section">
               <div class="request_a_demo_botton">
-                <div class="right_arrow">
-                  <i class="fa fa-play-circle" aria-hidden="true"></i>
-                </div>
-                play Showreel
+                <i class="fa fa-play-circle" aria-hidden="true"></i> Play Showreel
               </div>
             </div>
           </div>
