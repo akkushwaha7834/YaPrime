@@ -3,9 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>YaPrime</title>
-    <meta name="description" content=""/>
-    <meta name="keywords" content="" />
+    <title>Top Web & Mobile App Development Services</title>
+    <meta name="description" content="YaPrime delivers top web and mobile app development services, combining cutting-edge technology and innovative design for exceptional digital solutions."/>
+    <meta name="keywords" content="top web development services, top mobile app development" />
     <link rel="icon" type="image/x-icon" href="images/favicon.png">
     <link rel="stylesheet" type="text/css" href="css/bootstrap5.3.0.min.css">
     <link rel="stylesheet" type="text/css" href="css/material-design-iconic-font.min.css">

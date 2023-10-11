@@ -3,9 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>YaPrime</title>
-    <meta name="description" content=""/>
-    <meta name="keywords" content="" />
+    <title>Yaprime's Top Graphic Design Can Help You Elevate Your Brand</title>
+    <meta name="description" content="YaPrime excels in delivering top-notch graphic design services, combining innovation and creativity to make your visual ideas come to life."/>
+    <meta name="keywords" content="top graphic design" />
     <link rel="icon" type="image/x-icon" href="images/favicon.png">
     <link rel="stylesheet" type="text/css" href="css/bootstrap5.3.0.min.css">
     <link rel="stylesheet" type="text/css" href="css/material-design-iconic-font.min.css">
