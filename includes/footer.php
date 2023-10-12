@@ -152,13 +152,22 @@
         verification process, which includes a “Know Your Customer” (KYC) documentation to be furnished by the
         beneficiary/ approaching client.</p>
       <hr class="footer_hr"  />
-      <div class="copyrights">
-        <p>All Rights Reserved © 2016-2023 |<a href="index.php"> YaPrime</a></p>
-        <p><a href="disclaimer.php">Disclaimer</a> </p>
-        <p><a href="terms-conditions.php">Terms & Conditions</a></p>
-        <p><a href="privacy-policy.php">Privacy Policy</a></p>
-        <p><a href="refund-cancellation.php">Refund & Cancellation</a></p>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="copyrights">
+            <p>All Rights Reserved © 2016-2023 |<a href="index.php"> YaPrime</a></p>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="copyrights">
+            <p><a href="disclaimer.php">Disclaimer</a> </p>
+            <p><a href="terms-conditions.php">Terms & Conditions</a></p>
+            <p><a href="privacy-policy.php">Privacy Policy</a></p>
+            <p><a href="refund-cancellation.php">Refund & Cancellation</a></p>
+          </div>
+        </div>
       </div>
+      
     </div>
   </section>
           <!-- <script src="/js/bootstrap.min.js"></script> -->
