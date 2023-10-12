@@ -145,13 +145,9 @@
               </div>
             </div>
           </div>
-
-          <!-- <div class="col-lg-3 sizing-section_new">
-            <img src="images/Product image.png" />
-          </div> -->
         </div>
         </div>
-        <div class="container">
+        <div class="container prime_vip_section_two">
         <div class="row position_rows">
           <div class="col-lg-6 ready_made_section">
             <div class="ready_made_heading">Exclusive Welcome Offer</div>
