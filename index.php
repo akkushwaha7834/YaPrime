@@ -370,78 +370,48 @@ An exclusive account for high volume traders looking for competitive pricing and
             <div class="tab-pane fade show active" id="nav-forex" role="tabpanel" aria-labelledby="nav-forex-tab">
           <div class="row">
             <div class="col-6 col-lg-3">
-              <a href="#" class='partners_card'>
-                <img src="./images/p-01.png" alt="">
-                <p>yaprime.com</p>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-              </a>
+              <div class='partners_card'>
+                <img src="./images/cfh-claering.png" alt="">
+              </div>
             </div>
             <div class="col-6 col-lg-3">
-              <a href="#" class='partners_card'>
-                <img src="./images/p-01.png" alt="">
-                <p>yaprime.com</p>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-              </a>
+              <div class='partners_card'>
+                <img src="./images/LMAX.png" alt="">
+              </div>
             </div>
             <div class="col-6 col-lg-3">
-              <a href="#" class='partners_card'>
-                <img src="./images/p-01.png" alt="">
-                <p>yaprime.com</p>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-              </a>
+              <div class='partners_card'>
+                <img src="./images/match-trade.png" alt="">
+              </div>
             </div>
             <div class="col-6 col-lg-3">
-              <a href="#" class='partners_card'>
-                <img src="./images/p-01.png" alt="">
-                <p>yaprime.com</p>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-              </a>
+              <div class='partners_card'>
+                <img src="./images/finalto.png" alt="">
+              </div>
+            </div>
+            <div class="col-6 col-lg-3">
+              <div class='partners_card'>
+                <img src="./images/match-prime.png" alt="">
+              </div>
             </div>
           </div>
             </div>
             <div class="tab-pane fade" id="nav-crypto" role="tabpanel" aria-labelledby="nav-crypto-tab">
             <div class="row">
             <div class="col-6 col-lg-3">
-              <a href="#" class='partners_card'>
-                <img src="./images/p-01.png" alt="">
-                <p>yaprime.com</p>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-              </a>
+              <div class='partners_card'>
+                <img src="./images/fortex.png" alt="">
+              </div>
             </div>
             <div class="col-6 col-lg-3">
-              <a href="#" class='partners_card'>
-                <img src="./images/p-01.png" alt="">
-                <p>yaprime.com</p>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-              </a>
+              <div class='partners_card'>
+                <img src="./images/one-zero.png" alt="">
+              </div>
             </div>
             <div class="col-6 col-lg-3">
-              <a href="#" class='partners_card'>
-                <img src="./images/p-01.png" alt="">
-                <p>yaprime.com</p>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-              </a>
+              <div class='partners_card'>
+                <img src="./images/brokeree.png" alt="">
+              </div>
             </div>
 
           </div>
@@ -450,69 +420,30 @@ An exclusive account for high volume traders looking for competitive pricing and
             <div class="tab-pane fade" id="nav-metals" role="tabpanel" aria-labelledby="nav-metals-tab">
             <div class="row">
             <div class="col-6 col-lg-3">
-              <a href="#" class='partners_card'>
-                <img src="./images/p-01.png" alt="">
-                <p>yaprime.com</p>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-              </a>
+              <div class='partners_card'>
+                <img src="./images/metaquotes.png" alt="">
+              </div>
             </div>
             <div class="col-6 col-lg-3">
-              <a href="#" class='partners_card'>
-                <img src="./images/p-01.png" alt="">
-                <p>yaprime.com</p>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-              </a>
+              <div class='partners_card'>
+                <img src="./images/ctrader.png" alt="">
+              </div>
             </div>
             <div class="col-6 col-lg-3">
-              <a href="#" class='partners_card'>
-                <img src="./images/p-01.png" alt="">
-                <p>yaprime.com</p>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-              </a>
+              <div class='partners_card'>
+                <img src="./images/match-trade.png" alt="">
+              </div>
             </div>
             <div class="col-6 col-lg-3">
-              <a href="#" class='partners_card'>
-                <img src="./images/p-01.png" alt="">
-                <p>yaprime.com</p>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-                <span class="screw"></span>
-              </a>
+              <div class='partners_card'>
+                <img src="./images/vertex.png" alt="">
+              </div>
             </div>
           </div>
-            </div>
-            <div class="tab-pane fade" id="nav-indices" role="tabpanel" aria-labelledby="nav-metals-tab">
-              
-            </div>
-            <div class="tab-pane fade" id="nav-energy" role="tabpanel" aria-labelledby="nav-metals-tab">
-              <img src="images/tabs.jpeg" width="100%">
-            </div>
-            <div class="tab-pane fade" id="nav-equities" role="tabpanel" aria-labelledby="nav-metals-tab">
-              <img src="images/tabs.jpeg" width="100%">
-            </div>
-            <div class="tab-pane fade" id="nav-etfs" role="tabpanel" aria-labelledby="nav-metals-tab">
-              <img src="images/tabs.jpeg" width="100%">
-            </div>
-          </div>
-             <h1></h1>
-             
-
+        </div>
+    </div>
 </div>
-
-
-
-</div>
-             </section>
+</section>
              <!-- end of partners section -->
               <!-- Pricing Start -->
   <?php include 'includes/dark-pricing.php';?>
