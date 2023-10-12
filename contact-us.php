@@ -85,7 +85,7 @@
   <!-- TALK TO US -->
 
   <!-- Call Icon Boxes Start -->
-
+<section class="contact_last_section">
   <div class="container contact_us">
     <div class="row contact-us-row">
       <div class="col-md-6">
@@ -133,6 +133,7 @@
       </div>
     </div>
   </div>
+</section>
 
 
   <!-- Call Icon Boxes End -->
