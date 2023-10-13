@@ -69,7 +69,7 @@
             <a href="admin-consultation.php">
               <li>Admin Consultation</li>
             </a>
-            <a href="liquidity.php">
+            <a href="liquidity-solution.php">
               <li>Liquidity Solution</li>
             </a>
             <a href="crm-api.php">
@@ -87,7 +87,7 @@
             <a href="web-development.php">
               <li>Web Development</li>
             </a>
-            <a href="app-development">
+            <a href="app-development.php">
               <li>App Development</li>
             </a>
             <a href="graphic-design.php">

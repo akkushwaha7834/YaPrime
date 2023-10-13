@@ -2469,16 +2469,14 @@ margin: 80px 0;
   text-align: left;
   font-size: 16px;
   color: #222;
-  
   border: 1px solid #ebebeb;
   margin-left: 20px;
 }
 
 .unique_anchor_one {
   padding: 10px 20px;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 400;
-  
   color: #222;
   border-radius: 8px;
   border: 1px solid #FAC211;

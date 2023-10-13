@@ -46,7 +46,7 @@
             At YaPrime, we understand that running a Forex brokerage involves more than just trading and client interactions. It requires seamless backend operations to ensure everything runs smoothly. That's where our Admin Consultation services come in.
           </p>
           <div class="cta_unique">
-            <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a>
+            <button type="button" class="unique_anchor_one" data-toggle="modal" data-target="#exampleModal">Request a Demo</button>
             <a class="unique_anchor" href="request-demo.php">Start Broker </a>
           </div>
         </div>

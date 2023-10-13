@@ -49,7 +49,8 @@
                 </h2>
 
                 <p class="index_banner_para">Are you ready to venture into the dynamic and potentially lucrative world of Forex brokerage?</p>
-                <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a>
+                <!-- <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a> -->
+                <button type="button" class="unique_anchor_one" data-toggle="modal" data-target="#exampleModal">Request a Demo</button>
               </div>
             </div>
             <div class="carousel-item">
@@ -61,7 +62,8 @@
                 </h2>
 
                 <p class="index_banner_para">Are you ready to venture into the dynamic and potentially lucrative world of Forex brokerage?</p>
-                <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a>
+                <!-- <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a> -->
+                <button type="button" class="unique_anchor_one" data-toggle="modal" data-target="#exampleModal">Request a Demo</button>
               </div>
             </div>
             <div class="carousel-item">
@@ -73,7 +75,8 @@
                 </h2>
 
                 <p class="index_banner_para">Are you ready to venture into the dynamic and potentially lucrative world of Forex brokerage?</p>
-                <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a>
+                <!-- <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a> -->
+                <button type="button" class="unique_anchor_one" data-toggle="modal" data-target="#exampleModal">Request a Demo</button>
               </div>
             </div>
           </div>
@@ -462,7 +465,6 @@ An exclusive account for high volume traders looking for competitive pricing and
               <img src="images/bestLiquity.png" class="card-img-top" alt="...">
               <div class="card-body blog-content">
                 <h3 class="card-title">Who is a liquidity provider? Importance of?</h3>
-                <!-- <p class="card-text blog-des">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
                 <br>
                 <a href="#" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
               </div>
@@ -473,7 +475,6 @@ An exclusive account for high volume traders looking for competitive pricing and
               <img src="images/liqity.png" class="card-img-top" alt="...">
               <div class="card-body blog-content">
                 <h3 class="card-title">How smart brokers choose their best liquidity providers? </h3>
-                <!-- <p class="card-text blog-des">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
                 <br>
                 <a href="#" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
               </div>
@@ -484,7 +485,6 @@ An exclusive account for high volume traders looking for competitive pricing and
               <img src="images/profittable.png" class="card-img-top" alt="...">
               <div class="card-body blog-content">
                 <h3 class="card-title">Was the forex brokerage is a profitable business?</h3>
-                <!-- <p class="card-text blog-des">This is a longer card with supporting text below as a natural lead-in to additional content.</p> -->
                 <br>
                 <a href="#" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
               </div>

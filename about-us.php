@@ -49,7 +49,7 @@
             At YaPrime, our core belief is to inspire and empower aspiring Forex brokers with our premium liquidity, brokerage, and trading technology solutions. We are dedicated to shaping the future of Forex trading through innovation and excellence.
           </p>
           <div class="cta_unique">
-            <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a>
+            <button type="button" class="unique_anchor_one" data-toggle="modal" data-target="#exampleModal">Request a Demo</button>
             <a class="unique_anchor" href="request-demo.php">Start Broker </a>
           </div>
         </div>
