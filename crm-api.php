@@ -47,7 +47,8 @@
             Contact us to explore how our CRM and API integration can empower your business and provide your clients and partners with a unique trading experience.
           </p>
           <div class="cta_unique">
-            <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a>
+            <!-- <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a> -->
+            <button type="button" class="unique_anchor_one" data-toggle="modal" data-target="#exampleModal">Request a Demo</button>
             <a class="unique_anchor" href="request-demo.php">Start Broker </a>
           </div>
         </div>
