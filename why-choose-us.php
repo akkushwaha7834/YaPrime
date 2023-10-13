@@ -48,7 +48,8 @@
             Unleash the full potential of your forex endeavors with our admin consultation services. Let our experts handle the backend, while you focus on your trading success. Seamlessly optimize your operations and maximize your profits!
           </p>
           <div class="cta_unique">
-            <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a>
+            <!-- <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a> -->
+            <button type="button" class="unique_anchor_one" data-toggle="modal" data-target="#exampleModal">Request a Demo</button>
             <a class="unique_anchor" href="request-demo.php">Start Broker </a>
           </div>
         </div>
@@ -134,7 +135,8 @@
             </p>
           </div>
           <div class="button_bottom">
-            <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a>
+            <!-- <a class="unique_anchor_one" href="request-demo.php">Request a Demo </a> -->
+            <button type="button" class="unique_anchor_one" data-toggle="modal" data-target="#exampleModal">Request a Demo</button>
           </div>
         </div>
         <div class="col-md-6 yaPrime_why_image">
