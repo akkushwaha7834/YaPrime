@@ -48,12 +48,11 @@
             </div>
 
             <div class="demo_contact">
-              <div class="request_demo">
-                <a href="request-demo.php">Request a Demo</a>
-              </div>
-              <div class="contact_sales">
-                <a href="contact-us.php">Contact Sales</a>
-              </div>
+              <!-- <a href="request-demo.php" class="request_demo">
+                Request a Demo
+              </a> -->
+              <button type="button" class="unique_anchor_one" data-toggle="modal" data-target="#exampleModal">Request a Demo</button>
+              <a href="contact-us.php" class="contact_sales_special">Contact Sales</a>
             </div>
           </div>
 

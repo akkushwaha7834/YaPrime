@@ -44,9 +44,10 @@
               Manage your forex brokerage with our Prime VVIP package, in which you get everything in our VIP package plus more exclusive benefits to take your business to the next phase.
             </div>
             <div class="optionbotton_section">
-              <a href="request-demo.php" class="request_a_demo_botton">
+              <!-- <a href="request-demo.php" class="request_a_demo_botton">
                   Request a Demo
-              </a>
+              </a> -->
+              <button type="button" class="unique_anchor_one" data-toggle="modal" data-target="#exampleModal">Request a Demo</button>
               <a href="contact-us.php" class="contact_sales_botton">
                   Contact Sales
               </a>
