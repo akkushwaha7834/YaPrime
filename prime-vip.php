@@ -138,7 +138,7 @@
                     Access exclusive advantages, superior trading terms, and expert assistance with our Prime VIP account
                   </div>
                 </div>
-                <a href="request-demo.php">
+                <a href="start-broker.php">
                   <span class="learn_more_section">Learn More</span>
                 </a>
               </div>

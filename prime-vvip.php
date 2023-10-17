@@ -71,7 +71,7 @@
              With Prime VVIP, you can access a vast array of Forex instruments, including Groups, Manager, and Symbols, totalling 4+2+600.
             </div>
             <br />
-            <a href="request-demo.php" class="get_started_vvip_button">Get Started</a>
+            <a href="start-broker.php" class="get_started_vvip_button">Get Started</a>
           </div>
 
           <div class="col-lg-6">
@@ -93,7 +93,7 @@
               Prime VVIP includes various advanced tools like Web API, Forex CRM, Bonus plugin, Extended dealer features, Multi-level IB platform, and Liquidity manager.
             </div>
             <br />
-            <a href="request-demo.php" class="get_started_vvip_button">Get Started</a>
+            <a href="start-broker.php" class="get_started_vvip_button">Get Started</a>
           </div>
         </div>
       </div>
