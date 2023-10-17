@@ -223,7 +223,7 @@
                     lectus.
                   </div>
                 </div>
-                <a href="contact-us.php" class="learn_more_section">Learn More</a>
+                <a href="start-broker.php" class="learn_more_section">Learn More</a>
               </div>
             </div>
           </div>
