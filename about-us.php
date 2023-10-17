@@ -54,7 +54,7 @@
           </div>
         </div>
         <div class="col-md-6">
-          <img src="images/FreeService-Hero.png" width="100%">
+          <img src="images/about-banner.png" width="100%">
         </div>
       </div>
     </div>
@@ -77,12 +77,12 @@
           </p>
         </div>
         <div class="col-md-6">
-          <img src="images/mt5.png" width="100%">
+          <img src="images/about-1.png" width="100%" style="border-radius: 16px;">
         </div>
       </div>
       <div class="row about_row_two_intro">
         <div class="col-md-6">
-          <img src="images/mt5.png" width="100%">
+          <img src="images/about-2.png" width="100%" style="border-radius: 16px;">
         </div>
         <div class="col-md-6 benefits_left">
           <h3 class="benefits_h3">
@@ -141,7 +141,7 @@
       </div>
       <div class="row about_row_two">
         <div class="col-md-3">
-          <img src="images/icon1.png">
+          <img src="images/growth.png">
           <h4 class="icon_box_heading">
             Focused on Growth
           </h4>
@@ -150,7 +150,7 @@
           </p>
         </div>
         <div class="col-md-3">
-          <img src="images/icon1.png">
+          <img src="images/scaling.png">
           <h4 class="icon_box_heading">
             Scaling Your Business
           </h4>
@@ -159,7 +159,7 @@
           </p>
         </div>
         <div class="col-md-3">
-          <img src="images/icon1.png">
+          <img src="images/simplifying.png">
           <h4 class="icon_box_heading">
             Simplifying Complexities
           </h4>
@@ -168,7 +168,7 @@
           </p>
         </div>
         <div class="col-md-3">
-          <img src="images/icon1.png">
+          <img src="images/global.png">
           <h4 class="icon_box_heading">
             Global Liquidity Pools
           </h4>
@@ -179,7 +179,7 @@
       </div>
       <div class="row about_row_two">
         <div class="col-md-3">
-          <img src="images/icon1.png">
+          <img src="images/customise-and-personalize.png">
           <h4 class="icon_box_heading">
             Customise and Personalize
           </h4>
@@ -188,7 +188,7 @@
           </p>
         </div>
         <div class="col-md-3">
-          <img src="images/icon1.png">
+          <img src="images/expertise-in-global-expansion.png">
           <h4 class="icon_box_heading">
             Expertise in Global Expansion
           </h4>
@@ -197,7 +197,7 @@
           </p>
         </div>
         <div class="col-md-3">
-          <img src="images/icon1.png">
+          <img src="images/trading-technology.png">
           <h4 class="icon_box_heading">
             Top-Tier Trading Technology
           </h4>
@@ -206,7 +206,7 @@
           </p>
         </div>
         <div class="col-md-3">
-          <img src="images/icon1.png">
+          <img src="images/access-to-global-markets.png">
           <h4 class="icon_box_heading">
             Access to Global Markets
           </h4>

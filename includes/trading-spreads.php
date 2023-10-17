@@ -17,7 +17,7 @@
 					<div class="col-md-3">
 						<div class="qoute_wrapper_yellow">
 		                    <div class="symbol">
-		                        <img src="images/EURUSD.svg">
+		                        <img src="images/currency/eur-usd.svg">
 		                        EUR/USD
 		                    </div>
 		                    <div class="rate">
@@ -31,7 +31,7 @@
 					<div class="col-md-3">
 						<div class="qoute_wrapper_black">
 		                    <div class="symbol">
-		                        <img src="images/EURUSD.svg">
+		                        <img src="images/currency/usd-jpy.svg">
 		                         USD/JPY
 		                    </div>
 		                    <div class="rate">
@@ -45,7 +45,7 @@
 					<div class="col-md-3">
 						<div class="qoute_wrapper_yellow">
 		                    <div class="symbol">
-		                        <img src="images/EURUSD.svg">
+		                        <img src="images/currency/gbp-usd.svg">
 		                        GBP/USD
 		                    </div>
 		                    <div class="rate">
@@ -59,7 +59,7 @@
 					<div class="col-md-3">
 						<div class="qoute_wrapper_black">
 		                    <div class="symbol">
-		                        <img src="images/EURUSD.svg">
+		                        <img src="images/currency/usd-chf.svg">
 		                        USD/CHF
 		                    </div>
 		                    <div class="rate">
@@ -75,7 +75,7 @@
 					<div class="col-md-3">
 						<div class="qoute_wrapper_black">
 		                    <div class="symbol">
-		                        <img src="images/EURUSD.svg">
+		                        <img src="images/currency/aud-usd.svg">
 		                        AUD/USD
 		                    </div>
 		                    <div class="rate">
@@ -89,7 +89,7 @@
 					<div class="col-md-3">
 						<div class="qoute_wrapper_yellow">
 		                    <div class="symbol">
-		                        <img src="images/EURUSD.svg">
+		                        <img src="images/currency/usd-cad.svg">
 		                        USD/CAD
 		                    </div>
 		                    <div class="rate">
@@ -103,7 +103,7 @@
 					<div class="col-md-3">
 						<div class="qoute_wrapper_black">
 		                    <div class="symbol">
-		                        <img src="images/EURUSD.svg">
+		                        <img src="images/currency/nzd-usd.svg">
 		                        NZD/USD
 		                    </div>
 		                    <div class="rate">
