@@ -48,7 +48,7 @@
             Experience the power of trading and grow your business success <br>with our premium White Label Solutions. 
           </p>
           <div class="start_broker">
-            <a class="mt4_anchor" href="request-demo.php">Start Broker </a>
+            <a class="mt4_anchor" href="start-broker.php">Start Broker </a>
           </div>
         </div>
       </div>
