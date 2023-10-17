@@ -176,6 +176,22 @@
 	.social-media-icon {
 	    margin-bottom: 20px;
 	}
+	.statistic_card{
+		text-align: center;
+		width: 46%;
+		border: 1px solid #FAC211;
+		margin: 5px;
+		padding: 10px;
+		background: #FEFCF6;
+		border-radius: 16px;
+	}
+	.statistic2 h2{
+		font-size: 30px;
+	}
+	.statistic2 h4{
+		font-size: 18px;
+		line-height: 20px;
+	}
 }
 @media (min-width:768px) and (max-width: 1024px){
 	.dm_tilt_sec{

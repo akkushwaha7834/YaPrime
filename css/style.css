@@ -1984,7 +1984,7 @@ margin: 80px 0;
 }
 
 
-.statistic2 h1 {
+.statistic2 h2 {
   color: #FAC211;
 
   font-size: 56px;
@@ -5707,4 +5707,9 @@ button.unique_anchor_one.btn.btn-primary:hover {
 }
 .prime_vip_section_two{
   margin-top: 50px;
+}
+.col-6.col-lg-2.liquidity_partners{
+  max-width: 20%!important;
+    width: 19%!important;
+    flex: 0 0 20%;
 }

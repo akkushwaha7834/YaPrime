@@ -97,22 +97,22 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-3 statistic_card">
-                        <h1>40+</h1>
+                        <h2>40+</h2>
                         <h4>Forex brokers</h4>
                         <p>Happy Customers serving their Fullfledged Service to Connect traders.</p>
                     </div>
                     <div class="col-md-3 statistic_card">
-                        <h1>1.2+</h1>
+                        <h2>1.2+</h2>
                         <h4>Million FX traders</h4>
                         <p>More than Million traders booking their trades Peacefully.</p>
                     </div>
                     <div class="col-md-3 statistic_card">
-                        <h1>2+</h1>
+                        <h2>2+</h2>
                         <h4>Awards won</h4>
                         <p>Know Why YaPrime, Technology Pioneer-Technically, Best in the market.</p>
                     </div>
                     <div class="col-md-3 statistic_card">
-                        <h1>300+</h1>
+                        <h2>300+</h2>
                         <h4>Billion trade volume</h4>
                         <p>More than Million traders booking their trades Peacefully.</p>
                     </div>
@@ -132,7 +132,6 @@
                 <div class="row">
                   <div class=" col-lg-6 col-md-6 col-sm-12  Skill-text">
                     <h3>Start Your Own Forex Brokerage with YaPrime</h3>
-                      <br>
                       <p>YaPrime believes in setting the industry standard for liquidity and market access solutions. We recognize that our global customer base has varied requirements and priorities, and our solutions are designed around this understanding.</p>
                       <p>We offer direct access to Liquidity from Institutional Liquidity pools – through our partnership with a regulated Liquidity Provider, and use our Data Feeds to enjoy the low latency price streams for more than 300 instruments.</p>
                                         
@@ -179,8 +178,6 @@
             <h1>Unique features</h1>
             <br>
             <p>Our array of Forex broker products & services ready to start quickly</p>
-     <br>
-     <br>
         <div class="row">
             <div class="col-md-4 featured-sidebar">
                 <div class="row featured-card-wrapper">
@@ -310,15 +307,13 @@ An exclusive account for high volume traders looking for competitive pricing and
                         <span>MetaTrader 4</span>
                         <p>Metatrader 4 bears exquisite functions that will showcase your Forex business with its own Trading Software.</p>
                  
-                        <a href="contact-us.php" class="btn btn-primary submit-btn" style="width: 40%;"  type="submit">Buy Now</a>
+                        <a href="contact-us.php" class="btn btn-primary submit-btn"  type="submit">Buy Now</a>
                   
                     </div>
                     <div class="col-md-4 col-sm-12 whitelabel-mt4">
-                        <br>
-                        <br>
                         <span>MetaTrader 5</span>
                         <p>The unique needs of every start-up. The package is designed to fulfill all the trading needs. Efficient package for all.</p>
-                        <a href="contact-us.php" class="btn btn-primary submit-btn"  style="width: 40%;"  type="submit">Buy Now</a>
+                        <a href="contact-us.php" class="btn btn-primary submit-btn"  type="submit">Buy Now</a>
                     </div>
                 </div>
                  
@@ -334,7 +329,7 @@ An exclusive account for high volume traders looking for competitive pricing and
                             <span>MetaTrader 4</span>
                             <p>Metatrader 4 bears exquisite functions that will showcase your Forex business with its own Trading Software.</p>
                      
-                            <a href="contact-us.php" class="btn btn-primary submit-btn" style="width: 40%;" type="submit">Buy Now</a>
+                            <a href="contact-us.php" class="btn btn-primary submit-btn" type="submit">Buy Now</a>
                       
                         </div>
                         <div class="col-md-4 quotes-price">
@@ -372,27 +367,27 @@ An exclusive account for high volume traders looking for competitive pricing and
             <div class="tab-content tab-border" id="nav-tabContent">
             <div class="tab-pane fade show active" id="nav-forex" role="tabpanel" aria-labelledby="nav-forex-tab">
           <div class="row">
-            <div class="col-6 col-lg-3">
+            <div class="col-6 col-lg-2 liquidity_partners">
               <div class='partners_card'>
                 <img src="./images/cfh-claering.png" alt="">
               </div>
             </div>
-            <div class="col-6 col-lg-3">
+            <div class="col-6 col-lg-2 liquidity_partners">
               <div class='partners_card'>
-                <img src="./images/LMAX.png" alt="">
+                <img src="./images/lmax.png" alt="">
               </div>
             </div>
-            <div class="col-6 col-lg-3">
+            <div class="col-6 col-lg-2 liquidity_partners">
               <div class='partners_card'>
                 <img src="./images/match-trade.png" alt="">
               </div>
             </div>
-            <div class="col-6 col-lg-3">
+            <div class="col-6 col-lg-2 liquidity_partners">
               <div class='partners_card'>
                 <img src="./images/finalto.png" alt="">
               </div>
             </div>
-            <div class="col-6 col-lg-3">
+            <div class="col-6 col-lg-2 liquidity_partners">
               <div class='partners_card'>
                 <img src="./images/match-prime.png" alt="">
               </div>
