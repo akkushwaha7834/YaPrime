@@ -21,14 +21,14 @@
               <div class="plan">
                 <div class="frame-group">
                   <div class="mt4-limited-parent">
-                    <div class="mt4-limited">MT4 Limited</div>
+                    <div class="mt4-limited">Prime VIP</div>
                     <div class="pricing_para">Designed for aspiring Forex <br> brokers.
                     </div>
                   </div>
                   <div class="frame-container">
                     <div class="parent">
-                      <div class="get-started-price">$1,899</div>
-                      <div class="month">/month</div>
+                      <div class="get-started-price">$50,000</div>
+                      <div class="month">Minimum Deposit</div>
                     </div>
                     <a href="request-demo.php" class="get-started">
                       <div class="button btton">
@@ -132,14 +132,14 @@
               <div class="plan1">
                 <div class="frame-parent2">
                   <div class="mt4-limited-parent">
-                    <div class="mt4-limited">MT4 Advanced</div>
+                    <div class="mt4-limited">Prime VVIP</div>
                     <div class="pricing_para">For experienced brokers seeking excellence.
                     </div>
                   </div>
                   <div class="frame-container">
                     <div class="parent">
-                      <div class="get-started-price">$3,999</div>
-                      <div class="month">/month</div>
+                      <div class="get-started-price">$1,00,000</div>
+                      <div class="month">Minimum Deposit</div>
                     </div>
                     <a href="request-demo.php" class="get-started">
                       <div class="button1 btton">
@@ -246,14 +246,14 @@
               <div class="plan">
                 <div class="frame-group">
                   <div class="mt4-limited-parent">
-                    <div class="mt4-limited">MT4 Custom</div>
+                    <div class="mt4-limited">Prime Special</div>
                     <div class="pricing_para">Ideal for brokers looking to start strong	
                     </div>
                   </div>
                   <div class="frame-container">
                     <div class="parent">
-                      <div class="get-started-price">Custom</div>
-                      <div class="month">/month</div>
+                      <div class="get-started-price">$1,00,000</div>
+                      <div class="month">Minimum Deposit</div>
                     </div>
                     <a href="request-demo.php" class="get-started">
                       <div class="button2 btton">
