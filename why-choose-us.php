@@ -3,9 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>YaPrime</title>
-    <meta name="description" content=""/>
-    <meta name="keywords" content="" />
+    <title>How to Create Your Own Forex Broker? </title>
+    <meta name="description" content="Empower your ambition with YaPrime: Learn how to establish your own forex broker. Expert guidance, technology, and support for your success "/>
+    <meta name="keywords" content="how to create your own forex broker " />
     <link rel="icon" type="image/x-icon" href="images/favicon.png">
     <link rel="stylesheet" type="text/css" href="css/bootstrap5.3.0.min.css">
     <link rel="stylesheet" type="text/css" href="css/material-design-iconic-font.min.css">

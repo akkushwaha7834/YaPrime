@@ -47,7 +47,7 @@
                         </ul>
                     </div>
                     <div class="col-md-6  col-sm-12 ">
-                        <img src="images/Blog-Hero.jpg" width="100%"/>
+                        <img src="images/bloghero.jpg" width="100%"/>
                     </div>
                 </div>
             </div>

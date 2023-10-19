@@ -3,9 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>YaPrime</title>
-    <meta name="description" content=""/>
-    <meta name="keywords" content="" />
+    <title>The Ultimate Guide to the Best MT4 Forex Trading Platforms </title>
+    <meta name="description" content="YaPrime: Your gateway to the best MT4 forex trading platform. Unmatched tools, insights, and precision for trading success."/>
+    <meta name="keywords" content="Best Forex Trading Platform MT4 " />
     <link rel="icon" type="image/x-icon" href="images/favicon.png">
     <link rel="stylesheet" type="text/css" href="css/bootstrap5.3.0.min.css">
     <link rel="stylesheet" type="text/css" href="css/material-design-iconic-font.min.css">
