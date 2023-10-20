@@ -82,37 +82,43 @@
                     <div class="col-md-4 ">
                         <div class="row row-cols-1 row-cols-md-1 g-1 blogs-des-cards " id="sidebar">
                             <div class="col "  >
-                              <div class="card blog-card ">
-                                <img src="images/bestLiquity.png" class="card-img-top" alt="..." >
-                                <div class="card-body blog-content">
-                                  <h3 class="card-title">Who is a liquidity provider? Importance of liquidity providers?</h3>
-                                  <p class="card-text blog-des">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                  <br>
-                                  <a href="#" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
-                                </div>
-                              </div>
+                              <a href="blog-details.php">
+                                  <div class="card blog-card ">
+                                    <img src="images/bestLiquity.png" class="card-img-top" alt="..." >
+                                    <div class="card-body blog-content">
+                                      <h3 class="card-title">Who is a liquidity provider? Importance of liquidity providers?</h3>
+                                      <p class="card-text blog-des">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                      <br>
+                                      <a href="blog-details.php" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
+                                    </div>
+                                  </div>
+                              </a>
                             </div>
                             <div class="col"  >
-                              <div class="card blog-card ">
-                                <img src="images/liqity.png" class="card-img-top" alt="...">
-                                <div class="card-body blog-content">
-                                  <h3 class="card-title">How smart brokers choose their best liquidity providers? Why it's important?</h3>
-                                  <p class="card-text blog-des">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                  <br>
-                                  <a href="#" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
-                                </div>
-                              </div>
+                              <a href="blog-details.php">
+                                  <div class="card blog-card ">
+                                    <img src="images/liqity.png" class="card-img-top" alt="...">
+                                    <div class="card-body blog-content">
+                                      <h3 class="card-title">How smart brokers choose their best liquidity providers? Why it's important?</h3>
+                                      <p class="card-text blog-des">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                      <br>
+                                      <a href="blog-details.php" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
+                                    </div>
+                                  </div>
+                              </a>
                             </div>
                             <div class="col">
-                              <div class="card blog-card " >
-                                <img src="images/profittable.png" class="card-img-top" alt="...">
-                                <div class="card-body blog-content">
-                                  <h3 class="card-title">Was the forex brokerage is a profitable business?</h3>
-                                  <p class="card-text blog-des">This is a longer card with supporting text below as a natural lead-in to additional content.This content is a little bit longer.</p>
-                                  <br>
-                                  <a href="#" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
-                                </div>
-                              </div>
+                              <a href="blog-details.php">
+                                  <div class="card blog-card " >
+                                    <img src="images/profittable.png" class="card-img-top" alt="...">
+                                    <div class="card-body blog-content">
+                                      <h3 class="card-title">Was the forex brokerage is a profitable business?</h3>
+                                      <p class="card-text blog-des">This is a longer card with supporting text below as a natural lead-in to additional content.This content is a little bit longer.</p>
+                                      <br>
+                                      <a href="blog-details.php" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
+                                    </div>
+                                  </div>
+                              </a>
                             </div>
 
 
