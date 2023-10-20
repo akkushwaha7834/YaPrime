@@ -4651,6 +4651,7 @@ a.nav-link.coloring_header {
 	background: #FEFCF6;
 }
 .trading_live_container{
+  overflow-x: hidden;
 }
 
 .baner_right_image{
@@ -4879,7 +4880,7 @@ a.dropdown-item.yaprimeheader-size:hover {
   align-items: center;
 }
 .whitelabel-mt4 p{
-  text-align: center !important;
+  text-align: justify!important;
 }
 .pricing_light {
   margin-bottom: 10%;
