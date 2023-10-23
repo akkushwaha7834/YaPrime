@@ -6,7 +6,6 @@
     margin: 0;
     padding: 0;
     text-decoration:none ;
-    list-style: none;
    
 }
 
@@ -581,7 +580,7 @@ gap: 48px;
 justify-content: center;
 align-items: center;
 gap: 64px;
-padding: 128px 120px;
+padding: 128px 120px 80px;
 }
 
 .blog-hero-content{
@@ -627,9 +626,13 @@ font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: 28px;
-margin-bottom: 7%;
 }
 
+.blog-hero-content p {color: rgba(34, 34, 34, 0.52);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;}
 .blog-description h4{
 
 color: #222;
@@ -1546,7 +1549,6 @@ textarea:focus {
   margin: 0;
   padding: 0;
   text-decoration: none;
-  list-style: none;
 }
 
 /* hearder Section  */
@@ -5708,3 +5710,4 @@ button.unique_anchor_one.btn.btn-primary:hover {
 .symbol img {
     width: 25%;
 }
+.blog_detail_link{color: #F9C213}
