@@ -217,7 +217,12 @@
 	.careers_page{padding: 50px 0;}
 	.careers_category{display: flex;}
 	.apply_now_btn{padding: 10px 20px;}
-	.teams_content h2, .crm_h1, .technologies_uiux, .uiuxHeading, .caseStudy_information, .todo__Discription, .h2__heading, .check-our-white{line-height: 40px!important; font-size: 30px}
+	.teams_content h2, .crm_h1, .technologies_uiux, 
+	.uiuxHeading, .caseStudy_information, .todo__Discription, 
+	.h2__heading, .check-our-white, .prime_vip_paragraph_special{
+		line-height: 40px!important; 
+		font-size: 30px;
+	}
 	h1.mt4_h1, .prime_vvip_subheading {line-height: 40px!important;font-size: 30px;}
 	.white_label .benefits_row_two .col-md-3{flex: 100%}
 }
