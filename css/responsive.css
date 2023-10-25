@@ -205,12 +205,15 @@
 		line-height: 20px;
 	}
 	.about_h1, .benefits_h2{font-size: 30px; line-height: 40px!important}
-/*	.about_row_two_intro{flex-direction: column-reverse;}*/
+	.about_row_two_intro{flex-direction: column-reverse;}
+	.row.about_row_two_intro.col_rev_do {flex-direction: column;}
 	.about_banner .unique_anchor_one{font-size: 10px;}
 	.about_banner .unique_anchor{font-size: 10px}
 	.cta_unique{display: flex;}
 	.unique-section h1, .reputed-section h1, .partners_logo h1{font-size: 32px; line-height: 40px!important}
 	.col-6.col-lg-2.liquidity_partners{max-width: 50%!important; flex: 0 0 50%;}
+	.unique_heading{font-size: 35px;
+    line-height: 40px;}
 }
 @media (min-width:768px) and (max-width: 1024px){
 	.dm_tilt_sec{

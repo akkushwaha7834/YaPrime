@@ -147,8 +147,8 @@
             <div class="col-md-12">
               <div class="qoute_wrapper_black">
                 <div class="symbol">
-                  <img src="images/EURUSD.svg">
-                  EURUSD
+                  <img src="images/currency/eur-usd.svg">
+                  EUR/USD
                 </div>
                 <div class="rate">
                     1.07424 / 1.07425
@@ -163,8 +163,8 @@
             <div class="col-md-12">
               <div class="qoute_wrapper_black">
                 <div class="symbol">
-                  <img src="images/EURUSD.svg">
-                  EURUSD
+                  <img src="images/currency/usd-jpy.svg">
+                  USD/JPY
                 </div>
                 <div class="rate">
                     1.07424 / 1.07425
@@ -179,8 +179,8 @@
             <div class="col-md-12">
               <div class="qoute_wrapper_black">
                 <div class="symbol">
-                  <img src="images/EURUSD.svg">
-                  EURUSD
+                  <img src="images/currency/gbp-usd.svg">
+                  GBP/USD
                 </div>
                 <div class="rate">
                     1.07424 / 1.07425

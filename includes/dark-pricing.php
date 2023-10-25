@@ -8,8 +8,8 @@
               <p class="check-our-white">Forex Broker Service Plans</p>
             </div>
             <div class="experience-in-forex-container">
-              <p class="experience-in-forex">Explore our best-in-industry forex broker services plans</p>
-              <p class="experience-in-forex">Specially tailored to fuel your forex trading business</p>
+              <p class="experience-in-forex">Explore our best-in-industry forex broker services plans<br>Specially tailored to fuel your forex trading business</p>
+              <!-- <p class="experience-in-forex">Specially tailored to fuel your forex trading business</p> -->
             </div>
           </div>
         </div>

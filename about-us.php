@@ -96,7 +96,7 @@
           </p>
         </div>
       </div>
-      <div class="row about_row_two_intro">
+      <div class="row about_row_two_intro col_rev_do">
         <div class="col-md-6 benefits_left">
           <h3 class="benefits_h3">
             YAPRIME 
