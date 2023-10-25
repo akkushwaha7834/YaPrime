@@ -35,7 +35,7 @@
 
     <section>
       <div class="container">
-        <div class="row postioning">
+        <div class="row">
           <div class="col-lg-6 prime_vip_section_wealth">
             <div class="text_section">
               <div class="inner_text_section">
@@ -64,7 +64,7 @@
           <div class="col-lg-5 image_section">
             <div class="inner_image_section">
               <div>
-                <img src="images/yawealthi.png" alt="frame11" />
+                <img src="images/yawealthi.png" alt="frame11" width="100%" />
               </div>
             </div>
           </div>
@@ -81,7 +81,7 @@
             <div class="yawealth_heading">
               Benefits of using Prime VIP package
             </div>
-            <div class="yawealth_discription">
+            <div class="yawealth_discription yea_des">
               Special packages are a unique offer on the Forex market for our
               new clients. They allow you to get a full set of accounts ready
               for active trading immediately after you make your first deposit.
@@ -158,7 +158,7 @@
     <!-- yawealth prime benefit section  -->
 
     <section class="yeawealth_prime_benefit__section">
-      <div class="container prime_special_section">
+      <div class="container prime_special_section prime-special-sction">
         <div class="row">
           <div class="col-lg-12">
             <div class="Benefit_first_section_yawealth">
@@ -301,10 +301,7 @@
           <div class="col-lg-5 image_section">
             <div class="inner_image_section">
               <div>
-                <img
-                  src="images/benefit_yawealth_sectionimg.png"
-                  alt="frame11"
-                />
+                <img src="images/benefit_yawealth_sectionimg.png" alt="frame11" width="100%" />
               </div>
             </div>
           </div>

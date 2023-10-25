@@ -674,11 +674,10 @@ gap: 64px;
 
 .free-service-hero-text{
   display: flex;
-
-flex-direction: column;
-align-items: flex-start;
-gap: 32px;
-flex-shrink: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+  flex-shrink: 0;
 }
 
 .free-service-hero-text span{
@@ -2201,19 +2200,10 @@ margin: 80px 0;
 .content {
   align-self: stretch;
   color: rgba(255, 255, 255, 0.52);
-  
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  /* 150% */
-}
-
-.demo_contact {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  gap: 12px;
 }
 
 
@@ -3231,10 +3221,7 @@ color: rgba(255, 255, 255, 0.52);
 }
 
 .demo_contact {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  gap: 12px;
+  margin-top: 30px;
 }
 .request_demo {
   padding: 10px 20px;
@@ -3248,8 +3235,8 @@ color: rgba(255, 255, 255, 0.52);
 
 
 .image_section {
-
-  padding: 20px 30px;}
+  display: flex;align-items: center;justify-content: center;
+}
 
 
 .postioning {
@@ -4083,12 +4070,7 @@ text-align: center;
 /* ya wealth css */
 
 .prime_vip_section_wealth {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 32px;
-  margin-top: 170px;
-  margin-left: 40px;
+  padding: 100px 0;
 }
 .ya_wealth_prime_section {
   padding: 30px 0 0px;
@@ -4193,17 +4175,7 @@ text-align: center;
   background-color: #f9fafb;
   padding: 80px 0;
 }
-.demo_contact_yawealth {
-  display: flex;
-  align-items: flex-start;
-  gap: 12px;
-  margin-top: 15px;
-}
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 
 /* ui-ux design page design */
 .Hero_banner_vvip_section_uiux {
