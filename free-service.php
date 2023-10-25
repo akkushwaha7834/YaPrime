@@ -262,7 +262,7 @@
                               <img src="images/shuttle 1.jpg"/>
                               <h5 class="card-title">Quick start up </h5>
                           </div>
-                   <br>
+                        <br>
                           <p class="card-text">Our express start-up package will provide you with an award-winning trading platform and easy to use back office system.</p>
                          
                         </div>

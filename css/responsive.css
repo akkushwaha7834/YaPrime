@@ -240,11 +240,14 @@
 	    padding-top: 20px;
 	}
 	.free-service-hero-text {
-    display: block;
-}
+	    display: block;
+	}
 	h1.mt4_h1, .prime_vvip_subheading {line-height: 40px!important;font-size: 30px;}
-	.white_label .benefits_row_two .col-md-3{flex: 100%}
-}
+		.white_label .benefits_row_two .col-md-3{flex: 100%}
+	}
+	.modal-dialog{
+		max-width: 100%;
+	}
 @media (min-width:768px) and (max-width: 1024px){
 	.dm_tilt_sec{
 		background-image: -webkit-linear-gradient(97deg, #000 94%, #fff 50%);
