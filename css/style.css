@@ -1394,9 +1394,6 @@ transition-duration: .3s
     border-radius: 40px;
 	background: #F9FAFB;
 }
-.ContactFormContainer h1{
-    color: black;
-}
 
 .ContactFormContainer {
   display: flex;
@@ -1409,7 +1406,7 @@ transition-duration: .3s
   background: #F9FAFB;
 }
 
-.ContactFormContainer h1 {
+.ContactFormContainer h2 {
   color: black;
   color: #222;
 

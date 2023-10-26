@@ -4,7 +4,7 @@
         <div class="row Talk">
           <div class="col-md-7">
             <div class="TalkUsText">
-              <h1>Talk to us!</h1>
+              <h2>Talk to us!</h2>
               <br>
               <span>Get your exclusive invite to speak with our team of Forex experts!</span>
             </div>
