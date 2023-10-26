@@ -221,11 +221,11 @@
 	.uiuxHeading, .caseStudy_information, .todo__Discription, 
 	.h2__heading, .check-our-white, .prime_vip_paragraph_special,
 	.YaPrimeMission, .benefit_preheading, .yawealth_heading,
-	.benefit_heading, .free-service-hero-text h1
-	{
+	.benefit_heading, .free-service-hero-text h1, .prime_vip_paragraph{
 		line-height: 40px!important; 
 		font-size: 30px;
 	}
+	.heading300{font-size: 40px}
 	.prime_vip_section_wealth{padding: 80px 20px}
 	.demo_contact_yawealth{margin: 30px 0;}
 	.prime_special_section{padding-bottom: 0}

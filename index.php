@@ -456,17 +456,17 @@ An exclusive account for high volume traders looking for competitive pricing and
         </div>
         <div class="row row-cols-1 row-cols-md-3 g-3">
           <div class="col">
-          <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php">
-            <div class="card blog-card ">
-              <img src="images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.jpg" class="card-img-top" alt="...">
-            <div class="card-body blog-content">
-              <h3 class="card-title">The Secrets Formula for Starting Your Own Forex Trading Brokerage</h3>
-              <br>
-              <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php" class="btn btn-primary blog-btn">2,600 Views . Oct 23, 2023</a>
-            </div>
+              <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php">
+                <div class="card blog-card ">
+                  <img src="images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.jpg" class="card-img-top" alt="...">
+                <div class="card-body blog-content">
+                  <h3 class="card-title">The Secrets Formula for Starting Your Own Forex Trading Brokerage</h3>
+                  <br>
+                  <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php" class="btn btn-primary blog-btn">2,600 Views . Oct 23, 2023</a>
+                </div>
+              </div>
+              </a>
           </div>
-          </a>
-        </div>
           <div class="col">
           <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php">
             <div class="card blog-card ">

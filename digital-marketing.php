@@ -226,41 +226,41 @@
     </div>
     <div class="row row-cols-1 row-cols-md-3 g-3 dm_blog_cards">
       <div class="col">
-        <a href="blog-details.php">
-          <div class="card blog-card ">
-          <img src="images/bestLiquity.png" class="card-img-top" alt="...">
-          <div class="card-body blog-content">
-            <h3 class="card-title">Who is a liquidity provider? Importance of?</h3>
-            <br>
-            <a href="blog-details.php" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
+              <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php">
+                <div class="card blog-card ">
+                  <img src="images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.jpg" class="card-img-top" alt="...">
+                <div class="card-body blog-content">
+                  <h3 class="card-title">The Secrets Formula for Starting Your Own Forex Trading Brokerage</h3>
+                  <br>
+                  <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php" class="btn btn-primary blog-btn">2,600 Views . Oct 23, 2023</a>
+                </div>
+              </div>
+              </a>
           </div>
-        </div>
-        </a>
-      </div>
       <div class="col">
-        <a href="blog-details.php">
-          <div class="card blog-card ">
-          <img src="images/liqity.png" class="card-img-top" alt="...">
-          <div class="card-body blog-content">
-            <h3 class="card-title">How smart brokers choose their best liquidity providers? </h3>
-            <br>
-            <a href="blog-details.php" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
+              <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php">
+                <div class="card blog-card ">
+                  <img src="images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.jpg" class="card-img-top" alt="...">
+                <div class="card-body blog-content">
+                  <h3 class="card-title">The Secrets Formula for Starting Your Own Forex Trading Brokerage</h3>
+                  <br>
+                  <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php" class="btn btn-primary blog-btn">2,600 Views . Oct 23, 2023</a>
+                </div>
+              </div>
+              </a>
           </div>
-        </div>
-        </a>
-      </div>
       <div class="col">
-        <a href="blog-details.php">
-          <div class="card blog-card ">
-          <img src="images/profittable.png" class="card-img-top" alt="...">
-          <div class="card-body blog-content">
-            <h3 class="card-title">Was the forex brokerage is a profitable business?</h3>
-            <br>
-            <a href="blog-details.php" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
+              <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php">
+                <div class="card blog-card ">
+                  <img src="images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.jpg" class="card-img-top" alt="...">
+                <div class="card-body blog-content">
+                  <h3 class="card-title">The Secrets Formula for Starting Your Own Forex Trading Brokerage</h3>
+                  <br>
+                  <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php" class="btn btn-primary blog-btn">2,600 Views . Oct 23, 2023</a>
+                </div>
+              </div>
+              </a>
           </div>
-        </div>
-        </a>
-      </div>
     </div>
   </div>
 </section>
