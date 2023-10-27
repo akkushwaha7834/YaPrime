@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg shadow positoning-fluid-container">
   <div class="container" id="container-switch" >
-    <a class="navbar-brand" href="index.php">
+    <a class="navbar-brand" href="../index.php">
       <img src="../images/yaprime__svglogo.svg" alt="logo" />
     </a>
     <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-content" >
@@ -56,7 +56,7 @@
                     </p>
                   </div>
                   <div class="col-12 col-sm-4 col-md-3 py-4">
-                    <a class="newheaderyaprime" href="../blogs.php">
+                    <a class="newheaderyaprime" href="../blog">
                       <h5 class="new-header-heading">Our Blog</h5></a>
                     <p class="new-header-paragraph-text row_positioning992">
                       Stay informed with the latest Forex insights and News.
