@@ -38,13 +38,13 @@
                 <div class="row">
                     <div class="col-md-6 col-sm-12 blog-hero-content">
                         <span><i class="fa fa-arrow-left" aria-hidden="true" width=12px height=10px ></i> Back</span>
-                        <h1> The Secrets Formula for Starting Your Own Forex Trading Brokerage</h1>
+                        <h1> The Secret Formula for Starting Your Own Forex Trading Brokerage</h1>
                         <p>
                             If you are a forex trader, you have probably thought of starting your own forex brokerage. By starting your forex trading firm, you can do things your way and provide trading platforms how you want as a forex trader. But how do you do it? What is the secret formula to <a class="blog_detail_link" href="https://www.yaprime.com"><b>start your own forex brokerage</b> </a>firm? In this blog by YaPrime, the leading forex liquidity solutions provider, we will learn about the essential steps to help start your forex trading company. 
                         </p>
                     </div>
                     <div class="col-md-6  col-sm-12 ">
-                        <img src="../images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.jpg" width="100%"/>
+                        <img src="../images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.png" width="100%"/>
                     </div>
                 </div>
             </div>
