@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg shadow positoning-fluid-container">
   <div class="container" id="container-switch" >
     <a class="navbar-brand" href="index.php">
-      <img src="images/yaprime__svglogo.svg" alt="logo" />
+      <img src="../images/yaprime__svglogo.svg" alt="logo" />
     </a>
     <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-content" >
       <div class="hamburger-toggle">
@@ -22,41 +22,41 @@
                 <div class="row">
                   <h5 class="new-header-main-heading row_positioning992">About Us</h5>
                   <div class="col-12 col-sm-4 col-md-3 py-4">
-                    <a class="newheaderyaprime" href="about-us.php">
+                    <a class="newheaderyaprime" href="../about-us.php">
                       <h5 class="new-header-heading">About Us</h5></a>
                     <p class="new-header-paragraph-text row_positioning992">
                       Learn More about YaPrime
                     </p>
-                    <a class="newheaderyaprime" href="careers.php">
+                    <a class="newheaderyaprime" href="../careers.php">
                       <h5 class="new-header-heading">Careers</h5></a>
                     <p class="new-header-paragraph-text row_positioning992">
                       Join YaPrime for exciting career opportunities.
                     </p>
-                    <a class="newheaderyaprime" href="contact-us.php">
+                    <a class="newheaderyaprime" href="../contact-us.php">
                       <h5 class="new-header-heading">Contact Us</h5></a>
                     <p class="new-header-paragraph-text row_positioning992">
                       Reach out to us anytime for inquiries and support.
                     </p>
                   </div>
                   <div class="col-12 col-sm-4 col-md-3 py-4 ">
-                    <a class="newheaderyaprime" href="why-choose-us.php">
+                    <a class="newheaderyaprime" href="../why-choose-us.php">
                       <h5 class="new-header-heading ">Why Choose Us</h5></a>
                     <p class="new-header-paragraph-text row_positioning992">
                       Choose YaPrime for reliable Forex liquidity and dedicated support.
                     </p>
-                    <a class="newheaderyaprime" href="portfolio.php"
+                    <a class="newheaderyaprime" href="../portfolio.php"
                       ><h5 class="new-header-heading">Portfolio</h5></a>
                     <p class="new-header-paragraph-text row_positioning992">
                       Explore our portfolio to see our Forex success stories.
                     </p>
-                    <a class="newheaderyaprime" href="our-teams.php">
+                    <a class="newheaderyaprime" href="../our-teams.php">
                       <h5 class="new-header-heading">Meet Our Team</h5></a>
                     <p class="new-header-paragraph-text row_positioning992">
                       Meet the experienced professionals behind YaPrime.
                     </p>
                   </div>
                   <div class="col-12 col-sm-4 col-md-3 py-4">
-                    <a class="newheaderyaprime" href="blog">
+                    <a class="newheaderyaprime" href="../blogs.php">
                       <h5 class="new-header-heading">Our Blog</h5></a>
                     <p class="new-header-paragraph-text row_positioning992">
                       Stay informed with the latest Forex insights and News.
@@ -82,7 +82,7 @@
           </div>
         </li>
          <li class="nav-item">
-          <a class="nav-link yaprimeheader-size" href="liquidity-solution.php">Liquidity Solution</a>
+          <a class="nav-link yaprimeheader-size" href="../liquidity-solution.php">Liquidity Solution</a>
         </li>
         <li class="nav-item dropdown dropdown-mega position-static">
           <a class="nav-link dropdown-toggle yaprimeheader-size" href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" >Institutional Trading</a >
@@ -94,7 +94,7 @@
                     Institutional Trading
                   </h5>
                   <div class="col-12 col-sm-4 col-md-3 py-4">
-                    <a href="prime-vip.php">
+                    <a href="../prime-vip.php">
                       <h5 class="new-header-heading">Prime VIP</h5>
                     </a>
                     <p class="new-header-paragraph-text row_positioning992">
@@ -108,7 +108,7 @@
                     </p>
                   </div>
                   <div class="col-12 col-sm-4 col-md-3 py-4">
-                    <a href="prime-vvip.php">
+                    <a href="../prime-vvip.php">
                       <h5 class="new-header-heading">Prime VVIP</h5>
                     </a>
                     <p class="new-header-paragraph-text row_positioning992">
@@ -116,13 +116,13 @@
                     </p>
                     <form class="d-flex  ">
                       <div class="input-group row_positioning992">
-                        <a href="contact-us.php"  class="btn btn-primary btnn-yellow-colour border-0" type="submit" >
+                        <a href="../contact-us.php"  class="btn btn-primary btnn-yellow-colour border-0" type="submit" >
                           Get In Touch
                         </a>
                       </div>
                   </div>
                   <div class="col-12 col-sm-4 col-md-3 py-4">
-                    <a href="prime-special.php"><h5 class="new-header-heading">Prime Special</h5></a>
+                    <a href="../prime-special.php"><h5 class="new-header-heading">Prime Special</h5></a>
                     <p class="new-header-paragraph-text row_positioning992">
                       Learn about our specialised Prime Special services
                     </p>
@@ -158,7 +158,7 @@
                   <div class="col-md-8">
                     <div class="row">
                       <div class="col-12 col-sm-4 col-md-4 py-4">
-                        <a href="white-label.php">
+                        <a href="../white-label.php">
                           <h5 class="new-header-heading">White Label</h5>
                         </a>
                         <p class="new-header-paragraph-text row_positioning992">
@@ -166,7 +166,7 @@
                         </p>
                       </div>
                       <div class="col-12 col-sm-4 col-md-4 py-4">
-                        <a href="admin-consultation.php">
+                        <a href="../admin-consultation.php">
                           <h5 class="new-header-heading">Admin Consultation</h5>
                         </a>
                         <p class="new-header-paragraph-text row_positioning992">
@@ -174,7 +174,7 @@
                         </p>
                       </div>
                       <div class="col-12 col-sm-4 col-md-4 py-4">
-                        <a href="crm-api.php">
+                        <a href="../crm-api.php">
                           <h5 class="new-header-heading">CRM & API</h5>
                         </a>
                         <p class="new-header-paragraph-text row_positioning992">
@@ -189,13 +189,13 @@
                         </h5>
                       </div>
                       <div class="col-12 col-sm-4 col-md-4 py-4">
-                        <a href="ui-ux.php">
+                        <a href="../ui-ux.php">
                           <h5 class="new-header-heading">UI/UX Design</h5>
                         </a>
                         <p class="new-header-paragraph-text row_positioning992">
                           Discover our UI/UX design services for an enhanced user experience.
                         </p>
-                        <a href="graphic-design.php">
+                        <a href="../graphic-design.php">
                           <h5 class="new-header-heading">Graphic Design</h5>
                         </a>
                         <p class="new-header-paragraph-text row_positioning992">
@@ -203,13 +203,13 @@
                         </p>
                       </div>
                       <div class="col-12 col-sm-4 col-md-4 py-4">
-                        <a href="web-development.php">
+                        <a href="../web-development.php">
                           <h5 class="new-header-heading">Web Development</h5>
                         </a>
                         <p class="new-header-paragraph-text row_positioning992">
                          Learn about our web development services to boost your online presence.
                         </p>
-                        <a href="digital-marketing.php">
+                        <a href="../digital-marketing.php">
                           <h5 class="new-header-heading">Digital Marketing</h5>
                         </a>
                         <p class="new-header-paragraph-text row_positioning992">
@@ -217,7 +217,7 @@
                         </p>
                       </div>
                       <div class="col-12 col-sm-4 col-md-4 py-4">
-                    <a href="app-development.php">
+                    <a href="../app-development.php">
                       <h5 class="new-header-heading">App Development</h5>
                     </a>
                     <p class="new-header-paragraph-text row_positioning992">
@@ -255,7 +255,7 @@
                     RESEARCH & ADVISORY
                   </h5>
                   <div class="col-12 col-sm-4 col-md-3 py-4">
-                    <a href="free-service.php">
+                    <a href="../free-service.php">
                       <h5 class="new-header-heading">Free Services</h5>
                     </a>
                     <p class="new-header-paragraph-text row_positioning992">
@@ -269,7 +269,7 @@
                     </p>
                   </div>
                   <div class="col-12 col-sm-4 col-md-3 py-4">
-                    <a href="personal-advisory.php">
+                    <a href="../personal-advisory.php">
                       <h5 class="new-header-heading">Personal Advisory</h5>
                     </a>
                     <p class="new-header-paragraph-text row_positioning992">
@@ -277,14 +277,14 @@
                     </p>
                     <form class="d-flex  ">
                       <div class="input-group">
-                        <a href="contact-us.php" class="btn btn-primary btnn-yellow-colour border-0 row_positioning992" type="submit">
+                        <a href="../contact-us.php" class="btn btn-primary btnn-yellow-colour border-0 row_positioning992" type="submit">
                           Get In Touch
                         </a>
                       </div>
                     </form>
                   </div>
                   <div class="col-12 col-sm-4 col-md-3 py-4">
-                    <a href="blogs.php">
+                    <a href="../blogs.php">
                       <h5 class="new-header-heading">Our Blog</h5>
                     </a>
                     <p class="new-header-paragraph-text row_positioning992">
@@ -315,7 +315,7 @@
           <a class="nav-link dropdown-toggle yaprimeheader-size" href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" >Wealth Services</a >
           <ul class="dropdown-menu shadow">
             <li>
-              <a class="dropdown-item yaprimeheader-size" href="ya-wealth.php"
+              <a class="dropdown-item yaprimeheader-size" href="../ya-wealth.php"
                 >Ya Wealth
               </a>
             </li>

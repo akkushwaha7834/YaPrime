@@ -6,16 +6,16 @@
     <title>YaPrime</title>
     <meta name="description" content=""/>
     <meta name="keywords" content="" />
-    <link rel="icon" type="image/x-icon" href="images/favicon.png">
-    <link rel="stylesheet" type="text/css" href="css/bootstrap5.3.0.min.css">
-    <link rel="stylesheet" type="text/css" href="css/material-design-iconic-font.min.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="fonts/font-awesome.css">
-    <link rel="stylesheet" type="text/css" href="css/font-poppins.css">
-    <link rel="stylesheet" href="css/style.css" />
-    <link rel="stylesheet" href="css/responsive.css" />
-    <script src="js/index1.js"></script>
-    <script type="text/javascript" src="js/bootstrap.bundle.min5.2.0.js"></script>
+    <link rel="icon" type="image/x-icon" href="../images/favicon.png">
+    <link rel="stylesheet" type="text/css" href="../css/bootstrap5.3.0.min.css">
+    <link rel="stylesheet" type="text/css" href="../css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="../fonts/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="../css/font-poppins.css">
+    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="stylesheet" href="../css/responsive.css" />
+    <script src="../js/index1.js"></script>
+    <script type="text/javascript" src="../js/bootstrap.bundle.min5.2.0.js"></script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-S2CT2TEW5G"></script>
     <script>
@@ -48,7 +48,7 @@ taking notes
             YaPrime blogs are about financial-related trading topics for in-depth knowledge before trading. We will <br>cover all the topics like stocks, commodities, forex, cryptocurrency, and various aspects of the financial<br> market.
           </p>
           <div class="start_broker">
-            <a class="mt4_anchor" href="start-broker.php">Start Broker </a>
+            <a class="mt4_anchor" href="../start-broker.php">Start Broker </a>
           </div>
         </div>
       </div>
@@ -62,7 +62,7 @@ taking notes
         <div class="col">
           <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php">
             <div class="card blog-card ">
-              <img src="images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.jpg" class="card-img-top" alt="...">
+              <img src="../images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.jpg" class="card-img-top" alt="...">
             <div class="card-body blog-content">
               <h3 class="card-title">The Secrets Formula for Starting Your Own Forex Trading Brokerage</h3>
               <br>
@@ -74,7 +74,7 @@ taking notes
         <div class="col">
           <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php">
             <div class="card blog-card ">
-              <img src="images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.jpg" class="card-img-top" alt="...">
+              <img src="../images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.jpg" class="card-img-top" alt="...">
             <div class="card-body blog-content">
               <h3 class="card-title">The Secrets Formula for Starting Your Own Forex Trading Brokerage</h3>
               <br>
@@ -86,7 +86,7 @@ taking notes
         <div class="col">
           <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php">
             <div class="card blog-card ">
-              <img src="images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.jpg" class="card-img-top" alt="...">
+              <img src="../images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.jpg" class="card-img-top" alt="...">
             <div class="card-body blog-content">
               <h3 class="card-title">The Secrets Formula for Starting Your Own Forex Trading Brokerage</h3>
               <br>
