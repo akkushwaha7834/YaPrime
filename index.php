@@ -324,10 +324,10 @@ An exclusive account for high volume traders looking for competitive pricing and
                         <img src="images/book.png"/>
                     </div>
                         <div class="col-md-4 whitelabel-mt4">
-                            <h5>Whitelabel</h5>
+                            <h5>CRM and API Solutions</h5>
         
-                            <span>MetaTrader 4</span>
-                            <p>Metatrader 4 bears exquisite functions that will showcase your Forex business with its own Trading Software.</p>
+                            <span>API Integration</span>
+                            <p>Our CRM and API solutions offer unique features and benefits designed specifically for forex brokerages.</p>
                      
                             <a href="contact-us.php" class="btn btn-primary submit-btn" type="submit">Buy Now</a>
                       
