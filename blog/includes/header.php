@@ -284,7 +284,7 @@
                     </form>
                   </div>
                   <div class="col-12 col-sm-4 col-md-3 py-4">
-                    <a href="../blogs.php">
+                    <a href="../blog">
                       <h5 class="new-header-heading">Our Blog</h5>
                     </a>
                     <p class="new-header-paragraph-text row_positioning992">

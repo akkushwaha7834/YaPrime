@@ -46,7 +46,7 @@
             <a href="../why-choose-us.php">
               <li>Why choose us</li>
             </a>
-            <a href="../blogs.php">
+            <a href="../blog">
               <li>Our Blog</li>
             </a>
             <a href="../careers.php">
@@ -110,7 +110,7 @@
             <a href="../personal-advisory.php">
               <li>Personal Advisory</li>
             </a>
-            <a href="../blogs.php">
+            <a href="../blog">
               <li>Our Blog</li>
             </a>
           </ul>
