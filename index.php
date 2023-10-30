@@ -467,7 +467,7 @@ An exclusive account for high volume traders looking for competitive pricing and
               </div>
               </a>
           </div>
-          <div class="col">
+          <!-- <div class="col">
           <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php">
             <div class="card blog-card ">
               <img src="images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.png" class="card-img-top" alt="...">
@@ -478,8 +478,8 @@ An exclusive account for high volume traders looking for competitive pricing and
             </div>
           </div>
           </a>
-        </div>
-          <div class="col">
+        </div> -->
+          <!-- <div class="col">
           <a href="the-secrets-formula-for-starting-your-own-forex-trading-brokerage.php">
             <div class="card blog-card ">
               <img src="images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.png" class="card-img-top" alt="...">
@@ -490,7 +490,7 @@ An exclusive account for high volume traders looking for competitive pricing and
             </div>
           </div>
           </a>
-        </div>
+        </div> -->
           
         </div>
       </div>
