@@ -83,18 +83,18 @@ taking notes
           </div>
           </a>
         </div>
-        <!-- <div class="col">
-          <a href="start-your-own-forex-brokerage.php">
+        <div class="col">
+          <a href="best-forex-company-in-india.php">
             <div class="card blog-card ">
-              <img src="../images/the-secrets-formula-for-starting-your-own-forex-trading-brokerage.png" class="card-img-top" alt="...">
+              <img src="../images/best-forex-company-in-india.png" class="card-img-top" alt="...">
             <div class="card-body blog-content">
-              <h3 class="card-title">The Secret Formula for Starting Your Own Forex Trading Brokerage</h3>
+              <h3 class="card-title">Why Start Your Forex Brokerage with The Best Forex Company in India | YaPrime</h3>
               <br>
-              <a href="start-your-own-forex-brokerage.php" class="btn btn-primary blog-btn">2,600 Views . Oct 23, 2023</a>
+              <a href="best-forex-company-in-india.php" class="btn btn-primary blog-btn">2,600 Views . Nov 21, 2023</a>
             </div>
           </div>
           </a>
-        </div> -->
+        </div>
       </div>
 
     </div>

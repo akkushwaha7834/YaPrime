@@ -37,7 +37,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-12 blog-hero-content">
-                        <span><i class="fa fa-arrow-left" aria-hidden="true" width=12px height=10px ></i> Back</span>
+                        <a href="../blog/">
+                            <span><i class="fa fa-arrow-left" aria-hidden="true" width=12px height=10px ></i> Back</span>
+                        </a>
                         <h1> The Secret Formula for Starting Your Own Forex Trading Brokerage</h1>
                         <p>
                             If you are a forex trader, you have probably thought of starting your own forex brokerage. By starting your forex trading firm, you can do things your way and provide trading platforms how you want as a forex trader. But how do you do it? What is the secret formula to <a class="blog_detail_link" href="https://www.yaprime.com"><b>start your own forex brokerage</b> </a>firm? In this blog by YaPrime, the leading forex liquidity solutions provider, we will learn about the essential steps to help start your forex trading company. 
@@ -88,34 +90,30 @@
                     </div>
                     <div class="col-md-4 ">
                         <div class="row row-cols-1 row-cols-md-1 g-1 blogs-des-cards " id="sidebar">
-                            <div class="col "  >
-                              <a href="blog-details.php">
-                                  <div class="card blog-card ">
-                                    <img src="../images/bestLiquity.png" class="card-img-top" alt="..." >
-                                    <div class="card-body blog-content">
-                                      <h3 class="card-title">Who is a liquidity provider? Importance of liquidity providers?</h3>
-                                      <p class="card-text blog-des">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                      <br>
-                                      <a href="blog-details.php" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
-                                    </div>
-                                  </div>
+                            <div class="col">
+                              <a href="best-forex-company-in-india.php">
+                                <div class="card blog-card ">
+                                  <img src="../images/best-forex-company-in-india.png" class="card-img-top" alt="...">
+                                <div class="card-body blog-content">
+                                  <h3 class="card-title">Why Start Your Forex Brokerage with The Best Forex Company in India | YaPrime</h3>
+                                  <br>
+                                  <a href="best-forex-company-in-india.php" class="btn btn-primary blog-btn">2,600 Views . Nov 21, 2023</a>
+                                </div>
+                              </div>
                               </a>
                             </div>
-                            <div class="col"  >
-                              <a href="blog-details.php">
-                                  <div class="card blog-card ">
-                                    <img src="../images/liqity.png" class="card-img-top" alt="...">
-                                    <div class="card-body blog-content">
-                                      <h3 class="card-title">How smart brokers choose their best liquidity providers? Why it's important?</h3>
-                                      <p class="card-text blog-des">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                      <br>
-                                      <a href="blog-details.php" class="btn btn-primary blog-btn">2,600 Views . Jul 19, 2023</a>
-                                    </div>
-                                  </div>
+                            <div class="col">
+                              <a href="forex-liquidity-provider.php">
+                                <div class="card blog-card ">
+                                  <img src="../images/forex-liquidity-provider.png" class="card-img-top" alt="...">
+                                <div class="card-body blog-content">
+                                  <h3 class="card-title">The Complete Forex Brokerage Business Plan Guide - <br>YaPrime</h3>
+                                  <br>
+                                  <a href="forex-liquidity-provider.php" class="btn btn-primary blog-btn">2,100 Views . Oct 30, 2023</a>
+                                </div>
+                              </div>
                               </a>
                             </div>
-
-
                           </div>
                     </div>
 
