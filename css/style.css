@@ -620,7 +620,7 @@ gap: 64px;
 
 }
 .blog-description p{
-  color: rgba(34, 34, 34, 0.52);
+  color: #000;
 
 font-size: 16px;
 font-style: normal;
@@ -628,7 +628,7 @@ font-weight: 400;
 line-height: 28px;
 }
 
-.blog-hero-content p {color: rgba(34, 34, 34, 0.52);
+.blog-hero-content p {color: #000;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
