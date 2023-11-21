@@ -37,7 +37,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-12 blog-hero-content">
-                        <span><i class="fa fa-arrow-left" aria-hidden="true" width=12px height=10px ></i> Back</span>
+                        <a href="../blog/">
+                            <span><i class="fa fa-arrow-left" aria-hidden="true" width=12px height=10px ></i> Back</span>
+                        </a>
                         <h1>The Complete Forex Brokerage Business Plan Guide - YaPrime</h1>
                         <h4>Introduction - Starting Your Own Forex Brokerage</h4>
                         <p>
