@@ -95,6 +95,18 @@ taking notes
           </div>
           </a>
         </div>
+        <div class="col">
+          <a href="forex-brokerage-solutions.php">
+            <div class="card blog-card ">
+              <img src="../images/forex-brokerage-solutions.png" class="card-img-top" alt="...">
+            <div class="card-body blog-content">
+              <h3 class="card-title">Start a Profitable Forex Brokerage Firm with YaPrime’s Forex Brokerage Solutions</h3>
+              <br>
+              <a href="forex-brokerage-solutions.php" class="btn btn-primary blog-btn">2,600 Views . Dec 04, 2023</a>
+            </div>
+          </div>
+          </a>
+        </div>
       </div>
 
     </div>
